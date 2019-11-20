@@ -2,7 +2,7 @@
 
 Om het digitale gegevensverkeer in al haar facetten te stroomlijnen, kom je
 binnen het omgevingswetdomein drie groepen standaarden tegen:
-informatiemodellen, berichtenmodellen en presentatiemodellen (voor de weergave).
+informatiemodellen, berichtenmodellen en presentatiemodellen.
 
 *Informatiemodel*
 
@@ -26,4 +26,4 @@ hoogte kunnen worden gesteld van wijzigingen in een bepaald omgevingsdocument.
 Het presentatiemodel zorgt ervoor dat het mogelijk is om door alle koppelingen
 van ingevoerde gegevens zowel een kaart als de bijbehorende regeltekst
 **ZICHTBAAR TE MAKEN** die duidelijk en ondubbelzinnig **LEESBAAR** is voor de
-eindgebruiker.
+eindgebruiker. De weergave is hier het belangrijkste uitgangspunt.

@@ -21,11 +21,7 @@ annotaties in de praktijk gaan werken.
 
 Een juridische regel kun je annoteren met een (of meerdere) van bovenstaande
 inhoudelijke annotaties. De regeltekst bevat de juridische regel(s). In technische zin zal
-een annotatie gekoppeld worden op het niveau van de regeltekst. Zoals eerder is
-toegelicht is de regeltekst het artikel, en indien deze leden bevat, dan zijn de
-afzonderlijke leden óók regeltekst. De annotaties worden gekoppeld op het
-kleinste niveau van de regeltekst. Dat betekent dat als een artikel leden bevat,
-de annotaties gekoppeld worden op het niveau van het lid.
+een annotatie gekoppeld worden op het niveau van de regeltekst. 
 
 In het DSO-LV zal bij bevraging wel het gehele artikel met leden getoond worden,
 zodat de gebruiker de juridische regels in de juiste en volledige context kan

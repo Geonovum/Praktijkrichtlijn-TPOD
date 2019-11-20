@@ -8,7 +8,7 @@ die worden gesteld op grond van de Waterschapswet.
 
 De waterschapsverordening richt zich specifiek op het watersysteem en bevat
 onder andere regels met betrekking tot beheer, regels over lozingen of
-beperkingengebiedactiviteiten m.b.t. een waterstaatswerk.
+beperkingengebiedactiviteiten met betrekking tot een waterstaatswerk.
 
 Daarnaast kan de waterschapsverordening zich richten op het vaarwegbeheer en
 wegenbeheer, voor die gebieden waarvoor het waterschap dat soort beheer uitvoert

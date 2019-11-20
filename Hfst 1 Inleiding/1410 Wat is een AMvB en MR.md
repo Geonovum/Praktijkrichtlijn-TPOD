@@ -12,4 +12,5 @@ de fysieke leefomgeving.
 
 Bij AMvB kunnen onder andere instructieregels worden gesteld en omgevingswaarden
 worden vastgesteld. Bij MR kunnen onder andere instructieregels worden gesteld
-en worden werkingsgebieden geometrisch begrensd.
+en worden werkingsgebieden geometrisch begrensd. De omgevingsregeling is hier
+een goed voorbeeld van.

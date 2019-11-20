@@ -1,13 +1,15 @@
 #### Waar staan de afkortingen STOP en TPOD voor?
 
 Er is één generieke standaard ontwikkeld voor alle overheidspublicaties: de
-Standaard Officiële Overheidspublicaties, ofwel STOP. Deze standaard ondersteunt
-de functies opstellen, vaststellen, bekendmaken en beschikbaar stellen van
-officiële publicaties via een landelijke voorziening.
+Standaard Officiële Overheidspublicaties, afgekort de STOP. Deze standaard
+ondersteunt de functies opstellen, vaststellen, bekendmaken en beschikbaar
+stellen van alle officiële overheidspublicaties via een landelijke voorziening.
 
 Aanvullend op de STOP standaard zijn er Toepassingsprofielen voor
-Omgevingsdocumenten (TPOD). Een TPOD definieert de specifieke toepassing van de
-STOP voor omgevingsdocumenten. Het toepassingsprofiel beschrijft:
+Omgevingsdocumenten, afgekort TPOD. Een TPOD definieert de specifieke toepassing
+van de STOP voor omgevingsdocumenten.
+
+Het toepassingsprofiel beschrijft:
 
 -   *welke* gegevens over een besluit er moeten worden opgenomen;
 

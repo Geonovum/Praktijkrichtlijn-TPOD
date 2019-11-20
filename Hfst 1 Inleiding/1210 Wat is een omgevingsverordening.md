@@ -12,8 +12,8 @@ doorwerken naar derden. De provincie kan daartoe in de omgevingsverordening
 algemeen bindende regels en instructieregels opnemen, omgevingswaarden
 vaststellen en beperkingengebieden aanwijzen.
 
-Voor zover het gaat om regels waarmee functies aan locaties worden toegedeeld
-ligt het primaat bij het omgevingsplan. Het uitgangspunt is dat de provincie op
+Voor zover het gaat om regels waarmee functies aan locaties worden toegedeeld,
+ligt het primair bij het omgevingsplan. Het uitgangspunt is dat de provincie op
 dat punt alléén instructieregels opneemt in de omgevingsverordening over de
 inhoud van omgevingsplannen. Maar als het onderwerp van zorg niet doelmatig en
 doeltreffend met een instructieregel of een instructie kan worden behartigd,

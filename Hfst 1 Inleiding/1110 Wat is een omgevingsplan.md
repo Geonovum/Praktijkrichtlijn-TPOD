@@ -1,7 +1,7 @@
 #### Wat is een omgevingsplan?
 
 De gemeente stelt regels op over de fysieke leefomgeving en legt deze vast in
-één omgevingsplan voor het gehele grondgebied. Het omgevingsplan bevat in de
+één omgevingsplan voor haar gehele grondgebied. Het omgevingsplan bevat in de
 eerste plaats de regels die op grond van de Omgevingswet worden gesteld en
 daarnaast ook regels over de fysieke leefomgeving die worden gesteld op grond
 van de Gemeentewet en andere bijzondere wetten.

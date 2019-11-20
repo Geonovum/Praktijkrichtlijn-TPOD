@@ -1,6 +1,6 @@
-﻿### Wat zijn belangrijke onderwerpen om te verkennen voor wie omgevingswetbesluiten opstelt en vastlegt?
+### Wat zijn belangrijke onderwerpen om te verkennen voor wie omgevingsdocumenten opstelt en vastlegt?
 
-Voor wie met het opstellen en vastleggen van omgevingsbesluiten aan de slag
+Voor wie met het opstellen en vastleggen van omgevingsdocumenten aan de slag
 gaat, zijn de volgende onderwerpen zeer de moeite waard om in te duiken.
 
 -   [Regeltekst](/regeltekst-en-formele-inhoud)  
@@ -8,17 +8,16 @@ gaat, zijn de volgende onderwerpen zeer de moeite waard om in te duiken.
     horende juridische regels: een artikel of lid. Het maakt onderdeel uit van
     de regels. Lees meer over wat regeltekst en juridische regels zijn.
 
--   [Locatie en
-    werkingsgebied](/locatie-en-werkingsgebied)  
+-   [Locatie en werkingsgebied](/locatie-en-werkingsgebied)  
     Lees meer over hoe je locaties vastlegt en welke toevoegingen nodig zijn om
     geografische gegevens te combineren (stapelen), te waarderen (activiteit
     toekennen) of te koppelen aan regeltekst.
 
 -   [Annoteren](/annoteren-0)  
     Annoteren is het toevoegen van informatie aan een deel van een tekst en/of
-    werkingsgebied van een omgevingsdocument. Annotaties zijn mogelijk op vrijwel alle
-    objecten of tekstelementen. Ze helpen om regels op hun kenmerken te vinden
-    wanneer een gebruiker met zoektermen werkt.
+    werkingsgebied van een omgevingsdocument. Annotaties zijn mogelijk op
+    vrijwel alle objecten of tekstelementen. Ze helpen om regels op hun
+    kenmerken te vinden wanneer een gebruiker met zoektermen werkt.
 
 -   [Presenteren](/presenteren)  
     Om beeld correct weer te geven beschrijft het presentatiemodel hoe je
@@ -29,8 +28,7 @@ gaat, zijn de volgende onderwerpen zeer de moeite waard om in te duiken.
     verschillende applicaties worden weergegeven met een door die applicatie
     bepaalde stijl.
 
--   [Wijzigingen doorvoeren (muteren en
-    consolideren)](/muteren-en-consolideren)  
+-   [Wijzigingen doorvoeren (muteren en consolideren)](/muteren-en-consolideren)  
     Welke stappen zijn nodig om een besluit te wijzigen? Hoe worden wijzigingen
     aangebracht in de verschillende onderdelen van een besluit (regeltekst,
     werkingsgebied)? En hoe en wanneer wordt een wijziging van een besluit
