@@ -1,8 +1,8 @@
-#### Locatie en tekstdeel als aparte objecten
+﻿#### Locatie en tekstdeel als aparte objecten
 
 Informatiekundig worden tekstdeel en locatie als twee aparte objecten gezien.
 Dit maakt het mogelijk om dezelfde locatie te gebruiken in verschillende delen
-van de tekst en in bijvoorbeeld verschillende gebiedsaanwijzingen, mits bewust
+van de tekst en in bijvoorbeeld verschillende gebiedsaanwijzingen, mits wel bewust
 dezelfde locatie wordt bedoeld.
 
 Wanneer een locatie wijzigt, bijvoorbeeld als de geometrie verandert of een
@@ -14,7 +14,6 @@ Het is ook mogelijk om juist aparte locaties te gebruiken die een gelijke
 geometrische afbakening kennen. Dit kan nodig zijn wanneer de geometrische
 afbakening van een tekstdeel juist niet mee mag veranderen als de locatie
 hiervan moet wijzigen vanuit een ander tekstdeel.
-
 Zo kunnen er bijvoorbeeld vijf verschillende tekstdelen tegelijkertijd geldig
 zijn, op evenzoveel geometrisch afgebakende locaties, waarbij de locaties exact
 dezelfde geometrie hebben en geïnspireerd zijn op exact dezelfde fysieke

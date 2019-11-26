@@ -1,4 +1,4 @@
-#### Locatie en projectgebied in context
+﻿#### Locatie en projectgebied in context
 
 Omdat het projectbesluit zelf (deel 1 van het projectbesluit) geen
 werkingsgebied bevat en het ambtsgebied nagenoeg altijd groter is dan het gebied
@@ -16,6 +16,7 @@ duiden, is een toelichting nodig op begrippen die met deze twee termen van doen
 hebben. In onderstaand figuur zijn deze begrippen in vereenvoudigde weergave met
 elkaar in verband gebracht.
 
+![](media/3205PGenLocatieaanduiding.png)
 *Conceptuele weergave van locatie en projectgebied en de relatie met andere
 relevante begrippen*
 

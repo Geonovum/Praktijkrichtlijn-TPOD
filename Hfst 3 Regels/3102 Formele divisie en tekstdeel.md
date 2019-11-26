@@ -1,25 +1,15 @@
-#### Formele divisie en tekstdeel
+﻿#### Formele divisie en tekstdeel
 
 De formele divisie is een structuurobject waarin beleidsteksten in de vorm
-van formele inhoud vastgelegd kunnen worden en komt van origine uit de officiële
+van formele inhoud vastgelegd worden en komt van origine uit de officiële
 overheidspublicaties (STOP). Het is daar in principe de kop boven de formele
-inhoud. Formele inhoud is de STOP/TPOD-term voor de kleinste zelfstandige
-eenheid van (een of meer) bij elkaar horende tekstdelen in een tekst met
-vrijetekststructuur die juridische inhoud bevat.
-
-Kort gezegd is de formele divisie het object wat de koppeling vormt tussen OW en
-OP.
+inhoud. Kort gezegd is de formele divisie het object wat de koppeling vormt 
+tussen objecten van de Omgevingswet (Toepassingsprofielen) en Officiële publicaties (STOP).
 
 Het lijkt logisch om annotaties te verwijzen naar de formele inhoud, maar om
 naar deze objecten te kunnen verwijzen vanuit de omgevingswet is een ander
-type koppeling nodig om de annotatie te kunnen maken. De Formele Divisie bevat
-gelijkwaardige identificaties voor zowel officiële overheidspublicaties
-(CIMOP/IMOP) als ook voor de omgevingswet modellen (CIMOW/IMOW). Daarmee wordt
-een 1op1 koppeling gerealiseerd tussen beide modellen.  De Formele Divisie is
-het structuurelement dat gebruikt wordt voor de structurering van de overige
-onderdelen.  Een lagere Formele divisie in OW kan ook aan een lagere Formele
-Divisie in OP gekoppeld worden. De formele divisie is hierbij vergelijkbaar met
-de regeltekst in een artikelstructuur.
+type koppeling nodig om de annotatie te kunnen maken. Bovendien komt bij de bevraging 
+de kop (bijvoorbeeld hoofdstuk) ook mee. Hiermee is de optimale koppeling gewaarborgd.
 
 Tekstdeel is een conceptuele constructie waarmee een annotatie naar een Formele
 Divisie kan verwijzen. Deze annotaties kunnen een locatie, gebiedsaanwijzing,
@@ -32,10 +22,9 @@ weer vereist om verschillende tekstdelen te gebruiken. Er kunnen ook meerdere
 tekstdelen naar een (of meerdere) formele divisie(s) verwijzen. Zie afbeelding
 hieronder.
 
-![](media/caeba22c3c7f990bcf615cdbb6c62dea.png)
+![](media/3102FormeleDivisieTekstdeel.png)
 
-*Conceptuele weergave van formele inhoud divisie en tekstdeel
-\*\*\*\*\*afbeelding aanpassen!!!!*
+*Conceptuele weergave van formele inhoud, formele divisie en tekstdelen*
 
 Bij bevraging in bijvoorbeeld DSO-LV zal altijd de volledige formele inhoud
 onder de formele divisie als resultaat worden weergegeven en nooit het

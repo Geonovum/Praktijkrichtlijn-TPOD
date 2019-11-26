@@ -1,4 +1,4 @@
-#### Locatie en projectgebied
+﻿#### Locatie en projectgebied
 
 Een belangrijk uitgangspunt van STOP is dat ieder besluit een werkingsgebied
 heeft. Werkingsgebied is een abstract, conceptueel begrip: het gebied waar een
@@ -14,7 +14,7 @@ omgevingsplan](https://wegwijzerstoptpod.nl/omgevingsplan/regels-omgevingsplan-w
 De termen locatie en projectgebied hebben in de STOP/TPOD een verschillende
 specifieke betekenis. De volgende alinea’s bevatten de informatie over beide
 begrippen, de samenhang ertussen en de daarbij behorende begrippen, zoals
-formele divisie, tekstdeel en locatieaanduiding.
+tekstdeel en locatieaanduiding.
 
 Het doel is om inzicht te bieden in de betekenis van deze termen. Hiertoe worden
 de verschillende begrippen toegelicht en een paar voorbeelden uitgewerkt. Dit

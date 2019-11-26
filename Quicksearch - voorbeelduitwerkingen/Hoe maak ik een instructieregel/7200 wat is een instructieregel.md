@@ -6,8 +6,6 @@ uitoefenen. Instructieregels vervangen onder andere de regels zoals die te
 vinden zijn in het Besluit algemene regels ruimtelijke ordening of in de
 provinciale verordeningen. Een instructieregel is altijd onderdeel van het
 Besluit kwaliteit leefomgeving (Bkl) of van de omgevingsverordening van de
-provincie.
-
-Instructieregels kunnen worden gesteld over de uitoefening van een bevoegdheid
-of een taak. Ze richten zich dus tot een bepaald instrument of een
-taakuitoefening.
+provincie. Op [de website van Aan de slag met de
+Omgevingswet](https://aandeslagmetdeomgevingswet.nl/regelgeving/instrumenten/instructieregel/)
+is de instructieregel nader toegelicht.

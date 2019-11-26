@@ -1,9 +1,8 @@
-#### Locatie
+﻿#### Locatie
 
 Een belangrijk uitgangspunt van STOP is dat ieder besluit een werkingsgebied
 heeft. Werkingsgebied is een abstract, conceptueel begrip: het gebied waar een
 regeltekst (dus een artikel of een lid) zijn werking heeft.
-
 Een omgevingsvisie bevat geen regeltekst en heeft géén werkingsgebied. De
 omgevingsvisie kent enkel locaties. De volgende alinea’s bevat informatie over
 hoe de locatie werkt. Dit geeft inzicht in de globale werking ervan en is niet
