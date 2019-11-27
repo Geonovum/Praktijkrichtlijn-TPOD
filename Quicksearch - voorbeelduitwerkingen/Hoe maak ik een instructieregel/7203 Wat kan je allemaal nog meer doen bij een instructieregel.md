@@ -23,7 +23,7 @@ omgevingswaarde.
 
 ![](media/7203InstructieregelRijkCijfers.png)
 
->   *4. Geef aan welk thema het betreft*  
+>   **4. Geef aan welk thema het betreft**  
 >   Het toevoegen van een thema aan de regel heeft effect op het zoeken en filteren
 >   in het DSO. Alle bestuurslagen kunnen hun beleid en regels annoteren met een
 >   thema, dit is een tekstgebonden attribuut. Dit betekent dat het regels en beleid
@@ -34,7 +34,7 @@ omgevingswaarde.
 >   gewenste waarde niet op de lijst voorkomt, kun je zelf een waarde definiëren.
 >   Deze waarde wordt niet opgenomen in de waardelijst.
 
->   *5. Geef aan welke andere regeltekst relevant is in relatie tot deze regeltekst*  
+>   **5. Geef aan welke andere regeltekst relevant is in relatie tot deze regeltekst**  
 >   Het is mogelijk om de instructieregel (=regeltekst) aan een andere regeltekst te
 >   relateren. De relatie kan worden gemaakt tussen twee regelteksten binnen
 >   hetzelfde omgevingsdocument, maar ook naar een regeltekst van een ander

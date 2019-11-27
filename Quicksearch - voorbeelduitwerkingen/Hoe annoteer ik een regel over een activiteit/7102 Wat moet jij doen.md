@@ -17,34 +17,22 @@ Omgevingswet](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpag
 De lijst van mogelijke waarden zal uiteindelijk geïntegreerd zijn
 in de planmaaksoftware.
 
-Zie hieronder een voorbeeld van een instructieregel voor een omgevingsplan over
-het ‘extensiveringsgebied glastuinbouw’ en wat jij als opsteller moet aangeven:
+Zie hieronder een voorbeeld van een regel over het 'aanleggen van een uitrit'
+ en wat jij als opsteller moet aangeven:
 
-![](media/7202InstructieregelBasisCijfers.png)
+![](media/7102RegelZonderActiviteitBasis.png)
 
 >   **1. Type regel: om welk type regel gaat het en aan wie is het gericht?**  
 >   **a)** Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
 >   een instructieregel of een omgevingswaarderegel. Een instructieregel is
->   altijd gericht aan een ander instrument of taakbevoegdheid, daardoor kan een
->   instructieregel nooit een regel voor iedereen of een omgevingswaarderegel
->   (zelfbindend voor het bestuursorgaan dat de omgevingswaarde vaststelt) zijn.
->   Alle regels binnen een artikel moeten van hetzelfde type zijn. Indien er
->   sprake is van een instructieregel, dan moet dat specifiek aangegeven worden.
->   Hierdoor komen er twee nieuwe attributen bij; b) en c).  
->   **b)** Geef aan of de instructieregel zich richt tot een instrument en/of
->   taakuitoefening. In het voorbeeld is er sprake van een instructieregel
->   gericht aan een instrument, waardoor het attribuut Instructieregel
->   Instrument erbij komt. Wanneer er sprake is van een instructieregel die zich
->   (ook) richt tot een taakuitoefening, komt (ook) het attribuut
->   Taakuitoefening erbij. In dat geval wordt een waarde gekozen van de
->   waardelijst Adressaat.  
->   **c)** Geef aan tot welk instrument de regel zich richt. In het voorbeeld is er
->   sprake van het omgevingsplan. Andere mogelijke instrumenten zijn terug te
->   vinden in de waardelijst InstructieregelInstrument.
+>   gericht aan een ander instrument of taakbevoegdheid en een omgevingswaarderegel
+>   is zelfbindend voor het bestuursorgaan dat de omgevingswaarde vaststelt. Een regel
+>   over een activiteit is daarom altijd een 'regel voor iedereen'. 
+>   Alle regels binnen een artikel moeten van hetzelfde type zijn. 
 
 >   **2. Locatie: op welke locatie is deze regel van toepassing?**  
 >   Om de raadpleger via Omgevingsloket van de juiste informatie te voorzien, is het
->   noodzakelijk om aan te geven waar de instructieregel van toepassing is. Geef
+>   noodzakelijk om aan te geven waar de regel over een activiteit van toepassing is. Geef
 >   hiervoor aan op welke locatie de regel van toepassing is.
 
 >   **3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?**
@@ -60,7 +48,12 @@ het ‘extensiveringsgebied glastuinbouw’ en wat jij als opsteller moet aangev
 >   daadwerkelijke plek bepaald.
 
 Dankzij het annoteren van de ‘idealisatie’ en het aangeven van de bijbehorende
-‘locatie’ is precies duidelijk waar de regel van toepassing is. De raadpleger
-kan nu in het Omgevingsloket op een plek in de kaart prikken en ziet dan dat
-artikel 2.2 *daar* van toepassing is en weet dat de instructieregel voor het
-omgevingsplan geldt.
+‘locatie’ is precies duidelijk waar de regel van toepassing is en hoe de locatie 
+geïnterpreteerd moet worden. De raadpleger kan nu in het Omgevingsloket op een plek 
+in de kaart prikken en ziet dan dat artikel 2.14 *daar* van toepassing is en kan zien
+dat de regel *voor iedereen* (en dus ook voor hem) van toepassing is. 
+
+Hij moet echter nog steeds wel de tekst lezen en correct interpreteren om te weten om welke 
+activiteit het gaat en of deze verboden, vergunningsplichtig et cetera is. Ook is deze 
+methode niet voldoende om via de vergunningchecker te kunnen achterhalen of hij ergens 
+een vergunning voor moet aanvragen. 

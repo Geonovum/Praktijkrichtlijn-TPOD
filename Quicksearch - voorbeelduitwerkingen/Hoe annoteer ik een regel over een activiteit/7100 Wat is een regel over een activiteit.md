@@ -1,9 +1,11 @@
 ﻿#### Wat is een regel over een activiteit?
 
-Burgers, bedrijven en overheden kunnen initiatieven ontwikkelen. De initiatieven
-kunnen activiteiten omvatten die de fysieke leefomgeving beïnvloeden. Regels
-over activiteiten zijn regels die voor iedereen gelden en kunnen door
-verschillende bestuurslagen opgesteld worden. Voor activiteiten kunnen regels gelden 
-uit 1 van de 4 Algemene Maatregelen van Bestuur, de omgevingsverordening, het 
-omgevingsplan of de waterschapsverordening. Daarnaast kan het projectbesluit wijzigingen 
-aanbrengen op het omgevingsplan. 
+Een activiteit in de zin van de Omgevingswet is ieder menselijk handelen of nalaten 
+waardoor een verandering of effect in de fysieke leefomgeving wordt of kan worden 
+bewerkstelligd. Ieder van de vier bevoegd gezagen kan regels over activiteiten stellen. 
+Die regels kunnen gesteld worden in een instrument dat zijn basis vindt in de Omgevingswet: 
+Algemene Maatregel van Bestuur & Ministeriële Regeling (Rijk), omgevingsverordening 
+(provincies), waterschapsverordening (waterschappen) en omgevingsplan (gemeenten).
+Daarnaast kan het projectbesluit wijzigingen aanbrengen op het omgevingsplan. 
+Op de website van [Aan de slag met de Omgevingswet](https://aandeslagmetdeomgevingswet.nl/regelgeving/regels-voor-activiteiten/)
+is de regel over een activiteit nader toegelicht.

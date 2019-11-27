@@ -12,7 +12,7 @@ omgevingsdocument moet je dus aan de slag met:
 
 Voor het annoteren van de tekst is hierna uitgelegd welke gegevens jij moet of
 kunt toevoegen. Een deel van de gegevens zit in waardelijsten. De waardelijsten
-zijn geen onderdeel van het IMOW, ze worden beheerd in de [stelselcatalogus
+zijn raadpleegbaar via de [stelselcatalogus
 Omgevingswet](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina). 
 De lijst van mogelijke waarden zal uiteindelijk geïntegreerd zijn
 in de planmaaksoftware.
@@ -21,19 +21,19 @@ Zie hieronder een voorbeeld van een artikel met de begripsbepalingen en wat jij 
 
 ![](media/7302OverigeRegelBasis.png)
 
->   *1. Type regel: om welk type regel gaat het en aan wie is het gericht?*  
->   a) Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
+>   **1. Type regel: om welk type regel gaat het en aan wie is het gericht?**  
+>   Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
 >   een instructieregel of een omgevingswaarderegel. Een overige regel is per definitie
 >   niet een instructieregel of een omgevingswaarderegel. Zoals dit voorbeeld aangeeft, is
 >   het artikel met de begripsbepalingen van het type 'regel voor iedereen'. 
 >   Alle regels binnen een artikel moeten van hetzelfde type zijn. 
 
->   *2. Locatie: op welke locatie is deze regel van toepassing?*  
+>   **2. Locatie: op welke locatie is deze regel van toepassing?**  
 >   Om de raadpleger via Omgevingsloket van de juiste informatie te voorzien, is het
 >   noodzakelijk om aan te geven waar de regel van toepassing is. Geef
 >   hiervoor aan op welke locatie de regel van toepassing is.
 
->   *3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?*
+>   **3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?**
 >   Als je hebt aangegeven op welke locatie deze regel van toepassing is, kun je
 >   vervolgens met de idealisatie aangeven of de begrenzing van de locatie voor déze
 >   regel exact of indicatief geïnterpreteerd moet worden. Dit attribuut zegt dus

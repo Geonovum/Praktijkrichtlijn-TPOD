@@ -1,7 +1,7 @@
 #### Wat is een overige regel?
 
 Een overige regel is niet een type regel die zijn herkomst heeft in de Omgevingswet 
-of in de STOP/TPOD terugkomt. In deze wegwijzer bedoelen we met de ‘overige regel’ 
+of in de STOP/TPOD terugkomt. In de praktijkrichtlijnen bedoelen we met de ‘overige regel’ 
 alle regels die niet één van onderstaande is:
 
 -   [regel over een activiteit](https://wegwijzerstoptpod.nl/hoe-maak-ik-een-regel-over-een-activiteit);

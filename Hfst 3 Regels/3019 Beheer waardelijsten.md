@@ -1,7 +1,7 @@
 #### Beheer waardelijsten
 
-De waardelijsten en individuele waarden binnen de waardelijsten zijn geen
-onderdeel van het informatiemodel omgevingswet (IMOW). In het IMOW is bij de
+De waardelijsten en individuele waarden binnen de waardelijsten zijn
+onderdeel van STOP/TPOD. In het IMOW is bij de
 relevante attributen aangegeven dat er sprake is van een waardelijst (codelist)
 en wat de naam is van de waardelijst. De waardelijsten zelf zijn toegankelijk
 via de [stelselcatalogus
@@ -15,3 +15,9 @@ alfabetisch gesorteerd en staan de verschillende versies van de waardelijst
 onder elkaar. Zie de rode cirkel in onderstaand figuur.
 
 ![](media/3019Stelselcatalogus.jpg)
+
+Wanneer een gewenste waarde niet op één van de lijsten voorkomt kan ieder bevoegd gezag een 
+verzoek tot wijziging van de waardelijst indienen. Vervolgens wordt dit verzoek op de wensen-
+en eisenlijst geplaatst en gaat de procedure voor wijzigingen lopen. Een verzoek moet
+gericht worden aan de helpdesk van Geonovum door een mail te sturen naar 
+[omgevingswet@geonovum.nl](omgevingswet@geonovum.nl). 
