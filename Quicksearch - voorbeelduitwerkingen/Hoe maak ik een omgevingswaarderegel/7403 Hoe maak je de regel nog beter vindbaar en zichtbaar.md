@@ -55,4 +55,4 @@ moet worden.
 >   normwaarde in woorden is beschreven. In het veld waarde vul je dan “zie
 >   regeltekst” in.
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Normwaarde kwalitatief.png)
+![](media/Praktijkrichtlijnen_Omgevingswaarde_Kwalitatief.png)

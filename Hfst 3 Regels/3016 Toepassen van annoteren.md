@@ -9,6 +9,8 @@ Groen= Annotatie is van toepassing
 
 Rood= Annotatie is niet van toepassing
 
+![](media/3016OverzichtInhoudelijkeAnnotaties.png)
+
 *Annotatiemogelijkheden per omgevingsdocument*
 
 In de TPOD van het specifieke omgevingsdocument is in elke paragraaf 6.4 nader

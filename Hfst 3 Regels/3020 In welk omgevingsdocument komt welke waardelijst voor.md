@@ -11,7 +11,7 @@ Onderstaande tabel bevat het totaaloverzicht en geeft hierin aan:
 -   Welk IMOW-object het attribuut bevat waar de waardelijst van toepassing is.
     In de eerste kolom tussen haakjes *(cursief)* de naam van het IMOW-object;
 
--   Welke waardelijst voor welk omgevingsdocument van toepassing is (X).
+-   Welke waardelijst voor welk omgevingsdocument van toepassing is (V).
 
 |                                                                                  | **Omgevingsplan** | **Omgevingsverordening** | **Waterschapsverordening** | **AMvB & MR** | **Omgevingsvisie** | **Projectbesluit (deel 1)** |
 |----------------------------------------------------------------------------------|-------------------|--------------------------|----------------------------|---------------|--------------------|-----------------------------|

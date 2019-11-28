@@ -20,4 +20,4 @@ Wanneer een gewenste waarde niet op één van de lijsten voorkomt kan ieder bevo
 verzoek tot wijziging van de waardelijst indienen. Vervolgens wordt dit verzoek op de wensen-
 en eisenlijst geplaatst en gaat de procedure voor wijzigingen lopen. Een verzoek moet
 gericht worden aan de helpdesk van Geonovum door een mail te sturen naar 
-[omgevingswet@geonovum.nl](omgevingswet@geonovum.nl). 
+omgevingswet@geonovum.nl. 

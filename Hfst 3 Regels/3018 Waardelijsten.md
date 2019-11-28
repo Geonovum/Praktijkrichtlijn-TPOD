@@ -17,6 +17,5 @@ Waardelijsten zijn er in twee vormen:
 
 -   Open waardelijst:  
     er mag gekozen worden uit een lijst met vooraf gedefinieerde waarden, maar
-    er mag ook een eigen waarde gebruikt worden die dan vaak aan bepaalde
-    voorwaarden moet voldoen. Deze waarde wordt niet aan de waardelijst
+    er mag ook een eigen waarde gebruikt worden. Deze waarde wordt niet aan de waardelijst
     toegevoegd.
