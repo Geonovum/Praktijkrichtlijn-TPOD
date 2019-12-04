@@ -1,4 +1,4 @@
-#### Wat is een omgevingswaarde?
+﻿#### Wat is een omgevingswaarde?
 
 Omgevingswaarden zijn bedoeld voor het bereiken en in stand houden van een
 veilige en gezonde fysieke leefomgeving. Ze leggen de kwaliteit vast die de
@@ -22,3 +22,9 @@ Omgevingswet gevolgen voor de overheid, namelijk de plicht tot het door middel
 van monitoring bewaken van de omgevingswaarde en de plicht om bij dreigende
 overschrijding een programma vast te stellen met maatregelen om alsnog aan de
 omgevingswaarde te voldoen.
+
+Het Rijk, de provincie en de gemeente kunnen omgevingswaarderegels vaststellen.
+Die omgevingswaarderegels kunnen gesteld worden in een instrument dat zijn basis vindt in de Omgevingswet: 
+Algemene Maatregel van Bestuur & Ministeriële Regeling (Rijk), omgevingsverordening 
+(provincies), en omgevingsplan (gemeenten).
+Daarnaast kan het projectbesluit wijzigingen aanbrengen op het omgevingsplan.

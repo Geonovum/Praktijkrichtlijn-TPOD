@@ -37,7 +37,7 @@ het ‘extensiveringsgebied glastuinbouw’ en wat jij als opsteller moet aangev
 >   Instrument erbij komt. Wanneer er sprake is van een instructieregel die zich
 >   (ook) richt tot een taakuitoefening, komt (ook) het attribuut
 >   Taakuitoefening erbij. In dat geval wordt een waarde gekozen van de
->   waardelijst Adressaat.  
+>   waardelijst InstructieregelTaakuitoefening.  
 >   **c)** Geef aan tot welk instrument de regel zich richt. In het voorbeeld is er
 >   sprake van het omgevingsplan. Andere mogelijke instrumenten zijn terug te
 >   vinden in de waardelijst InstructieregelInstrument.

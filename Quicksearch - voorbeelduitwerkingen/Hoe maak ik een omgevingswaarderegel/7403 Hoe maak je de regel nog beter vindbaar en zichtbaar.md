@@ -7,9 +7,17 @@ zoeken en te filteren op trefwoorden of categorieën.
 In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 moet worden.
 
+![](media/Praktijkrichtlijnen_Omgevingswaarde_Middel.png)
+
 >   **4. Naam: geef de omgevingswaarde een naam.**  
->   Dit is de naam van de omgevingswaarde zoals deze in de regel voorkomt. Je
->   bent vrij in de keuze van de naam van de omgevingswaarde.
+>   Dit is de naam van de omgevingswaarde waar de regel over gaat. Je
+>   bent vrij in de keuze van de naam van de omgevingswaarde. De naam van de omgevingswaarde kan
+>   letterlijk in de regel terug te vinden zijn (expliciet), maar het is ook mogelijk dat de 
+>   omgevingswaarde impliciet wordt gedefinieerd in de tekst van de regel.
+
+>   De naam van de omgevingswaarde die wordt geannoteerd, zal in het DSO ook de naam zijn waarop 
+>   gezocht en gefilterd kan worden. Hier moet bij de naamgeving rekening mee gehouden worden. Daarom
+>   wordt geadviseerd om een logische en eenduidige naam te annoteren.
 
 >   **5. Omgevingswaardegroep: geef aan in welke omgevingswaardegroep deze
 >   valt.**  
@@ -43,8 +51,6 @@ moet worden.
 >   zijn die je kunt selecteren, maar je kunt ook een zelfgekozen eenheid
 >   aangeven. De open waardelijst behorende bij de eenheid kun je inzien in de
 >   [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
-
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Middel.png)
 
 >   Het is ook mogelijk om de normwaarde als kwalitatief te annoteren. Dit kun je
 >   doen als de normwaarde in woorden is beschreven of als de normwaarde dermate

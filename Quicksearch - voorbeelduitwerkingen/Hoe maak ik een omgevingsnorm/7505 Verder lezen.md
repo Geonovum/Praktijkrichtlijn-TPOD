@@ -6,16 +6,18 @@ Kijk voor de andere ‘hoe maak ik …?' op de volgende pagina’s:
     activiteit?](/hoe-maak-ik-een-regel-over-een-activiteit);
 
 -   [Hoe maak ik een instructieregel](/hoe-maak-ik-een-instructieregel) (alleen
-    voor rijk en provincie).
+    voor rijk en provincie);
 
--   [Hoe maak ik een regel over een omgevingsnorm?](/hoe-maak-ik-een-omgevingsnorm).
+-   [Hoe maak ik een omgevingswaarderegel?](/hoe-maak-ik-een-omgevingswaarderegel);
 
-Voor meer informatie over de omgevingsdocumenten waarin omgevingswaarderegels
+Voor meer informatie over de omgevingsdocumenten waarin regels over een omgevingsnorm 
 vastgesteld kunnen worden, zie de volgende pagina’s:
 
 -   [Omgevingsplan](/omgevingsplan);
 
 -   [Omgevingsverordening](/omgevingsverordening);
+
+-   [Waterschapsverordening](/waterschapsverordening);
 
 -   [Algemene Maatregelen van Bestuur (AMvB) en ministeriële regelingen
     (MR)](/amvb-mr);
