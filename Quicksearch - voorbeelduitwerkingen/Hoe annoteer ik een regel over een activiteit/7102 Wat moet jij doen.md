@@ -23,7 +23,7 @@ Zie hieronder een voorbeeld van een regel over het 'aanleggen van een uitrit'
 ![](media/7102RegelZonderActiviteitBasis.png)
 
 >   **1. Type regel: om welk type regel gaat het en aan wie is het gericht?**  
->   **a)** Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
+>   Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
 >   een instructieregel of een omgevingswaarderegel. Een instructieregel is
 >   gericht aan een ander instrument of taakbevoegdheid en een omgevingswaarderegel
 >   is zelfbindend voor het bestuursorgaan dat de omgevingswaarde vaststelt. Een regel

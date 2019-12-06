@@ -1,6 +1,6 @@
 ﻿#### Wat kun je allemaal nog meer doen?
 
-Een raadpleger kan zich, met behulp van de acties uit 1 t/m 6, oriënteren in de
+Een raadpleger kan zich, met behulp van de acties uit 1 tot en met 6, oriënteren in de
 ‘Regels op de kaart’. Hij  kan filteren op activiteiten, kan op zijn locatie zien
 welke regels er van toepassing zijn en kan de activiteiten terugzien op de kaart. 
 
@@ -54,7 +54,7 @@ gerelateerde regeltekst toe te voegen.
 Wil je het voor de initiatiefnemer nog makkelijker maken? Ga dan aan de slag met
 [toepasbare regels](https://wegwijzerstoptpod.nl/hoe-maak-ik-een-regel-over-een-activiteit/activiteit-en-toepasbare-regels). 
 Om hiermee te kunnen beginnen is het een voorwaarde dat de 
-acties 2 tot en met 6 uitgevoerd zijn. Dankzij deze acties en de toepasbare regels,
+acties 1 tot en met 6 uitgevoerd zijn. Dankzij deze acties en de toepasbare regels,
 is het mogelijk voor de initiatiefnemer om de vergunningchecker te gebruiken. 
 
 Bovenstaande stappen geven inzicht in hoe de standaard bedoelt is, de exacte 

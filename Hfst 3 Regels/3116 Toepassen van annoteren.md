@@ -3,7 +3,8 @@
 In de TPOD is gespecificeerd van welke annotatie mogelijkheden er gebruik
 gemaakt kan of moet worden volgens IMOW. In onderstaande tabel is voor de
 inhoudelijke annotaties uitgewerkt welke van toepassing zijn in welke
-omgevingsdocumenten. Een kleine leeswijzer:
+omgevingsdocumenten. 
+Toelichting op de kleurgebruik in de tabel:
 
 Groen= Annotatie is van toepassing
 
@@ -32,9 +33,9 @@ manier wordt de volledige context getoond (zie p. 42 in de TPOD).
 
 of
 
-In het DSO-LV zal bij bevraging altijd de volledige formele inhoud als resultaat
-worden weergegeven en niet het individuele tekstdeel. Op deze manier wordt de
-volledige context getoond (zie p. 29 in de TPOD).
+In het DSO-LV zal bij bevraging altijd de volledige formele divisie als resultaat
+worden weergegeven en niet de individuele formele inhoud. Op deze manier wordt de
+volledige context getoond inclusief alle koppen (zie p. 29 in de TPOD).
 
 Zie onderstaande figuren voor een schematische weergave.
 

@@ -8,17 +8,17 @@ uitleg over de functionele structuur.
 
 ![](media/7107RelatieRegelOverActiviteitenToepasbareRegel.png)
 
--   *Identificatie en naam*: 
-    de naam en identificatie worden opgeslagen in het
-    DSO, zowel in OZON als in de functionele structuur binnen het Register
-    Toepasbare Regels, die gevoed wordt door het IMOW-deel van
-    omgevingsdocumenten.
+-   **Identificatie en naam**: 
+    De naam en identificatie worden opgeslagen in het
+    DSO, zowel in OZON als in de functionele structuur binnen het [Register
+    Toepasbare Regels](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/over-het-digitaal-stelsel/onderdelen-landelijke-voorziening/register-toepasbare-regels/), 
+    die gevoed wordt door het IMOW-deel van omgevingsdocumenten.
 
--   *Locatieaanduiding*: 
+-   **Locatieaanduiding**: 
     Toepasbare regels halen hun locatie uit de
     locatieaanduidingen die door de juridische regel(s) over de activiteit in IMOW wordt aangeduid.
 
--   *Bovenliggende activiteit*: 
+-   **Bovenliggende activiteit**: 
     Met dit attribuut geef je aan hoe de specifieke activiteit (die je aanmaakt)
     zich verhoudt tot een meer generieke activiteit. De bovenliggende activiteit kan een activiteit zijn die 
     al in de functionele structuur bestaat. Het mag ook een activiteit zijn die je in hetzelfde omgevingsdocument
@@ -28,9 +28,8 @@ uitleg over de functionele structuur.
     Een voorbeeld is de activiteit ‘het opslaan van motorbrandstoffen’ die een specificatie is van de generieke, 
     in de Omgevingswet benoemde, activiteit ‘milieubelastende activiteit’.
 
--   *Gerelateerde activiteit*: 
-    Een secundair (d.w.z. niet verplicht)
-    aanknopingspunt tussen juridische regels en toepasbare regels vormen
+-   **Gerelateerde activiteit**: 
+    Een (niet verplicht) aanknopingspunt tussen juridische regels en toepasbare regels vormen
     relaties tussen activiteiten die geen hiërarchie / taxonomie aanduiden, maar
     die aanduiden dat activiteiten op een andere wijze contextueel relevant met
     elkaar zijn. De gerelateerde activiteit mag een

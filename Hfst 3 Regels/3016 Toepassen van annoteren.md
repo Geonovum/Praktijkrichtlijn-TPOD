@@ -3,7 +3,7 @@
 In de TPOD is gespecificeerd van welke annotatie mogelijkheden er gebruik
 gemaakt kan worden volgens IMOW. In onderstaande tabel is voor de inhoudelijke
 annotaties uitgewerkt welke van toepassing zijn in welke omgevingsdocumenten.
-Een kleine leeswijzer:
+Toelichting op de kleurgebruik in de tabel:
 
 Groen= Annotatie is van toepassing
 

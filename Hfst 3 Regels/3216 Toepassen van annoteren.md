@@ -4,7 +4,8 @@ In het IMOP is vastgelegd welke mogelijkheden er zijn met betrekking tot
 annoteren. In de TPOD is vervolgens gespecificeerd van welke annotatie
 mogelijkheden er gebruik gemaakt kan of moet worden volgens IMOW. In
 onderstaande tabel is voor de annotaties uitgewerkt welke van toepassing zijn in
-welke omgevingsdocumenten. Een kleine leeswijzer:
+welke omgevingsdocumenten. 
+Toelichting op de kleurgebruik in de tabel:
 
 Groen= Annotatie is van toepassing
 

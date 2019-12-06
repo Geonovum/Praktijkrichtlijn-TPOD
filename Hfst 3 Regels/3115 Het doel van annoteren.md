@@ -18,6 +18,8 @@ laatste plaats ten behoeve van de informatieverschaffing in DSO-LV.
 
 Voor de omgevingsvisie gaat het om de volgende IMOW-objecten:
 
+-   Formele divisie
+
 -   Tekstdeel
 
 -   Locatie

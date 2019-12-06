@@ -17,16 +17,20 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   enkele voorbeelden. De naam moet uniek zijn binnen het plan, echter het kan wel voorkomen 
 >   dat het dezelfde naam is als een activiteit van een ander bevoegd gezag. De naam van 
 >   de activiteit mag dezelfde zijn als de naam van de hierna (onder 5) genoemde activiteitengroep.
-
 >   Hieronder volgen voorbeelden met toelichting:
->   *- Artikel X: het lozen van afvalstoffen is een milieubelastende activiteit.
->   - Artikel Y: afvalstoffen mogen niet binnen 30 meter van een waterzuiveringsinstallatie geloosd worden. 
->   - Artikel Z: Binnen 30 meter van een waterzuiveringsinstallatie mag niet geloosd worden.
+
+>   *- Artikel X: het lozen van afvalstoffen is een milieubelastende activiteit.*
+
+>   *- Artikel Y: afvalstoffen mogen niet binnen 30 meter van een waterzuiveringsinstallatie geloosd worden.* 
+
+>   *- Artikel Z: Binnen 30 meter van een waterzuiveringsinstallatie mag niet geloosd worden.*
+
 >   Alle artikelen hebben de activiteit ‘lozen van afvalstoffen’ in zich. In Artikel X staat 
 >   deze activiteit expliciet in de tekst, in artikel Y en Z staat deze er impliciet in. 
 >   Door artikel Y en Z zodanig te annoteren dat daaruit het object ‘lozen van afvalstoffen’ 
 >   ontstaat, is het mogelijk deze activiteit aan het DSO aan te leveren. Indien gewenst 
->   kunnen er toepasbare regels voor gemaakt worden.*
+>   kunnen er toepasbare regels voor gemaakt worden.
+
 >   De naam van de activiteit die wordt geannoteerd, zal in het DSO ook de naam zijn waarop
 >   gezocht en gefilterd kan worden. Hier moet bij de naamgeving rekening mee gehouden worden.
 >   Daarom wordt geadviseerd om een logische en eenduidige naam te annoteren.
