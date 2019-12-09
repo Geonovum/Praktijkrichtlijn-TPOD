@@ -6,7 +6,7 @@ Een raadpleger kan zich, met behulp van de acties uit 1 t/m 6, oriënteren in de
 horen. Tot slot is het ook mogelijk om een thema of gerelateerde regeltekst toe
 te voegen.
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Rijk.png)
+![](media/Praktijkrichtlijnen_Omgevingswaarde-Rijk.png)
 
 >   **7. Geef aan welk thema het betreft.**  
 >   Het toevoegen van een thema aan de regel heeft effect op het zoeken en

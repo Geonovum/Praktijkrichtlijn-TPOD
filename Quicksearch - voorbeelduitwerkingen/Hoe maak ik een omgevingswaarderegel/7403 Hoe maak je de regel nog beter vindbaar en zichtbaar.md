@@ -7,7 +7,7 @@ zoeken en te filteren op trefwoorden of categorieën.
 In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 moet worden.
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Middel.png)
+![](media/Praktijkrichtlijnen_Omgevingswaarde-Middel.png)
 
 >   **4. Naam: geef de omgevingswaarde een naam.**  
 >   Dit is de naam van de omgevingswaarde waar de regel over gaat. Je
@@ -61,4 +61,4 @@ moet worden.
 >   normwaarde in woorden is beschreven. In het veld waarde vul je dan “zie
 >   regeltekst” in.
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Kwalitatief.png)
+![](media/Praktijkrichtlijnen_Omgevingswaarde-Kwalitatief.png)

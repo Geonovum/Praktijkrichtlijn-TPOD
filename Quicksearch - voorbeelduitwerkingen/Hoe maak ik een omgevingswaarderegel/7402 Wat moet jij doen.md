@@ -20,7 +20,7 @@ planmaaksoftware.
 Zie hieronder een voorbeeld over een omgevingswaarderegel met betrekking tot de
 toelaatbare concentratie stikstofdioxide en wat jij als opsteller moet aangeven:
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Minimaal.png)
+![](media/Praktijkrichtlijnen_Omgevingswaarde-Minimaal.png)
 
 >   **1. Type regel: om welk type regel gaat het?**  
 >   Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen, een
