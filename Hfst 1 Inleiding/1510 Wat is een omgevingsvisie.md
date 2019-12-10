@@ -1,4 +1,4 @@
-#### Wat is een omgevingsvisie?
+﻿#### Wat is een omgevingsvisie?
 
 Het Rijk, de provincie en de gemeenten leggen ieder apart de hoofdzaken van het
 te voeren integrale beleid voor de fysieke leefomgeving en de hoofdlijnen van de
@@ -7,7 +7,7 @@ van hun gehele grondgebied vast in één omgevingsvisie. Een andere mogelijkheid
 is dat bevoegde gezagen gezamenlijk een omgevingsvisie opstellen die zij
 vaststellen voor het deel dat over het eigen grondgebied gaat.
 
-Integraal betekent dat de visie betrekking heeft op alle terreinen van de
+Integraal betekent dat de visie betrekking heeft op alle beleidsterreinen van de
 fysieke leefomgeving. Het gaat hier om een samenhangende visie op strategisch
 niveau, niet om een optelsom van beleidsvisies voor de diverse domeinen. Dat is
 ook dé reden dat ieder bestuursorgaan slechts één omgevingsvisie vaststelt: één

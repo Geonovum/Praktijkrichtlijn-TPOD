@@ -11,7 +11,7 @@ Groen= Annotatie is van toepassing
 
 Rood= Annotatie is niet van toepassing
 
-![](media/3016OverzichtInhoudelijkeAnnotaties.png)
+![](media/301631163216OverzichtInhoudelijkeAnnotaties.png)
 
 *Annotatiemogelijkheden per omgevingsdocument*
 

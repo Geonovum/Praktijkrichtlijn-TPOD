@@ -34,7 +34,7 @@ De toelichting op bovenstaande figuur volgt in onderstaande opsomming:
 >   Bijvoorbeeld: Het omgevingsplan bevat een object
 >   Activiteit “Bouwactiviteit” die tot dan toe niet voorkomt in de functionele
 >   structuur. IMOW stelt voor “Bouwactiviteit” een identificatie op
->   gnm0037.Activiteit.2019000241. Deze *nieuwe* activiteit “Bouwactiviteit”
+>   gm0037.Activiteit.2019000241. Deze *nieuwe* activiteit “Bouwactiviteit”
 >   moet in het IMOW-deel van het omgevingsplan gerelateerd worden aan de
 >   *bestaande* activiteit “Omgevingsplanactiviteit”, zodanig dat de
 >   Omgevingsplanactiviteit de bovenliggende activiteit is van Bouwactiviteit.

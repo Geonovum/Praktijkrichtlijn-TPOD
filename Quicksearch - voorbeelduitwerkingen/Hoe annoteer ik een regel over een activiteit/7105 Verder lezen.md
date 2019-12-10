@@ -5,9 +5,9 @@ Kijk voor de andere ‘hoe maak ik …?' op de volgende pagina’s:
 -   [Hoe maak ik een functie of andere gebiedsaanwijzing?](/hoe-maak-ik-een-functie-of-andere-gebiedsaanwijzing);
 
 -   [Hoe maak ik een instructieregel](/hoe-maak-ik-een-instructieregel) (alleen
-    voor rijk en provincie);
+    voor het rijk en de provincies);
 
--   [Hoe maak ik een omgevingswaarderegel?](/hoe-maak-ik-een-omgevingswaarderegel) (niet voor waterschap);
+-   [Hoe maak ik een omgevingswaarderegel?](/hoe-maak-ik-een-omgevingswaarderegel) (niet voor de waterschappen);
 
 -   [Hoe maak ik een regel over een omgevingsnorm?](/hoe-maak-ik-een-omgevingsnorm);
 

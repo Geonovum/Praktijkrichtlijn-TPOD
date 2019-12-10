@@ -4,7 +4,7 @@ Een van de doelen van het Digitaal Stelsel Omgevingswet is dat men in het
 Omgevingsloket met één ‘klik op de kaart’ kan zien welke regels en beleid op die
 locatie van toepassing zijn. Dit zijn bijvoorbeeld regels over activiteiten die gemeente, waterschap, provincie en Rijk stellen. 
 Het is de bedoeling dat iedereen kan zien welke regels *waar* gelden en ook voor *wie* die 
-regels van toepassing zijn. In het geval van een regel over een activiteit moet een initiatiefnemer
+regels van toepassing zijn. In het geval van een regel over een activiteit moet een belanghebbende
 na kunnen gaan of een bepaalde activiteit op een specifieke locatie
 is toegestaan en zo ja of er een vergunning nodig is of een melding moet worden gedaan.
 

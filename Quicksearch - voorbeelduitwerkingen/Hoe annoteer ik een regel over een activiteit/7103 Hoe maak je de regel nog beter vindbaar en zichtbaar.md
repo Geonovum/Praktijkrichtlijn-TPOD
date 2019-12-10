@@ -13,7 +13,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   Dit is de naam van de activiteit waar de regel over gaat. Je
 >   bent vrij in de keuze van de naam van de activiteit. De naam van de activiteit kan
 >   letterlijk in de regel terug te vinden zijn (expliciet), maar het is ook mogelijk
->   de de activiteit impliciet wordt gedefinieerd in de tekst van de regel. Zie hieronder
+>   dat de activiteit impliciet wordt gedefinieerd in de tekst van de regel. Zie hieronder
 >   enkele voorbeelden. De naam moet uniek zijn binnen het plan, echter het kan wel voorkomen 
 >   dat het dezelfde naam is als een activiteit van een ander bevoegd gezag. De naam van 
 >   de activiteit mag dezelfde zijn als de naam van de hierna (onder 5) genoemde activiteitengroep.
@@ -42,7 +42,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   er een vastgestelde lijst is van activiteitgroepen die je kunt kiezen.
 >   De mogelijke activiteitgroepen vind je in de
 >   [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
->   De lijst van mogelijke activiteitgroepen zal uiteindelijk geïntergreerd
+>   De lijst van mogelijke activiteitgroepen zal uiteindelijk geïntegreerd
 >   zijn in de planmaaksoftware.
 
 >   Voor de presentatie in een kaartbeeld is de activiteitgroep bepalend.
@@ -52,13 +52,13 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   een symbolisatie is gekoppeld, deze symbolisatie wordt op de kaart als
 >   verbeelding van de activiteit getoond. 
 
->   Het is mogelijk om de standaard presentatie toe te laten passen, maar je
+>   Het is mogelijk om de standaardpresentatie toe te laten passen, maar je
 >   kunt ook kiezen voor een afwijkende presentatie. Meer informatie over de
 >   presentatie in kaartbeeld vind je op de pagina [Presenteren](/presenteren)
 >   in deze wegwijzer. Indien je wil afwijken van de symbolisatie
 >   van de activiteitgroep, is het ook mogelijk om te verbeelden op de 
 >   naam van de activiteit. De standaard verbeelding van de activiteitengroep 
->   wordt dan niet getoond in de publicatieportalen. In de DSO viewer krijgt 
+>   wordt dan niet getoond in de publicatieportalen. In de module 'regels op de kaart'in het Omgevingsloket krijgt 
 >   de raadpleger de keuze een regelingspecifieke verbeelding te zien in plaats 
 >   van de standaard verbeelding.
 
@@ -70,8 +70,8 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   **6. Bovenliggende activiteit: Geef aan onder welke bovenliggende activiteit deze valt.**  
 >   Met dit attribuut wordt aangegeven hoe deze activiteit, zich verhoudt tot een meer generieke 
 >   activiteit. Het attribuut bovenliggende activiteit is ingesteld ten behoeve van het opstellen 
->   en gebruiken van vragenbomen. Door de bovenliggende activiteit aan te geven, komt deze
->   relatie (hiërarchisch) in de [functionele structuur](https://pre.omgevingswet.overheid.nl/registratie-toepasbare-regels/) 
+>   en gebruiken van vragenbomen. Door de bovenliggende activiteit aan te geven, komt de activiteit op de juiste plek
+>   (hiërarchisch) in de [functionele structuur](https://pre.omgevingswet.overheid.nl/registratie-toepasbare-regels/) van de Registratie Toepasbare Regels (RTR)
 >   terecht.  De verwijzing is altijd een verwijzing naar de identificatie van de activiteit én niet naar diens naam. 
 >   De bovenliggende activiteit kan een activiteit zijn die door een ander besluit 
 >   (ook van een andere bestuurslaag) is vastgesteld. De hoogste bovenliggende activiteit is 

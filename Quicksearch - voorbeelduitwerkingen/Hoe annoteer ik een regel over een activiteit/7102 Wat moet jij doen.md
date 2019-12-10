@@ -33,7 +33,7 @@ Zie hieronder een voorbeeld van een regel over het 'aanleggen van een uitrit'
 >   **2. Locatie: op welke locatie is deze regel van toepassing?**  
 >   Om de raadpleger via Omgevingsloket van de juiste informatie te voorzien, is het
 >   noodzakelijk om aan te geven waar de regel over een activiteit van toepassing is. Geef
->   hiervoor aan op welke locatie de regel van toepassing is.
+>   hiervoor aan op welke locatie(s) de regel van toepassing is.
 
 >   **3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?**
 >   Als je hebt aangegeven op welke locatie deze regel van toepassing is, kun je
@@ -54,6 +54,8 @@ in de kaart prikken en ziet dan dat artikel 2.14 *daar* van toepassing is en kan
 dat de regel *voor iedereen* (en dus ook voor hem) van toepassing is. 
 
 Hij moet echter nog steeds wel de tekst lezen en correct interpreteren om te weten om welke 
-activiteit het gaat en of deze verboden, vergunningsplichtig et cetera is. Ook is deze 
-methode niet voldoende om via de vergunningchecker te kunnen achterhalen of hij ergens 
-een vergunning voor moet aanvragen. 
+activiteit het gaat en of deze verboden, vergunningsplichtig et cetera is. Ook zijn de acties 1 tot en met 3
+niet voldoende om ervoor te zorgen dat een belanghebbende gebruik kan maken van de vergunningcheck, 
+de aanvraagmodule en de maatregels op maat. Hier zijn meer acties voor nodig. De acties in relatie tot 
+STOP/TPOD zijn hieronder beschreven. De acties in relatie tot het maken van toepasbare regels zijn in de 
+STTR beschreven. 

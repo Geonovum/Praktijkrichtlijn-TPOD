@@ -8,4 +8,4 @@ Algemene Maatregel van Bestuur & Ministeriële Regeling (Rijk), omgevingsverorde
 (provincies), waterschapsverordening (waterschappen) en omgevingsplan (gemeenten).
 Daarnaast kan het projectbesluit wijzigingen aanbrengen op het omgevingsplan. 
 Op de website van [Aan de slag met de Omgevingswet](https://aandeslagmetdeomgevingswet.nl/regelgeving/regels-voor-activiteiten/)
-is de regel over een activiteit nader toegelicht.
+is een regel over een activiteit nader toegelicht.

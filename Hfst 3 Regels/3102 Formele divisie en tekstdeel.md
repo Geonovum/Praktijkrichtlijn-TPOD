@@ -22,7 +22,7 @@ weer vereist om verschillende tekstdelen te gebruiken. Er kunnen ook meerdere
 tekstdelen naar een (of meerdere) formele divisie(s) verwijzen. Zie afbeelding
 hieronder.
 
-![](media/3102FormeleDivisieTekstdeel.png)
+![](media/3102FormeleDivisieTekstdelen.png)
 
 *Conceptuele weergave van formele inhoud, formele divisie en tekstdelen*
 

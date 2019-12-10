@@ -1,6 +1,6 @@
 ﻿#### Wat kun je allemaal nog meer doen?
 
-Een raadpleger kan zich, met behulp van de acties uit 1 tot en met 6, oriënteren in de
+Een belanghebbende kan zich, met behulp van de acties uit 1 tot en met 6, oriënteren in de
 ‘Regels op de kaart’. Hij  kan filteren op activiteiten, kan op zijn locatie zien
 welke regels er van toepassing zijn en kan de activiteiten terugzien op de kaart. 
 
@@ -14,7 +14,7 @@ gerelateerde regeltekst toe te voegen.
 ![](media/7104RegelActiviteitRijk.png)
 
 >   **7. Activiteitregelkwalificatie: Geef aan welke activiteitregelkwalificatie het betreft.**  
->   Het toevoegen van de activiteitregelkwalificatie heeft effect op het zoeken en filteren in het DSO. 
+>   Het toevoegen van de activiteitregelkwalificatie heeft effect op het zoeken en filteren in het Omgevingsloket.
 >   Het is een attribuut van de juridische regel, die wat zegt *over* de activiteit. Het is 
 >   dus geen attribuut van de activiteit zelf. De activiteitregelkwalificatie kies je uit de 
 >   gesloten waardelijst die in de [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina) 
@@ -24,19 +24,20 @@ gerelateerde regeltekst toe te voegen.
 
 >   **8. Gerelateerde activiteit: Geef aan welke activiteit(en) aan deze activiteit gerelateerd zijn**  
 >   Door een gerelateerde activiteit toe te voegen kan je voor de raadpleger aangeven dat de regels 
->   over de andere activiteit wellicht ook van belang zijn.
+>   over de andere activiteit wellicht ook van belang zijn. Hiermee wordt de raadpleger vanuit het DSO 
+>   aangespoord om ook naar deze activiteit te kijken.
 >   Een voorbeeld is de activiteit ‘tanken van brandstof’ die een sterke relatie heeft met de activiteit 
 >   ‘opslaan van brandstof’ omdat ze altijd samen zullen voorkomen. De gerelateerde activiteit mag een
 >   activiteit zijn die door een ander besluit (eventueel door een andere bestuurslaag) is vastgesteld.
->   De verwijzing is altijd een verwijzing naar de identificatie van de activiteit en niet naar de naam. 
+>   Technisch wordt er verwezen naar de identificatie van de activiteit, zodat de naam getoond wordt in het DSO.
 
 >   **9. Geef aan welk thema het betreft.**  
 >   Het toevoegen van een thema aan de regel heeft effect op het zoeken en
->   filteren in het DSO. Alle bestuurslagen kunnen hun beleid en regels
->   annoteren met een thema, dit is een tekstgebonden attribuut. Dit betekent
->   dat het regels en beleid van alle omgevingsdocumenten doorzoekbaar maakt,
->   maar het geen effect heeft op de presentatie in de kaart. Het thema kun je
->   kiezen uit de open
+>   filteren in de 'regels op de kaart' module van het Omgevingsloket. Alle bestuurslagen kunnen hun beleid en regels
+>   annoteren met een thema, dit is een tekstgebonden attribuut. Dit betekent 
+>   dat het mogelijk wordt om regels en beleid, uit alle omgevingsdocumenten, 
+>   te vinden op basis van het bijbehorende thema. Het thema zal echter niet op 
+>   de kaart te vinden zijn. Het thema kun je kiezen uit de open
 >   [waardelijst](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina)
 >   Thema. De open waardelijst is gevuld met waarden waaruit gekozen kan worden.
 >   Wanneer een gewenste waarde niet op de lijst voorkomt, kun je zelf een
@@ -51,11 +52,11 @@ gerelateerde regeltekst toe te voegen.
 >   niet mogelijk om iets over de aard van de relatie vast te leggen. Dit moet
 >   duidelijk blijken uit de tekst.
 
-Wil je het voor de initiatiefnemer nog makkelijker maken? Ga dan aan de slag met
+Wil je het voor de belanghebbende mogelijk maken om een vergunningsaanvraag in te dienen? Ga dan aan de slag met
 [toepasbare regels](https://wegwijzerstoptpod.nl/hoe-maak-ik-een-regel-over-een-activiteit/activiteit-en-toepasbare-regels). 
 Om hiermee te kunnen beginnen is het een voorwaarde dat de 
 acties 1 tot en met 6 uitgevoerd zijn. Dankzij deze acties en de toepasbare regels,
-is het mogelijk voor de initiatiefnemer om de vergunningchecker te gebruiken. 
+is het mogelijk voor de belanghebbende om de vergunningcheck, de aanvraagmodule en maatregelen op maat te gebruiken. 
 
-Bovenstaande stappen geven inzicht in hoe de standaard bedoelt is, de exacte 
+Bovenstaande stappen geven inzicht in hoe de standaard bedoeld is, de exacte 
 werking van de planmaaksoftware kan afwijken.

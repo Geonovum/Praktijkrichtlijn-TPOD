@@ -1,4 +1,4 @@
-#### Waar staan de afkortingen STOP en TPOD voor?
+﻿#### Waar staan de afkortingen STOP en TPOD voor?
 
 Er is één generieke standaard ontwikkeld voor alle overheidspublicaties: de
 Standaard Officiële Overheidspublicaties, afgekort de STOP. Deze standaard
@@ -22,6 +22,7 @@ overbrengen van de *inhoud* van besluiten.
 Binnen het digitale stelsel van de Omgevingswet zijn dit niet de enige
 standaarden. Er zijn ook nog standaarden voor de vragenbomen in het
 Omgevingsloket en voor het indienen en ontvangen van vergunningsaanvragen. Op
-[aan de slag met de
-Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/technisch-aansluiten/standaarden/)
+[aan de slag met de Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/technisch-aansluiten/standaarden/)
 staan alle standaarden beschreven.
+
+![](media/0200WebsiteADSMDOW.jpg)
