@@ -26,3 +26,9 @@ vullen dat aan met bijvoorbeeld een motivatie voor het wijzigen van de regeling.
 
 Na goedkeuring zal het besluit ter bekendmaking aan de LVBB worden verstuurd.
 Onderdeel van het bericht is de mutatie zoals door IMOP wordt beschreven.
+
+Hoe wijzigingsbesluiten er voor de bekendmaking en consolidatie uit moeten zien 
+en hoe ze moeten worden aangeleverd, is beschreven in de STOP-documentatie. 
+Hoe het wijzigen van IMOW-objecten in zijn werk gaat is in het document 
+['IMOW Muteren – in de keten bevoegd gezag – LVBB – DSO-LV']
+(https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD) beschreven.

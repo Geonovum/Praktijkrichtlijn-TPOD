@@ -22,6 +22,8 @@ Zie hieronder een voorbeeld van een regel over het 'aanleggen van een uitrit'
 
 ![](media/7102RegelZonderActiviteitBasis.png)
 
+*Conceptuele weergave annoteren regel zonder activiteit*
+
 >   **1. Type regel: om welk type regel gaat het en aan wie is het gericht?**  
 >   Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
 >   een instructieregel of een omgevingswaarderegel. Een instructieregel is

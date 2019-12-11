@@ -1,15 +1,18 @@
 ﻿#### Tekstpresentatie van teksten met een artikelstructuur
 
-Voor teksten met een artikelstructuur is het kenmerkend dat de regeltekst een
-artikelsgewijze opbouw heeft.
+Bij teksten met regels is de artikelsgewijze opbouw kenmerkend. De artikelstructuur bestaat uit 
+tekstelementen.Deze tekstelementen kunnen worden gebruikt voor de structurering van het lichaam 
+van de tekst. Voorbeelden zijn hoofdstuk, titel, afdeling, paragraaf, subparagraaf, subsubparagraaf, 
+artikel en lid. Voor de presentatie van OW-besluiten met een artikelstructuur is de tekststructuur 
+van de tekstelementen van belang.  
 
 De TPOD van het omgevingsdocument beschrijft in paragraaf 5.2 de specificatie van de
 artikelstructuur. In deze specificatie is beschreven welke tekstelementen zijn
 toegestaan in het omgevingsdocument en in welke hiërarchische volgorde deze dienen te
 staan.
 
-De verschillende tekstelementen moeten worden voorzien van een Kop. Een Kop
-bevat de volgende Kop-elementen:
+De verschillende tekstelementen moeten worden voorzien van een kop. Een kop
+bevat de volgende kopelementen:
 
 -   Label: de tekstuele aanduiding van het type van het tekstelement
 
@@ -19,9 +22,9 @@ bevat de volgende Kop-elementen:
     van het onderdeel beknopt wordt aangeduid.
 
 In paragraaf 5.2 van de TPOD is gespecificeerd welke regels er gelden voor de in
-dit omgevingsdocument voorkomende Koppen.
+dit omgevingsdocument voorkomende koppen.
 
-In welke font en corpsgrootte de Kop opgemaakt wordt, mag zelf bepaald worden,
+In welke font en korpsgrootte de kop opgemaakt wordt, mag zelf bepaald worden,
 zolang het principe van functionele tekstpresentatie wordt toegepast. De TPOD
 van het omgevingsdocument legt de hiërarchische volgorde van de tekstelementen vast.
 Deze volgorde wordt uitgedrukt in relatieve groottes ten opzichte van het

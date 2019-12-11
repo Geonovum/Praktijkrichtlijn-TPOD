@@ -7,16 +7,16 @@ initieel besluit (een eerste versie) betreffen of een wijziging van een eerder
 genomen besluit.
 
 De verwijzing naar een informatieobject dient in de mensleesbare weergave van
-het besluit opgenomen te worden middels een mensleesbare betekenisvolle noemer
+het besluit opgenomen te worden middels een mensleesbare betekenisvolle tekstuele aanduiding
 zodat duidelijk is welke informatie als onderdeel van het besluit is
 vastgesteld. Het presentatiemodel legt de verbinding tussen het informatieobject
-en het besluit door de noemer van het informatieobject in de tekst op te nemen.
+en het besluit door een mensleesbare tekstuele aanduiding van het informatieobject in de tekst op te nemen.
 Op deze wijze wordt het informatieobject onderdeel van het besluit en krijgt het
 juridische status.
 
-![](media/4004NoemerGIOVerwBesluit.jpg)
+![](media/4004PresentatiemodelVerwijzenNaarGIO.jpg)
 
-*Mensleesbare noemers en verwijzingen naar geografische informatieobjecten in de
+*Mensleesbare tekstuele aanduiding en verwijzingen naar geografische informatieobjecten in de
 tekst van het besluit*
 
 De geconsolideerde versie van een omgevingsdocument wordt afgeleid uit het

@@ -2,7 +2,7 @@
 
 Een belangrijk uitgangspunt van STOP is dat ieder besluit een werkingsgebied
 heeft. Werkingsgebied is een abstract, conceptueel begrip: het gebied waar een
-(regel)tekst zijn werking heeft.
+regeltekst zijn werking heeft.
 
 Het projectbesluit zelf (deel 1 van het projectbesluit) bevat geen regeltekst, maar 
 wel beleidstekst die op een bepaald gebied zijn werking heeft. Dit heet in TPOD projectbesluit

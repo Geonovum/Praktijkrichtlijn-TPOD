@@ -6,7 +6,7 @@ vormgeving. Daarom wordt het principe van functioneel presenteren gehanteerd.
 
 Volgens het principe van functioneel presenteren worden er functionele eisen
 gesteld aan wát er weergegeven moet worden, maar het stelt geen eisen aan de
-exacte opmaakstijl zoals de exacte corpsgrootte van een lettertype of de kleur
+exacte opmaakstijl zoals de exacte korpsgrootte van een lettertype of de kleur
 van een gebied in de kaart. Er is een scheiding tussen de functionele aanduiding
 (wat wordt er gepresenteerd?) en de stijl van het symbool, zoals de concrete
 kleurwaarden en mate van transparantie.

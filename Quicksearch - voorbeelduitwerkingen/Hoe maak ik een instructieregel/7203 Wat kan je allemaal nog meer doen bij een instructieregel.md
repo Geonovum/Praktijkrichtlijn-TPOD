@@ -23,6 +23,8 @@ omgevingswaarde.
 
 ![](media/7203InstructieregelRijkCijfers.png)
 
+*Conceptuele weergave van een geannoteerde instructieregel inclusief thema*
+
 >   **4. Geef aan welk thema het betreft**  
 >   Het toevoegen van een thema aan de regel heeft effect op het zoeken en filteren
 >   in het DSO. Alle bestuurslagen kunnen hun beleid en regels annoteren met een

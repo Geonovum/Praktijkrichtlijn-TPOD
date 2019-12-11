@@ -8,6 +8,8 @@ te voegen.
 
 ![](media/Praktijkrichtlijnen_Omgevingswaarde-Rijk.png)
 
+*Conceptuele weergave van een omgevingswaarderegel waarbij ook het thema is geannoteerd*
+
 >   **7. Geef aan welk thema het betreft.**  
 >   Het toevoegen van een thema aan de regel heeft effect op het zoeken en
 >   filteren in het DSO. Alle bestuurslagen kunnen hun beleid en regels
@@ -29,4 +31,4 @@ te voegen.
 >   niet mogelijk om iets over de aard van de relatie vast te leggen. Dit moet
 >   duidelijk blijken uit de tekst.
 
-Bovenstaande stappen geven inzicht in hoe de standaard bedoelt is, de exacte werking van de planmaaksoftware kan afwijken.
+Bovenstaande stappen geven inzicht in hoe de standaard bedoeld is, de exacte werking van de planmaaksoftware kan afwijken.

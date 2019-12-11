@@ -1,8 +1,8 @@
-#### Wijzigingsbesluiten presenteren
+﻿#### Wijzigingsbesluiten presenteren
 
 Een wijzigingsbesluit dient in mensleesbare vorm datgene te tonen wat door het
 besluit verandert in de geconsolideerde versie van de regeling. De tekst van de
-regeling kan wijzigen, maar ook (de verwijzing naar) een informatieobject kan
+regeling kan wijzigen, maar ook de verwijzing naar een informatieobject kan
 wijzigen.
 
 Het uitgangspunt van het presentatiemodel toegepast op wijzigingsbesluiten is

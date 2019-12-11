@@ -1,13 +1,13 @@
 ﻿#### Locatie en werkingsgebied in context
 
-Uitgangspunt van STOP is dat iedere regeltekst een werkingsgebied heeft. Zoals
+Uitgangspunt van STOP is dat ieder artikel en lid een werkingsgebied heeft. Zoals
 op de vorige pagina is aangegeven bevat de regeltekst ten minste één juridische
-regel, maar kan ook meerdere juridische regels bevatten. De juridische regel
+regel, maar kan deze ook meerdere juridische regels bevatten. De juridische regel
 (als IMOW-object) is een conceptuele constructie die noodzakelijk is om
 verschillende onderdelen van de regeltekst een eigen locatie te kunnen geven.
 
 Locatie bevat meestal een gebied of een groep van gebieden (gebiedengroep), maar
-kan ook een punt of een lijn respectievelijk een puntengroep of een lijnengroep
+kan ook een punt of een lijn, respectievelijk een puntengroep of een lijnengroep
 zijn. Elk van deze entiteiten bevat een geometrie. Het werkingsgebied is een
 optelling van de locaties van alle juridische regels, die samen de regeltekst
 vormen. Het werkingsgebied geeft de geometrische afbakening aan waar een
@@ -32,27 +32,26 @@ op drie manieren kan worden ‘aangeroepen’:
 
 -   als locatieaanduiding van een van de annotaties activiteit, omgevingswaarde, omgevingsnorm en gebiedsaanwijzing.
 
-Het werkingsgebied is daarbij een IMOP-attribuut van de regeltekst, terwijl de
+Het werkingsgebied is daarbij een IMOP-attribuut van het artikel en lid, terwijl de
 locatieaanduiding een IMOW-attribuut is van een juridische regel of een
 inhoudelijke annotatie. Bovengenoemde annotaties zijn ook IMOW-objecten. 
-Op de vorige pagina is aangegeven welke annotaties in het omgevingsdocument gebruikt kunnen worden.
+Op de volgende pagina is aangegeven welke annotaties in het omgevingsdocument gebruikt kunnen worden.
 
 De juridische regel *definieert* de locatie door middel van de
 locatieaanduiding. De annotatie (met IMOW-object) verwijst naar de locatie die door 
 de relevante juridische regel(s) gedefinieerd wordt. In principe geldt dat de locatie van zo'n
 annotatie gelijk moet zijn aan de locatieaanduiding van de
-juridische regel, en gelegen moet zijn binnen het werkingsgebied van de
-regeltekst waarin de juridische regel is opgenomen.
+juridische regel, en gelegen moet zijn binnen het werkingsgebied van de regeltekst waarin de juridische regel is opgenomen.
 
 
 **Geografisch informatieobject en noemer**
 
-Geometrische begrenzing van een werkingsgebied, en dus van de locatie(s), kan
+De geometrische begrenzing van een werkingsgebied, en dus van de locatie(s), kan
 niet in tekstuele vorm voor de mens leesbaar weergegeven worden. Het is een
 lijst van coördinaten, met extra gegevens zoals bijvoorbeeld ook de hoogte. De
 locaties, die samen het werkingsgebied vormen, worden daarom vastgelegd in een
 geografisch informatieobject (GIO). Een GIO is een informatieobject met ten
-minste één geometrie. Naast geometrie kan een geografisch informatieobject ook
+minste één geometrie. Naast geometrie kan een GIO ook
 waarden bevatten, zoals waarden voor omgevingsnormen. STOP gebruikt het
 informatieobject als bedoeld in Aanwijzing 3.50 van de Aanwijzingen voor de
 regelgeving om dergelijke informatie op een juridisch juiste manier vast te
@@ -72,7 +71,7 @@ dat het informatieobject ook onderdeel uitmaakt van het besluit.
 De noemer op zichzelf is onvoldoende identificerend voor een informatieobject en
 moet altijd vergezeld worden van de volledige identificatie van het
 informatieobject. Dat hoeft niet op de plaats waar de noemer in de tekst
-gebruikt wordt. In STOP wordt de noemer van een informatieobject binnen de tekst
+gebruikt wordt, de noemer met de bijbehorende identificatie mag ook in een bijlage opgenomen worden. In STOP wordt de noemer van een informatieobject binnen de tekst
 van een regeling opgevat als een lokaal begrip, die in een bijlage opgenomen kan
 worden. Met de noemer en de unieke identificatie kan de verwijzing vanuit de
 tekst gerealiseerd worden, waardoor het geografisch informatieobject een
@@ -106,7 +105,7 @@ vanuit de tekst, de bijlage en het informatieobject. Daarnaast is de noemer ook
 Ten behoeve van de informatieverschaffing in het LVBB en het DSO-LV kan door
 middel van een locatie en werkingsgebied op eenvoudige wijze duidelijk worden
 gemaakt waar regelteksten hun werking hebben. Het moet voor de wet altijd
-duidelijk zijn waar een artikel en lid (regeltekst) werking hebben, vandaar de verplichting voor een
+duidelijk zijn waar een artikel en lid werking hebben, vandaar de verplichting voor een
 werkingsgebied. Daarnaast heeft het DSO-LV locaties nodig om het omgevingsloket
 te laten functioneren. Zonder locaties werkt het DSO-LV niet.
 

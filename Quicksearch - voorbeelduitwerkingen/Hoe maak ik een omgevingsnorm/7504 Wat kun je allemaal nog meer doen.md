@@ -6,7 +6,9 @@ Een raadpleger kan zich, met behulp van de acties uit 1 t/m 6, oriënteren in de
 horen. Tot slot is het ook mogelijk om een thema of gerelateerde regeltekst toe
 te voegen.
 
-[invoegen afbeelding]
+![](media/Praktijkrichtlijnen_Omgevingsnorm_Rijk_Kwantitatief.png)
+
+*Conceptuele weergave van een regel over een omgevingsnorm waarbij ook het thema is geannoteerd*
 
 >   **7. Geef aan welk thema het betreft.**  
 >   Het toevoegen van een thema aan de regel heeft effect op het zoeken en
@@ -34,6 +36,8 @@ over een activiteit, dan is het mogelijk om ook de activiteit te annoteren.
 
 Je kunt in combinatie met de omgevingsnorm, of in combinatie met de omgevingsnorm én de 
 activiteit ook een gebiedsaanwijzing annoteren als dat gewenst is.
+
+Bovenstaande stappen geven inzicht in hoe de standaard bedoeld is, de exacte werking van de planmaaksoftware kan afwijken.
 
 Lees voor meer informatie over hoe je een activiteit en een gebiedsaanwijzing annoteert verder op onderstaande pagina's:
 

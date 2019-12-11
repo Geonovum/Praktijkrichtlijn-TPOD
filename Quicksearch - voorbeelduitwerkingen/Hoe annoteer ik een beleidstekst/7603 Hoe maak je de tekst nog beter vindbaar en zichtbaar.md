@@ -9,6 +9,8 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 
 ![](media/7603BeleidstekstAnnoteren.png)
 
+*Conceptuele weergave van een geannoteerde beleidstekst*
+
 >   **3. Naam: geef de gebiedsaanwijzing een naam.**  
 >   Dit is de naam van de gebiedsaanwijzing waar de regel over gaat. Je
 >   bent vrij in de keuze van de naam van de gebiedsaanwijzing. De naam van de gebiedsaanwijzing kan

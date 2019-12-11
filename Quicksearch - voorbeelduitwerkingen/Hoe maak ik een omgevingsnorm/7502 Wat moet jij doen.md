@@ -20,7 +20,9 @@ planmaaksoftware.
 Zie hieronder een voorbeeld van een regel over een omgevingsnorm met betrekking tot de
 maximum bouwhoogte van een bedrijfsgebouw en wat jij als opsteller moet aangeven:
 
-[invoegen afbeelding]
+![](media/Praktijkrichtlijnen_Omgevingsnorm_Minimaal.png)
+
+*Conceptuele weergave van een minimaal geannoteerde regel over een omgevingsnorm*
 
 >   **1. Type regel: om welk type regel gaat het?**  
 >   Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen, een
@@ -54,4 +56,5 @@ Dankzij het annoteren van de ‘idealisatie’ en het aangeven van de bijbehoren
 kan nu in het Omgevingsloket op een plek in de kaart prikken en ziet dan dat
 artikel 2.16 daar van toepassing is en voor wie. Hij moet echter nog steeds 
 de tekst lezen en correct interpreteren om te weten dat het om een omgevingsnorm
-gaat en welke omgevingsnorm het betreft.
+gaat en welke omgevingsnorm het betreft. Ook kan de raapleger op deze manier niet
+via de presentatie op de kaart zien dat hier regels over een omgevingsnorm gelden.

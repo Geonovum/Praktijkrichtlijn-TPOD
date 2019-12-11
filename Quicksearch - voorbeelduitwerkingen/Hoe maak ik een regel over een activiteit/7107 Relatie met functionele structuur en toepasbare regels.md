@@ -8,6 +8,8 @@ uitleg over de functionele structuur.
 
 ![](media/7107RelatieRegelOverActiviteitenToepasbareRegel.png)
 
+*Conceptuele weergave van een geannoteerde regel over een activiteit met de koppelingen naar toepasbare regels*
+
 -   **Identificatie en naam**: 
     De naam en identificatie worden opgeslagen in het
     DSO, zowel in OZON als in de functionele structuur binnen het [Register

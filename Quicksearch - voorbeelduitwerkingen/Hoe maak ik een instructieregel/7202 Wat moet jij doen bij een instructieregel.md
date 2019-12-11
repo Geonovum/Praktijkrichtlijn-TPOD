@@ -22,6 +22,8 @@ het ‘extensiveringsgebied glastuinbouw’ en wat jij als opsteller moet aangev
 
 ![](media/7202InstructieregelBasisCijfers.png)
 
+*Conceptuele weergave van een geannoteerde instructieregel*
+
 >   **1. Type regel: om welk type regel gaat het en aan wie is het gericht?**  
 >   **a)** Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
 >   een instructieregel of een omgevingswaarderegel. Een instructieregel is

@@ -9,6 +9,8 @@ moet worden.
 
 ![](media/Praktijkrichtlijnen_Omgevingswaarde-Middel.png)
 
+*Conceptuele weergave van een geannoteerde omgevingswaarderegel*
+
 >   **4. Naam: geef de omgevingswaarde een naam.**  
 >   Dit is de naam van de omgevingswaarde waar de regel over gaat. Je
 >   bent vrij in de keuze van de naam van de omgevingswaarde. De naam van de omgevingswaarde kan
@@ -61,4 +63,26 @@ moet worden.
 >   normwaarde in woorden is beschreven. In het veld waarde vul je dan “zie
 >   regeltekst” in.
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Normwaarde kwalitatief.png)
+![](media/Praktijkrichtlijnen_Omgevingswaarde_Normwaarde_kwalitatief.png)
+
+*Conceptuele weergave van een omgevingswaarderegel met een kwalitatief geannoteerde normwaarde*
+
+>   Bovengenoemde voorbeelden laten zien hoe je een omgevingswaarderegel met één normwaarde
+>   kunt annoteren. Het is echter ook mogelijk dat in de omgevingswaarderegel meerdere locaties
+>   met hun bijbehorende normwaarden worden vastgesteld. In zo'n geval is het mogelijk om de
+>   verschillende locaties met hun bijbehorende normwaarden in de artikeltekst te beschrijven en
+>   die te annoteren. Onderstaande afbeelding geeft dit conceptueel weer.
+
+![](media/Praktijkrichtlijnen_Omgevingswaarde_Middel_Meer_kwant_waarden.png)
+
+*Conceptuele weergave van een omgevingswaarderegel met meerdere geannoteerde locaties en normwaarden*
+
+>   Als je de raadpleger makkelijker inzicht wil geven in de specifieke normwaarden voor verschillende locaties door
+>   middel van interactie met de kaart, dan kun je de locaties met hun bijbehorende normwaarden vastleggen in een
+>   geografisch informatieobject. Ook als je voor deze manier kiest, moet je het type regel en de idealisatie
+>   aangeven, en de naam en groep van de omgevingswaarde vastleggen. Onderstaande verbeelding laat zien wat jij
+>   in dit geval moet doen.
+
+![](media/Praktijkrichtlijnen_Omgevingswaarde_Normwaarden_Bijlage.png)
+
+*Conceptuele weergave van een omgevingswaarderegel waarbij de locaties en bijbehorende normwaarden in het geografisch informatieobject worden vastgelegd*

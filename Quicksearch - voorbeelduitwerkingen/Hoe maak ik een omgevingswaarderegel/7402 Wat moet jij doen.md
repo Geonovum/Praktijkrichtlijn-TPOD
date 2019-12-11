@@ -22,6 +22,8 @@ toelaatbare concentratie stikstofdioxide en wat jij als opsteller moet aangeven:
 
 ![](media/Praktijkrichtlijnen_Omgevingswaarde-Minimaal.png)
 
+*Conceptuele weergave van een minimaal geannoteerde omgevingswaarderegel*
+
 >   **1. Type regel: om welk type regel gaat het?**  
 >   Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen, een
 >   instructieregel of een omgevingswaarderegel. Een omgevingswaarderegel is

@@ -54,10 +54,33 @@ moet worden.
 >   Het is ook mogelijk om de normwaarde als kwalitatief te annoteren. Dit kun
 >   je doen als de normwaarde in woorden is beschreven, zoals in onderstaand voorbeeld.
 
-(invoegen afbeelding)
+![](media/Praktijkrichtlijnen_Omgevingsnorm_Normwaarde_Kwalitatief.png)
+
+*Conceptuele weergave van een regel over een omgevingsnorm met een kwalitatief geannoteerde normwaarde*
 
 >   Je kunt de normwaarde ook als kwalitatief annoteren als de normwaarde
 >   dermate complex is beschreven waardoor deze niet alleen met een waarde en een eenheid
 >   of in een aantal woorden is te beschrijven. In dat geval kunt je in het veld normwaarde verwijzen
 >   naar de regeltekst waarin de normwaarde staat, door het veld normwaarde
->   te vullen met de tekst "zie regeltekst".
+>   te vullen met de tekst "zie regeltekst". Een voorbeeld hiervan is beschreven op de pagina
+>   [Hoe maak ik een omgevingswaarderegel?](/hoe-maak-ik-een-omgevingswaarderegel/opstellen-van-een-omgevingswaarderegel).
+
+>   Bovengenoemde voorbeelden laten zien hoe je een regel over een omgevingsnorm met één normwaarde
+>   kunt annoteren. Het is echter ook mogelijk dat in de regel over de omgevingsnorm meerdere locaties
+>   met hun bijbehorende normwaarden worden vastgesteld. In zo'n geval is het mogelijk om de
+>   verschillende locaties met hun bijbehorende normwaarden in de artikeltekst te beschrijven en
+>   die te annoteren. Onderstaande afbeelding geeft dit conceptueel weer.
+
+![](media/Praktijkrichtlijnen_Omgevingsnorm_Meer_kwantiatieve_normwaarden.png)
+
+*Conceptuele weergave van een regel over een omgevingsnorm met meerdere geannoteerde locaties en normwaarden*
+
+>   Als je de raadpleger makkelijker inzicht wil geven in de specifieke normwaarden voor verschillende locaties door
+>   middel van interactie met de kaart, dan kun je de locaties met hun bijbehorende normwaarden vastleggen in een
+>   geografisch informatieobject. Ook als je voor deze manier kiest, moet je het type regel en de idealisatie
+>   aangeven, en de naam en groep van de omgevingsnorm vastleggen. Onderstaande verbeelding laat zien wat jij
+>   in dit geval moet doen.
+
+![](media/Praktijkrichtlijnen_Omgevingsnorm_normwaarden_Bijlage.png)
+
+*Conceptuele weergave van een regel over een omgevingsnorm waarbij de locaties en bijbehorende normwaarden in het geografisch informatieobject worden vastgelegd*

@@ -8,7 +8,7 @@ overzichtelijk mogelijk worden gepresenteerd dat de raadpleger ze correct kan
 interpreteren.
 
 Het presentatiemodel beschrijft de richtlijnen ten aanzien van het presenteren
-van omgevingsdocumenten. Het gaat in op het presenteren van tekst en het
-presenteren van geografische informatieobjecten.
+van omgevingsdocumenten. Het model gaat in op het presenteren van tekst en het
+presenteren van geometrie en annotaties.
 
 Lees [hier](https://geonovum.github.io/TPOD/Presentatiemodel/Presentatiemodel%20STOPTPOD%20v0.98-kern.pdf) het presentatiemodel.

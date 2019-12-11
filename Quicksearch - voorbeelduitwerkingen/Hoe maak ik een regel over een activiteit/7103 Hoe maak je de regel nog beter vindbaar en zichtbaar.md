@@ -9,6 +9,8 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 
 ![](media/7103RegelActiviteitBasis.png)
 
+*Conceptuele weergave van een geannoteerde regel met activiteit*
+
 >   **4. Naam: geef de activiteit een naam.**  
 >   Dit is de naam van de activiteit waar de regel over gaat. Je
 >   bent vrij in de keuze van de naam van de activiteit. De naam van de activiteit kan

@@ -47,7 +47,7 @@ verbeelden.
 
 De idealisatie die aangeeft op welke manier de begrenzing van een locatie
 geïnterpreteerd moet worden en door het bevoegd gezag bedoeld is (bijv. exact of
-indicatief), zou ook gebruikt kunnen worden bij de presentatie van objecten op
+indicatief),zou ook gebruikt kunnen worden bij de presentatie van objecten op
 de kaart. Dat kan bereikt worden door voor objecten waarvan de begrenzing exact
 bedoeld is, symboolcodes uit de symbolenbibliotheek STOPTPOD te kiezen met
 een gesloten lijn en voor objecten waarvan de begrenzing indicatief bedoeld is

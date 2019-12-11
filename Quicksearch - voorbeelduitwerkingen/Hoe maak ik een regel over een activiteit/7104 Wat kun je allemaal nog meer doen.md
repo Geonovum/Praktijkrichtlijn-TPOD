@@ -12,6 +12,7 @@ het betreft. Daarnaast is het ook mogelijk om een gerelateerde activiteit, thema
 gerelateerde regeltekst toe te voegen.
 
 ![](media/7104RegelActiviteitRijk.png)
+*Conceptuele weergave van een annotatie met activiteitregelkwalificatie*
 
 >   **7. Activiteitregelkwalificatie: Geef aan welke activiteitregelkwalificatie het betreft.**  
 >   Het toevoegen van de activiteitregelkwalificatie heeft effect op het zoeken en filteren in het Omgevingsloket.

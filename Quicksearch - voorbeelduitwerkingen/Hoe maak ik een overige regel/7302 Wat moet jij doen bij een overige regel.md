@@ -21,6 +21,8 @@ Zie hieronder een voorbeeld van een artikel met de begripsbepalingen en wat jij 
 
 ![](media/7302OverigeRegelBasis.png)
 
+*Conceptuele weergave annoteren van een overige regel*
+
 >   **1. Type regel: om welk type regel gaat het en aan wie is het gericht?**  
 >   Er zijn drie typen regels die je kunt kiezen. Een regel voor iedereen,
 >   een instructieregel of een omgevingswaarderegel. Een overige regel is per definitie

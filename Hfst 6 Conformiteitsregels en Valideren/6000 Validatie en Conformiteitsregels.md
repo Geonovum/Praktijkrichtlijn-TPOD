@@ -30,5 +30,6 @@ die niet in de standaard geduid kunnen worden, bijvoorbeeld omdat ze over
 procesafspraken gaan die betrekking hebben op de implementatie. In dat geval
 worden deze extra aan de lijst toegevoegd. 
 
-Meer informatie over de lijst met validatie- en conformiteitsregels vind je
-[hier](https://geonovum.github.io/TPOD/Validatieregels/Validatie-%20en%20conformiteitsregels%20TPOD%20v0.98-kern.pdf).
+Meer informatie over de validatie- en conformiteitsregels vind je in het document
+['Validatie- en conformiteitsregels TPOD']
+(https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD).
