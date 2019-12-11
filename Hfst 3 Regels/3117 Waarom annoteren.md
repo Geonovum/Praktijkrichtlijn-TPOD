@@ -3,7 +3,7 @@
 STOP en IMOW maken het mogelijk om een tekstdeel een locatie te geven door een
 verwijzing naar de locatie van het tekstdeel op te nemen. Een computer weet dan
 dat beide bij elkaar horen, maar kan geen verdere betekenis aan die relatie
-geven. Ook kan de locatie niet voor een mens betekenisvol op een kaart
+geven. Ook kan de locatie zonder extra data niet voor een mens betekenisvol op een kaart
 weergegeven worden.
 
 Dit kan wel met het mechanisme van annoteren: het toevoegen van gegevens aan

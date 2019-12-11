@@ -1,4 +1,4 @@
-#### Opbouw van de inhoud van het projectbesluit
+﻿#### Opbouw van de inhoud van het projectbesluit
 
 In het projectbesluit staat beschreven op welke manier het bevoegd gezag een
 bepaald project zal uitvoeren. De provincie, het Rijk of het waterschap kan

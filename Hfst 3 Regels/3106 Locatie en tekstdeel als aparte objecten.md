@@ -13,7 +13,7 @@ objecten in samenhang met elkaar wijzigen, wijzigt het tekstdeel uiteraard wel.
 Het is ook mogelijk om juist aparte locaties te gebruiken die een gelijke
 geometrische afbakening kennen. Dit kan nodig zijn wanneer de geometrische
 afbakening van een tekstdeel juist niet mee mag veranderen als de locatie
-hiervan moet wijzigen vanuit een ander tekstdeel.
+hiervan moet wijzigen vanuit weer een ander tekstdeel.
 Zo kunnen er bijvoorbeeld vijf verschillende tekstdelen tegelijkertijd geldig
 zijn, op evenzoveel geometrisch afgebakende locaties, waarbij de locaties exact
 dezelfde geometrie hebben en geïnspireerd zijn op exact dezelfde fysieke

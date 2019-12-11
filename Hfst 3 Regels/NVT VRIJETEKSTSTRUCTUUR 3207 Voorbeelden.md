@@ -1,4 +1,4 @@
-#### Voorbeelden
+﻿#### Voorbeelden
 
 In de alinea’s hieronder zijn verschillende voorbeelden uitgewerkt waar het
 principe van de STOP/TPOD wordt toegelicht op verschillende manieren. Het is
@@ -7,8 +7,6 @@ van de formele inhoud of het wenselijk is om met meerdere tekstdelen te werken
 om afzonderlijke delen van de tekst een locatie te geven. Het is ook mogelijk om
 de tekst binnen een formele divisie zo op te stellen dat het niet nodig is en je
 maar één tekstdeel per formele divisie hebt.
-
-**Formele divisie met één tekstdeel en één locatie**
 
 In onderstaand voorbeeld bevat de de tekst binnen de formele divisie één
 tekstdeel met één locatie. In zo’n geval kan de formele inhoud bijvoorbeeld als
@@ -23,9 +21,9 @@ ook voorzien zijn van dezelfde noemer. Aanvullend kan ook een gebiedsaanwijzing
 voorkomen, voor bijvoorbeeld geluidsreducerende maatregelen, die onder andere de
 geluidschermen omvat. Dan zal in de IMOW-bestanden te zien zijn dat het
 tekstdeel de locatie benoemt en de gebiedsaanwijzing verwijst naar de locatie(s)
-die door het tekstdeeel zi/zijn benoemt.
+die door het tekstdeel zijn benoemd.
 
-**Formele divisie bevat meerdere tekstdelen en meerdere locaties**
+
 
 Hieronder is een voorbeeld uitgewerkt van formele inhoud die meerdere tekstdelen
 bevat met meerdere locaties. In zo’n geval kan de formele inhoud bijvoorbeeld

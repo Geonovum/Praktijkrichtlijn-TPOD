@@ -1,6 +1,6 @@
 ﻿#### Locatie en projectgebied in context
 
-Omdat het projectbesluit zelf (deel 1 van het projectbesluit) geen
+Omdat het projectbesluit zelf (deel 1 van het projectbesluit) volgens de TPOD geen
 werkingsgebied bevat en het ambtsgebied nagenoeg altijd groter is dan het gebied
 waar het project uitgevoerd wordt, moet bij het projectbesluit altijd een
 projectgebied bijgesloten worden. Dit wordt voorgeschreven in de vorm van een
@@ -17,6 +17,7 @@ hebben. In onderstaand figuur zijn deze begrippen in vereenvoudigde weergave met
 elkaar in verband gebracht.
 
 ![](media/3205PGenLocatieaanduiding.png)
+
 *Conceptuele weergave van locatie en projectgebied en de relatie met andere
 relevante begrippen*
 

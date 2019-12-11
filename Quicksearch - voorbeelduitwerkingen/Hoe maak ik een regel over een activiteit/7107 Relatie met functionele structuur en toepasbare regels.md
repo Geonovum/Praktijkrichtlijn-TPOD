@@ -15,7 +15,7 @@ uitleg over de functionele structuur.
     die gevoed wordt door het IMOW-deel van omgevingsdocumenten.
 
 -   **Locatieaanduiding**: 
-    Toepasbare regels halen hun locatie uit de
+    Toepasbare regels halen hun locatie(s) uit de
     locatieaanduidingen die door de juridische regel(s) over de activiteit in IMOW wordt aangeduid.
 
 -   **Bovenliggende activiteit**: 
@@ -23,10 +23,10 @@ uitleg over de functionele structuur.
     zich verhoudt tot een meer generieke activiteit. De bovenliggende activiteit kan een activiteit zijn die 
     al in de functionele structuur bestaat. Het mag ook een activiteit zijn die je in hetzelfde omgevingsdocument
     creëert. De bovenliggende activiteit bepaalt waar in de functionele structuur de Activiteit zal worden toegevoegd.
-    Activiteiten en de relatie naar bovenliggende activiteiten, die middels IMOW worden aangebracht, 
-    komen terecht in de functionele structuur waar vragenbomen gebruik van maken. 
-    Een voorbeeld is de activiteit ‘het opslaan van motorbrandstoffen’ die een specificatie is van de generieke, 
-    in de Omgevingswet benoemde, activiteit ‘milieubelastende activiteit’.
+    Activiteiten die middels IMOW worden aangebracht, komen terecht onder de IMOW aangegeven bovenliggende activiteit
+    in de functionele structuur. 
+    Een voorbeeld is de activiteit ‘het opslaan van motorbrandstoffen’ die als bovenliggende activiteit de, 
+    in de Omgevingswet benoemde, activiteit ‘milieubelastende activiteit’ heeft.
 
 -   **Gerelateerde activiteit**: 
     Een (niet verplicht) aanknopingspunt tussen juridische regels en toepasbare regels vormen

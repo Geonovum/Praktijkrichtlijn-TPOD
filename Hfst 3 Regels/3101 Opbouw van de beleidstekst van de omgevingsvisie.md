@@ -1,4 +1,4 @@
-#### Opbouw van de beleidstekst
+﻿#### Opbouw van de beleidstekst
 
 Het bevoegd gezag heeft de mogelijkheid om in de Omgevingsvisie beleidstekst op
 te stellen die iets zegt over het beleid met betrekking tot de fysieke
@@ -19,7 +19,9 @@ inhoud kan alleen voorkomen binnen een formele divisie.
 Om de beleidstekst in het Digitale Stelsel Omgevingswet te laten landen bestaat
 deze uit verschillende onderdelen.
 
-*Onderdelen van beleidstekst*
+![](media/3101OnderdelenBeleidstekst.png)
+
+*Onderdelen van een beleidstekst*
 
 De formele divisie is het structuurelement dat aangeeft ‘wat’ er geldt. De
 formele divisie is gekoppeld aan een locatie die aangeeft ‘waar’ de beleidstekst

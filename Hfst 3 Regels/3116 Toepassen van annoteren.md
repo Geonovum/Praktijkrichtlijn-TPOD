@@ -24,14 +24,8 @@ gaan werken.
 Een tekstdeel kun je annoteren met een (of meerdere) van bovenstaande
 inhoudelijke annotaties. Een annotatie kan -in inhoudelijke zin- betrekking
 hebben op een heel tekstdeel of, indien gewenst, op een onderdeel daarvan. In
-technische zin zal een annotatie echter gekoppeld worden op het niveau van het
-tekstdeel. Elke annotatie verwijst naar de identificatie van het tekstdeel.
-
-In het DSO-LV zal bij bevraging het hele tekstdeel getoond worden en niet alleen
-het stukje tekst waar de annotatie inhoudelijk betrekking op heeft. Op deze
-manier wordt de volledige context getoond (zie p. 42 in de TPOD).
-
-of
+technische zin zal een annotatie echter gekoppeld worden op het niveau van de formele divisie.
+Elke annotatie verwijst naar de identificatie van het tekstdeel.
 
 In het DSO-LV zal bij bevraging altijd de volledige formele divisie als resultaat
 worden weergegeven en niet de individuele formele inhoud. Op deze manier wordt de
@@ -39,6 +33,6 @@ volledige context getoond inclusief alle koppen (zie p. 29 in de TPOD).
 
 Zie onderstaande figuren voor een schematische weergave.
 
-[invoegen afbeelding zodra deze klaar en gecontroleerd is]
+![](media/3116TPODPraktijkrichtlijnenSchemaAnnoterenVrijetekststructuur.png)
 
 *Annoteren tekstdeel*

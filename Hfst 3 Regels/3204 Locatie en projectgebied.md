@@ -2,14 +2,13 @@
 
 Een belangrijk uitgangspunt van STOP is dat ieder besluit een werkingsgebied
 heeft. Werkingsgebied is een abstract, conceptueel begrip: het gebied waar een
-regeltekst (dus een artikel of een lid) zijn werking heeft.
+(regel)tekst zijn werking heeft.
 
-Het projectbesluit zelf (deel 1 van het projectbesluit) bevat geen regeltekst en
-heeft geen werkingsgebied, maar een projectgebied. Deel 2 van het projectbesluit
-gaat over de gewijzigde regels in het omgevingsplan, hier is er wel sprake van
-een werkingsgebied. Lees voor informatie over het werkingsgebied en de locatie
-verder op [de pagina’s van het
-omgevingsplan](https://wegwijzerstoptpod.nl/omgevingsplan/regels-omgevingsplan-werkingsgebied-en-locatie).
+Het projectbesluit zelf (deel 1 van het projectbesluit) bevat geen regeltekst, maar 
+wel beleidstekst die op een bepaald gebied zijn werking heeft. Dit heet in TPOD projectbesluit
+een projectgebied. Deel 2 van het projectbesluit gaat over de gewijzigde regels in het omgevingsplan, 
+en hier is zeker sprake van een werkingsgebied. Lees voor informatie over het werkingsgebied en 
+de locatie verder op [de pagina’s van het omgevingsplan](https://wegwijzerstoptpod.nl/omgevingsplan/regels-omgevingsplan-werkingsgebied-en-locatie).
 
 De termen locatie en projectgebied hebben in de STOP/TPOD een verschillende
 specifieke betekenis. De volgende alinea’s bevatten de informatie over beide

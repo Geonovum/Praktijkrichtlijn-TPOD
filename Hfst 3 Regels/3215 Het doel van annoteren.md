@@ -9,7 +9,7 @@ werkingsgebieden. De gegevens die bij het annoteren worden toegevoegd worden
 niet in de voor de mens leesbare tekst weergegeven. De annotaties zijn wel
 zichtbaar in het machineleesbare bestand.
 
-Annotaties zijn op vrijwel alle objecten of tekstelementen mogelijk. Ze helpen
+Annotaties zijn op het tekstdeel via een formele divisie (de kop) mogelijk. Ze helpen
 om regels op hun eigenschappen te vinden wanneer zoektermen worden gebruikt. Ze
 helpen ook om regels op hun eigenschappen te kunnen presenteren.
 
@@ -21,7 +21,7 @@ Voor het projectbesluit gaat het om de volgende IMOW-objecten:
 
 -   Tekstdeel (alleen in deel 1)
 
--   Formele inhoud (alleen in deel 1)
+-   Formele divisie (alleen in deel 1)
 
 -   Regeltekst (alleen in deel 2)
 

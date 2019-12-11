@@ -43,7 +43,7 @@ moet worden.
 
 >   **6. Normwaarde: geef aan of het een kwantitatieve of kwalitatieve
 >   normwaarde betreft; en geef de waarde en eventuele eenheid aan.**  
->   In onderstaand voorbeeld is een kwantitatieve normwaarde van de
+>   In bovenstaand voorbeeld is een kwantitatieve normwaarde van de
 >   omgevingswaarde vastgesteld. Hier zul je bij de normwaarde aangeven dat het
 >   een kwantitatieve normwaarde betreft en vervolgens de waarde en de eenheid
 >   aangeven. De waarde moet numeriek zijn. De eenheid kun je kiezen uit een

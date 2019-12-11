@@ -25,7 +25,7 @@ De toelichting op bovenstaande figuur volgt in onderstaande opsomming:
 >   Ook het gegeven dat “Activiteiten met gevolgen voor de fysieke leefomgeving”
 >   de bovenliggende activiteit is van “Omgevingsplanactiviteit” komt via het
 >   IMOW-deel van de wet / AMvB terecht in de functionele structuur. Bij het maken van
->   de activiteit "omgevingsplanactiviteit", wordt in het attribuut bovenliggende activiteit 
+>   de activiteit "Omgevingsplanactiviteit", wordt in het attribuut bovenliggende activiteit 
 >   aangegeven dat dit "Activiteiten met gevolgen voor de fysieke leefomgeving" is.
 
 >   2: Voor elk nieuw omgevingsdocument dat een IMOW-deel bevat met daarin
