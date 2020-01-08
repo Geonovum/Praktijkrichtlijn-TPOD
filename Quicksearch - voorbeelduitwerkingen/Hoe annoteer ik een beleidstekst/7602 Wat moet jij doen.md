@@ -20,6 +20,10 @@ plansoftware.
 Zie hieronder een voorbeeld van een beleidstekst over het gebied 'Maashorst' en
 wat jij als opsteller moet aangeven:
 
+![](media/7602BeleidstekstAnnoteren_Minimaal.png)
+
+*Conceptuele weergave van een minimaal geannoteerde beleidstekst*
+
 >   **1. Locatie: op welke locatie is deze beleidstekst van toepassing?**  
 >   Om de raadpleger via Omgevingsloket van de juiste informatie te voorzien, is
 >   het noodzakelijk om aan te geven waar het tekstdeel van toepassing is. Geef
@@ -27,7 +31,7 @@ wat jij als opsteller moet aangeven:
 >   van toepassing zijn.
 >   De locatie in het voorbeeld is de begrenzing van de Maashorst binnen het gebied Peelhorst.
 >   Stel met elkaar goed af waar de grens ligt en leg het gebied Maashorst vast als locatie.
->   Als de locatie aanwezig is dan kan de betreffende tekstdelen (beleidsteksten) hieraan gekoppeld
+>   Als de locatie aanwezig is dan kunnen de betreffende tekstdelen (beleidsteksten) hieraan gekoppeld
 >   worden.
 
 >   **2. Idealisatie: is de begrenzing van de locatie exact of indicatief

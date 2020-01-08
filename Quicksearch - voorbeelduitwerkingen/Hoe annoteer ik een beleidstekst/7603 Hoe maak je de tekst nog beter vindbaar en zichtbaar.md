@@ -12,25 +12,24 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 *Conceptuele weergave van een geannoteerde beleidstekst*
 
 >   **3. Naam: geef de gebiedsaanwijzing een naam.**  
->   Dit is de naam van de gebiedsaanwijzing waar de regel over gaat. Je
+>   Dit is de naam van de gebiedsaanwijzing waar het tekstdeel over gaat. Je
 >   bent vrij in de keuze van de naam van de gebiedsaanwijzing. De naam van de gebiedsaanwijzing kan
 >   letterlijk in de regel terug te vinden zijn (expliciet), maar het is ook mogelijk
->   de de gebiedsaanwijzing impliciet wordt gedefinieerd in de tekst van de regel. De naam moet 
+>   dat de gebiedsaanwijzing impliciet wordt gedefinieerd in het tekstdeel. De naam moet 
 >   uniek zijn binnen het plan, echter het kan wel voorkomen dat het dezelfde naam is als een gebiedsaanwijzing van een ander bevoegd gezag. De naam van 
->   de gebiedsaanwijzing mag dezelfde zijn als de naam van de genoemde gebiedsaanwijzingengroep.
+>   de gebiedsaanwijzing mag dezelfde zijn als de naam van de genoemde gebiedsaanwijzinggroep.
 
 >   De naam van de gebiedsaanwijzing die wordt geannoteerd, zal in het DSO ook de naam zijn waarop
 >   gezocht en gefilterd kan worden. Hier moet bij de naamgeving rekening mee gehouden worden.
 >   Daarom wordt geadviseerd om een logische en eenduidige naam te annoteren.
 
->   In bovenstaand voorbeeld heet de gebiedsaanwijzing 'Landschappen van allure'. 
+>   In bovenstaand voorbeeld heet de gebiedsaanwijzing 'Landschappen van Allure'. 
 >   Deze gebiedsaanwijzing valt onder het type 'Landschap'. De betekenis volgens de waardelijst:
 >   Gebied dat is aangewezen door regels of beleid, gericht op de bescherming en de ontwikkeling 
 >   van het landschap vanuit ander perspectief dan natuur en erfgoed. Met dit type kun je hier filteren
 >   op landschap.
 
-
->   **4. gebiedsaanwijzinggroep: geef aan in welke gebiedsaanwijzinggroep deze
+>   **4. Gebiedsaanwijzinggroep: geef aan in welke gebiedsaanwijzinggroep deze
 >   valt.**  
 >   Hier geef je aan in welke gebiedsaanwijzinggroep de gebiedsaanwijzing valt. De
 >   gebiedsaanwijzinggroep kies je uit een gesloten waardelijst. Dit betekent dat
@@ -57,7 +56,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   presentatie in kaartbeeld vind je op de pagina [Presenteren](/presenteren)
 >   in deze wegwijzer. Indien je wil afwijken van de symbolisatie
 >   van de gebiedsaanwijzinggroep, is het ook mogelijk om te verbeelden op de 
->   naam van de gebiedsaanwijzing. De standaard verbeelding van de gebiedsaanwijzingengroep 
+>   naam van de gebiedsaanwijzing. De standaard verbeelding van de gebiedsaanwijzinggroep 
 >   wordt dan niet getoond in de publicatieportalen. In de DSO viewer krijgt 
 >   de raadpleger de keuze een regelingspecifieke verbeelding te zien in plaats 
 >   van de standaard verbeelding.

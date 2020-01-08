@@ -69,7 +69,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   standaard verbeelding) verbeeld wordt. Zoals hiervoor aangegeven kan er 
 >   alsnog van de verbeelding afgeweken worden.
 
->   **6. Bovenliggende activiteit: Geef aan onder welke bovenliggende activiteit deze valt.**  
+>   **6. Bovenliggende activiteit: geef aan onder welke bovenliggende activiteit deze valt.**  
 >   Met dit attribuut wordt aangegeven hoe deze activiteit, zich verhoudt tot een meer generieke 
 >   activiteit. Het attribuut bovenliggende activiteit is ingesteld ten behoeve van het opstellen 
 >   en gebruiken van vragenbomen. Door de bovenliggende activiteit aan te geven, komt de activiteit op de juiste plek

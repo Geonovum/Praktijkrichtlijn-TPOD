@@ -31,5 +31,5 @@ Daarnaast is het ook nog mogelijk om thema of hoofdlijn toe te voegen.
 >   lading voorkomt in de waardelijst. Dan geef je in dit geval een eigen thema op.
 
  
-Bovenstaande stappen geven inzicht in hoe de standaard bedoelt is en gebruikt kan worden, 
+Bovenstaande stappen geven inzicht in hoe de standaard bedoeld is en gebruikt kan worden, 
 de exacte werking van de plansoftware kan afwijken.

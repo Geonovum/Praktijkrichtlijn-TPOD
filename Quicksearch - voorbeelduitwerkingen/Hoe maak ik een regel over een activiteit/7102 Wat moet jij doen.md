@@ -37,7 +37,7 @@ Zie hieronder een voorbeeld van een regel over het 'aanleggen van een uitrit'
 >   noodzakelijk om aan te geven waar de regel over een activiteit van toepassing is. Geef
 >   hiervoor aan op welke locatie(s) de regel van toepassing is.
 
->   **3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?**
+>   **3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?**  
 >   Als je hebt aangegeven op welke locatie deze regel van toepassing is, kun je
 >   vervolgens met de idealisatie aangeven of de begrenzing van de locatie voor déze
 >   regel exact of indicatief geïnterpreteerd moet worden. Dit attribuut zegt dus
