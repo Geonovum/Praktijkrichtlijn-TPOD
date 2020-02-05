@@ -37,7 +37,7 @@ wat jij als opsteller moet aangeven:
 >   Als de locatie aanwezig is dan kunnen de betreffende tekstdelen (beleidsteksten) hieraan gekoppeld
 >   worden.
 
->   **2. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor dit tekstdeel?** 
+>   **2. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor dit tekstdeel?**  
 >   Als je hebt aangegeven op welke locatie dit tekstdeel van toepassing is, kun je 
 >   vervolgens met de idealisatie aangeven of de begrenzing van de locatie voor déze tekst 
 >   exact of indicatief geïnterpreteerd moet worden. Dit attribuut zegt dus iets over de begrenzing

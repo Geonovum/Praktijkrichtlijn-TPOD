@@ -1,6 +1,6 @@
 ﻿#### Wat kun je allemaal nog meer doen?
 
-Een raadpleger kan zich, met behulp van de acties uit 1 t/m 4, oriënteren in het Omgevingsloket.
+Een raadpleger kan zich, met behulp van de acties uit 1 t/m 5, oriënteren in het Omgevingsloket.
 Hij kan filteren op gebiedsaanwijzingen, kan op zijn locatie zien
 welke beleidsteksten er van toepassing zijn en kan de gebiedsaanwijzingen terugzien op de kaart. 
 Daarnaast is het ook nog mogelijk om thema of hoofdlijn toe te voegen.
@@ -9,7 +9,7 @@ Daarnaast is het ook nog mogelijk om thema of hoofdlijn toe te voegen.
 
 *Conceptuele weergave van een beleidstekst waarbij zowel de gebiedsaanwijzing als het thema en de hoofdlijn zijn geannoteerd*
 
->   **6. Geef aan welke hoofdlijn het betreft.**
+>   **6. Geef aan welke hoofdlijn het betreft**  
 >   Het toevoegen van een hoofdlijn aan een tekstdeel heeft effect op het zoeken en
 >   filteren in het Omgevingsloket. Alle bevoegde gezagen kunnen hun beleidsteksten
 >   annoteren met een hoofdlijn. Denk hierbij aan zaken als perspectieven of ambities voor een gebied.
@@ -18,7 +18,7 @@ Daarnaast is het ook nog mogelijk om thema of hoofdlijn toe te voegen.
 >   maken heeft met deze ambitie komt onder deze hoofdlijn en is in het Omgevingsloket ook als zodanig vindbaar.
 >   De hoofdlijnen kunnen zelf gekozen worden. 
 
->   **7. Geef aan welk thema het betreft.**  
+>   **7. Geef aan welk thema het betreft**  
 >   Het toevoegen van een thema aan de regel heeft effect op het zoeken en
 >   filteren in het DSO. Alle bestuurslagen kunnen hun beleid en regels
 >   annoteren met een thema, dit is een tekstgebonden attribuut. Dit betekent

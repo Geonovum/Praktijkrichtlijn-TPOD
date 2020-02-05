@@ -39,7 +39,7 @@ en wat jij als opsteller ten eerste moet aangeven:
 >   de locatie op te nemen in de machineleesbare tekst. In de plansoftware zal dit bij een koppeling tekst-locatie 
 >   onder water gebeuren. Je ziet geen ID's in de tekst aan de voorkant.
 
->   **3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?**
+>   **3. Idealisatie: is de begrenzing van de locatie exact of indicatief bedoeld voor deze regel?**  
 >   Als je hebt aangegeven op welke locatie deze regel van toepassing is, kun je vervolgens met de idealisatie 
 >   aangeven of de begrenzing van de locatie voor déze regel exact of indicatief geïnterpreteerd moet worden. 
 >   Dit attribuut zegt dus iets over de begrenzing van de locatie voor díe specifieke regel. De reden

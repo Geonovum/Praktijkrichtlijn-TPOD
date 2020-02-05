@@ -11,7 +11,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 
 *Conceptuele weergave van een geannoteerde beleidstekst*
 
->   **3. Type: geef aan van welk type de gebiebsaanwijzing is**
+>   **3. Type: geef aan van welk type de gebiebsaanwijzing is**  
 >   Kies hier om welk type gebiedsaanwijzing het gaat. Er zijn thematische typen
 >   gebiedsaanwijzing, zoals bodem, geluid, defensie verkeer, etc. en er zijn drie
 >   niet-thematische typen gebiedsaanwijzing, namelijk functie, beperkingengebied en
@@ -32,7 +32,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   Dit is echter een algemene term die verder verduidelijkt kan worden door 
 >   de groep en een naam op te geven.
 
->   **5. Groep: geef aan in welke groep de gebiedsaanwijzing valt**
+>   **4. Groep: geef aan in welke groep de gebiedsaanwijzing valt**  
 >   Hier geef je aan in welke groep de gebiedsaanwijzing valt. De groep
 >   kies je uit een gesloten waardelijst. In bovenstaand voorbeeld is gekozen 
 >   voor de groep 'Specifiek benoemd landschap'.
@@ -54,7 +54,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   standaardverbeelding) verbeeld wordt. Zoals hiervoor aangegeven kan er 
 >   alsnog van de verbeelding afgeweken worden.
 
->   **6. Naam: geef de gebiedsaanwijzing een naam**  
+>   **5. Naam: geef de gebiedsaanwijzing een naam**  
 >   Dit is de naam van de specifieke gebiedsaanwijzing waar de regel over gaat. De naam is het meest gedetailleerde niveau waarop
 >   je de gebiedsaanwijzing inhoudelijk kunt duiden. Je bent vrij in de keuze van de naam van 
 >   de gebiedsaanwijzing. De naam van de gebiedsaanwijzing die wordt geannoteerd, zal in het Omgevingsloket ook de naam zijn waarop 
