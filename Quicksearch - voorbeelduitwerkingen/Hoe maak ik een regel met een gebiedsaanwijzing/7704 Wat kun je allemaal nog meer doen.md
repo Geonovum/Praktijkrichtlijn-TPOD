@@ -5,7 +5,7 @@ Een raadpleger kan zich, met behulp van de acties uit 1 t/m 6, oriënteren in he
 horen. Tot slot is het ook mogelijk om een thema of gerelateerde regeltekst toe
 te voegen.
 
-![](media/7704 Gebiedsaanwijzing_Rijk.png)
+![](media/7704Gebiedsaanwijzing_Rijk.png)
 
 *Conceptuele weergave van een regel waarbij zowel de gebiedsaanwijzing als het thema zijn geannoteerd*
 

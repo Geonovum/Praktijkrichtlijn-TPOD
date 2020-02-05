@@ -19,7 +19,7 @@ De lijst van mogelijke waarden zal uiteindelijk geïntegreerd zijn in de plansof
 Zie hieronder een voorbeeld van een artikel uit een omgevingsplan met gebiedsaanwijzing geluidaandachtsgebied 
 en wat jij als opsteller ten eerste moet aangeven:
 
-![](media/7702 Gebiedsaanwijzing_Minimaal.png)
+![](media/7702Gebiedsaanwijzing_Minimaal.png)
 
 *Conceptuele weergave annoteren van een regel met gebiedsaanwijzing geluidaandachtgebied gemeenteweg*
 

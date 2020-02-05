@@ -4,7 +4,7 @@ Je kunt ervoor zorgen dat een raadpleger over meer informatie beschikt tijdens h
 is het mogelijk om te zoeken en te filteren op trefwoorden of categorieën.  
 In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd **moet** worden.
 
-![](media/7703 Gebiedsaanwijzing_Middel.png)
+![](media/7703Gebiedsaanwijzing_Middel.png)
 
 *Conceptuele weergave van een geannoteerde gebiedsaanwijzing in een omgevingsplan*
 
