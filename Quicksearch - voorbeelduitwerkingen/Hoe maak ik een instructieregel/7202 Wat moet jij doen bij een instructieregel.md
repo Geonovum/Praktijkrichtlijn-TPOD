@@ -54,12 +54,8 @@ het ‘extensiveringsgebied glastuinbouw’ en wat jij als opsteller moet aangev
 >   vervolgens met de idealisatie aangeven of de begrenzing van de locatie voor déze
 >   regel exact of indicatief geïnterpreteerd moet worden. Dit attribuut zegt dus
 >   iets over de begrenzing van de locatie voor díe specifieke regel. De reden
->   hiervoor is dat de locatie op deze manier ook voor andere regels gebruikt kan
->   worden, zonder dat ze dezelfde idealisatie moeten hebben. Indicatief kan
->   bijvoorbeeld gebruikt worden wanneer de begrenzing van de locatie bepaald is op
->   basis van een berekening of wanneer een locatie bedoeld is als indicatie of
->   zoekzone voor de plek voor een toekomstige ontwikkeling: pas later wordt de
->   daadwerkelijke plek bepaald.
+>   hiervoor is dat de idealisatie een attribuut is van de juridische regel en niet van de locatie. 
+>   Indicatief wil alleen zeggen dat er naast de exacte grens ook nog een marge bestaat. 
 
 Dankzij het annoteren van de ‘idealisatie’ en het aangeven van de bijbehorende
 ‘locatie’ is precies duidelijk waar de regel van toepassing is. De raadpleger

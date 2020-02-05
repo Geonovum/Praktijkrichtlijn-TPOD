@@ -1,3 +1,0 @@
-#### Wat is een gebiedsaanwijzing?
-
-...

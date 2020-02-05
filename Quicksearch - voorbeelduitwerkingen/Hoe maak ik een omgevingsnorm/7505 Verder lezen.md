@@ -10,6 +10,10 @@ Kijk voor de andere ‘hoe maak ik …?' op de volgende pagina’s:
 
 -   [Hoe maak ik een omgevingswaarderegel?](/hoe-maak-ik-een-omgevingswaarderegel);
 
+-   [Hoe maak ik een beleidstekst?](/hoe-maak-ik-een-beleidstekst);
+
+-   [Hoe maak ik een gebiedsaanwijzing?](/hoe-maak-ik-een-gebiedsaanwijzing).
+
 Voor meer informatie over de omgevingsdocumenten waarin regels over een omgevingsnorm 
 vastgesteld kunnen worden, zie de volgende pagina’s:
 

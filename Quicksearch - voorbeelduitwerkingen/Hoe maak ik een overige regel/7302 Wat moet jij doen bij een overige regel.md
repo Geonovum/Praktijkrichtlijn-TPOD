@@ -3,8 +3,9 @@
 Een groot deel van de nodige acties wordt door de software geautomatiseerd. Zo
 zorgt de software voor de juiste koppeling tussen de IMOW-objecten, dat tekst en
 kaart verbonden zijn en dat jij je bezig kunt houden met de inhoud. Dat laatste
-is namelijk niet iets wat de software voor je kan doen. Als opsteller van het
-omgevingsdocument moet je dus aan de slag met:
+is namelijk niet iets wat de software voor je kan doen. 
+
+Als opsteller van het omgevingsdocument moet je dus aan de slag met:
 
 -   Het opstellen en annoteren van tekst (wat regel ik?);
 
@@ -45,9 +46,10 @@ Zie hieronder een voorbeeld van een artikel met de begripsbepalingen en wat jij 
 >   bijvoorbeeld gebruikt worden wanneer de begrenzing van de locatie bepaald is op
 >   basis van een berekening of wanneer een locatie bedoeld is als indicatie of
 >   zoekzone voor de plek voor een toekomstige ontwikkeling: pas later wordt de
->   daadwerkelijke plek bepaald. In het geval van begripsbepalingen wordt er altijd voor een exacte idealidatie gekozen.
+>   daadwerkelijke plek bepaald. In het geval van begripsbepalingen wordt er altijd voor een 
+>   exacte idealidatie gekozen.
 
-Dankzij het annoteren van de ‘idealisatie’ en het aangeven van de bijbehorende
-‘locatie’ is precies duidelijk waar de regel van toepassing is. De raadpleger
-kan nu in het Omgevingsloket op een plek in de kaart prikken en ziet dan dat
-artikel 2.2 *daar* van toepassing is en weet dat de regel voor *hem* van toepassing is.
+Dankzij het annoteren van de ‘idealisatie’ en het aangeven van de bijbehorende ‘locatie’ is precies duidelijk 
+waar de regel van toepassing is. De raadpleger kan nu in het Omgevingsloket op een plek in de kaart prikken en 
+ziet dan dat hetartikel *daar* van toepassing is en weet dankzij het regeltype ook dat de regel voor *hem* van 
+toepassing is.

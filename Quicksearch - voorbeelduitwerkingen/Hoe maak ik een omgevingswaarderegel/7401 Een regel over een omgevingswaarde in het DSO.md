@@ -13,11 +13,8 @@ technisch oogpunt gestructureerd moeten worden volgens dezelfde standaard:
 STOP/TPOD. Deze standaard schrijft ook voor dat voor alle regels aangegeven moet
 worden op welke locatie deze van toepassing zijn.
 
-De standaard voorziet hierin door middel van het mechanisme
-[annoteren](https://wegwijzerstoptpod.nl/annoteren-0) en o.a. de IMOW-objecten
-[regeltekst met bijbehorende juridische
-regel(s)](https://wegwijzerstoptpod.nl/regeltekst-en-formele-inhoud) en [locatie
-& werkingsgebied](https://wegwijzerstoptpod.nl/locatie-en-werkingsgebied). Dit
-mechanisme en bovengenoemde IMOW-objecten tezamen met het IMOW-object
-‘omgevingswaarde’ zorgen ervoor dat omgevingswaarderegels voor eenieder
-raadpleegbaar zijn op de kaart.
+De standaard voorziet hierin door middel van het[annoteren](https://wegwijzerstoptpod.nl/annoteren-0) en o.a. de 
+IMOW-objecten[regeltekst met bijbehorende juridische regel(s)](https://wegwijzerstoptpod.nl/regeltekst-en-formele-inhoud)
+en [locatie](https://wegwijzerstoptpod.nl/locatie-en-werkingsgebied). 
+Het annoteren plus bovengenoemde IMOW-objecten tezamen met het IMOW-object ‘omgevingswaarde’ zorgen ervoor dat 
+omgevingswaarderegels voor eenieder raadpleegbaar zijn op de kaart.

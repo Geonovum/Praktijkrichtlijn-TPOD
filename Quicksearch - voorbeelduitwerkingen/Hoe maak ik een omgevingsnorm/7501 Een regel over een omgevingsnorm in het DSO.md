@@ -13,11 +13,10 @@ technisch oogpunt gestructureerd moeten worden volgens dezelfde standaard:
 STOP/TPOD. Deze standaard schrijft ook voor dat voor alle regels aangegeven moet
 worden op welke locatie deze van toepassing zijn.
 
-De standaard voorziet hierin door middel van het mechanisme
+De standaard voorziet hierin door middel van het
 [annoteren](/annoteren-0) en o.a. de IMOW-objecten
 [regeltekst met bijbehorende juridische
-regel(s)](/regeltekst-en-formele-inhoud) en [locatie
-& werkingsgebied](/locatie-en-werkingsgebied). Dit
-mechanisme en bovengenoemde IMOW-objecten tezamen met het IMOW-object
+regel(s)](/regeltekst-en-formele-inhoud) en [locatie](/locatie-en-werkingsgebied). 
+Het annoteren en bovengenoemde IMOW-objecten tezamen met het IMOW-object
 'omgevingsnorm' zorgen ervoor dat regels over omgevingsnormen voor eenieder
 raadpleegbaar zijn op de kaart.
