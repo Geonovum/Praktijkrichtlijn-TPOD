@@ -7,11 +7,11 @@ zoeken en te filteren op trefwoorden of categorieën.
 In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 **moet** worden.
 
-![](media/7603TPOD_Praktijkrichtlijnen_Beleidstekst annoteren_Middel.png)
+![](media/7603Beleidstekst_annoteren_Middel.png)
 
 *Conceptuele weergave van een geannoteerde beleidstekst*
 
->   **3. Type: geef aan van welk type de gebiebsaanwijzing is**  
+>   **3. Type: geef aan van welk type de gebiedsaanwijzing is**  
 >   Kies hier om welk type gebiedsaanwijzing het gaat. Er zijn thematische typen
 >   gebiedsaanwijzing, zoals bodem, geluid, defensie verkeer, etc. en er zijn drie
 >   niet-thematische typen gebiedsaanwijzing, namelijk functie, beperkingengebied en

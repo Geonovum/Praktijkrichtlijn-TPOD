@@ -1,4 +1,4 @@
-#### Beheer waardelijsten
+﻿#### Beheer waardelijsten
 
 De waardelijsten en individuele waarden binnen de waardelijsten zijn
 onderdeel van STOP/TPOD. In het IMOW is bij de
@@ -14,7 +14,7 @@ meest actuele versie. Door linksboven op de pijltjes te klikken wordt de tabel
 alfabetisch gesorteerd en staan de verschillende versies van de waardelijst
 onder elkaar. Zie de rode cirkel in onderstaand figuur.
 
-![](media/3019Stelselcatalogus.jpg)
+![](media/3019Stelselcatalogus.png)
 
 Wanneer een gewenste waarde niet op één van de lijsten voorkomt kan ieder bevoegd gezag een 
 verzoek tot wijziging van de waardelijst indienen. Vervolgens wordt dit verzoek op de wensen-
