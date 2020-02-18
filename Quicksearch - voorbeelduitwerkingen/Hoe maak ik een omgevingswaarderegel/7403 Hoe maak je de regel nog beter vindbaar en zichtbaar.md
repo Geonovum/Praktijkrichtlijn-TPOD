@@ -1,25 +1,28 @@
 ﻿#### Wat kun je nog meer doen om de regel goed vindbaar en zichtbaar te maken?
 
 Je kunt ervoor zorgen dat een raadpleger over meer informatie beschikt tijdens
-het oriënteren middels ‘Regels op de kaart’. Door de omgevingswaarde te
-annoteren, kan deze gepresenteerd worden op de kaart en is het mogelijk om te
-zoeken en te filteren op trefwoorden of categorieën.  
+het oriënteren in het Omgevingsloket. Door de omgevingswaarde te annoteren, kan
+deze gepresenteerd worden op de kaart en is het mogelijk om te zoeken en te
+filteren op trefwoorden of categorieën.  
 In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 moet worden.
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde-Middel.png)
+![](media/Wegwijzer_Omgevingswaarde_Middel.png)
 
-*Conceptuele weergave van een geannoteerde omgevingswaarderegel*
+*Conceptuele weergave van een omgevingswaarderegel met een kwalitatief
+geannoteerde omgevingswaarde*
 
 >   **4. Naam: geef de omgevingswaarde een naam.**  
->   Dit is de naam van de omgevingswaarde waar de regel over gaat. Je
->   bent vrij in de keuze van de naam van de omgevingswaarde. De naam van de omgevingswaarde kan
->   letterlijk in de regel terug te vinden zijn (expliciet), maar het is ook mogelijk dat de 
->   omgevingswaarde impliciet wordt gedefinieerd in de tekst van de regel.
+>   Dit is de naam van de omgevingswaarde waar de regel over gaat. Je bent vrij
+>   in de keuze van de naam van de omgevingswaarde. De naam van de
+>   omgevingswaarde kan letterlijk in de regel terug te vinden zijn (expliciet),
+>   maar het is ook mogelijk dat de omgevingswaarde impliciet wordt gedefinieerd
+>   in de tekst van de regel.
 
->   De naam van de omgevingswaarde die wordt geannoteerd, zal in het DSO ook de naam zijn waarop 
->   gezocht en gefilterd kan worden. Hier moet bij de naamgeving rekening mee gehouden worden. Daarom
->   wordt geadviseerd om een logische en eenduidige naam te annoteren.
+>   De naam van de omgevingswaarde die wordt geannoteerd, zal in het
+>   Omgevingsloket ook de naam zijn waarop gezocht en gefilterd kan worden. Hier
+>   moet bij de naamgeving rekening mee gehouden worden. Daarom wordt
+>   geadviseerd om een logische en eenduidige naam te annoteren.
 
 >   **5. Omgevingswaardegroep: geef aan in welke omgevingswaardegroep deze
 >   valt.**  
@@ -43,46 +46,31 @@ moet worden.
 >   presentatie in kaartbeeld vind je op de pagina [Presenteren](/presenteren)
 >   in deze wegwijzer.
 
->   **6. Normwaarde: geef aan of het een kwantitatieve of kwalitatieve
+>   **6. Normwaarde: geef aan of het een kwalitatieve of kwantitatieve
 >   normwaarde betreft; en geef de waarde en eventuele eenheid aan.**  
->   In bovenstaand voorbeeld is een kwantitatieve normwaarde van de
->   omgevingswaarde vastgesteld. Hier zul je bij de normwaarde aangeven dat het
->   een kwantitatieve normwaarde betreft en vervolgens de waarde en de eenheid
->   aangeven. De waarde moet numeriek zijn. De eenheid kun je kiezen uit een
->   open waardelijst. Dat betekent dat er een aantal voorgedefinieerde eenheden
->   zijn die je kunt selecteren, maar je kunt ook een zelfgekozen eenheid
->   aangeven. De open waardelijst behorende bij de eenheid kun je inzien in de
->   [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
+>   In bovenstaand voorbeeld is de vastgestelde waarde van de omgevingswaarde in
+>   woorden beschreven in het artikel (de regeltekst). Zodra je ervoor kiest om
+>   de waarde in de regeltekst in woorden te beschrijven, kies je bij het
+>   annoteren voor een kwalitatieve normwaarde en verwijs je in het veld waarde
+>   naar de regeltekst, door daar 'zie regeltekst' in te vullen. Door op deze
+>   manier te annoteren, zorg je ervoor dat de normwaarde in een kaartbeeld
+>   gepresenteerd kan worden en dat de raadpleger begrijpt dat hij het artikel
+>   moet lezen om te weten welke normwaarde het bevoegd gezag heeft vastgesteld.
 
->   Het is ook mogelijk om de normwaarde als kwalitatief te annoteren. Dit kun je
->   doen als de normwaarde in woorden is beschreven of als de normwaarde dermate
->   complex is waardoor deze niet alleen met een waarde en een eenheid is te
->   beschrijven. Onderstaande afbeelding geeft zo’n voorbeeld weer. In dit geval is
->   het daarom logisch om de normwaarde als een kwalitatieve waarde te annoteren,
->   waarbij je het veld waarde gebruikt om te verwijzen naar de regeltekst waarin de
->   normwaarde in woorden is beschreven. In het veld waarde vul je dan “zie
->   regeltekst” in.
+>   Bovenstaand voorbeeld laat zien hoe je een omgevingswaarderegel met één
+>   normwaarde kunt annoteren. Het is echter ook mogelijk dat in de
+>   omgevingswaarderegel meerdere locaties met hun bijbehorende specifieke
+>   normwaarden worden vastgesteld. Als je de raadpleger in dit geval
+>   makkelijker inzicht wil geven in de specifieke normwaarden voor
+>   verschillende locaties door middel van interactie met de kaart, dan kun je
+>   de locaties met hun bijbehorende normwaarden vastleggen in een geografisch
+>   informatieobject. In de tekst van het artikel kun je dan verwijzen naar het
+>   betreffende informatieobject. Ook als je voor deze manier kiest, moet je het
+>   type regel en de idealisatie aangeven, en de naam en groep van de
+>   omgevingswaarde vastleggen. Onderstaande verbeelding laat zien wat jij in
+>   dit geval moet doen.
 
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Normwaarde_kwalitatief.png)
+![](media/Wegwijzer_Omgevingswaarde_MeerdereNormwaarden.png)
 
-*Conceptuele weergave van een omgevingswaarderegel met een kwalitatief geannoteerde normwaarde*
-
->   Bovengenoemde voorbeelden laten zien hoe je een omgevingswaarderegel met één normwaarde
->   kunt annoteren. Het is echter ook mogelijk dat in de omgevingswaarderegel meerdere locaties
->   met hun bijbehorende normwaarden worden vastgesteld. In zo'n geval is het mogelijk om de
->   verschillende locaties met hun bijbehorende normwaarden in de artikeltekst te beschrijven en
->   die te annoteren. Onderstaande afbeelding geeft dit conceptueel weer.
-
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Middel_Meer_kwant_waarden.png)
-
-*Conceptuele weergave van een omgevingswaarderegel met meerdere geannoteerde locaties en normwaarden*
-
->   Als je de raadpleger makkelijker inzicht wil geven in de specifieke normwaarden voor verschillende locaties door
->   middel van interactie met de kaart, dan kun je de locaties met hun bijbehorende normwaarden vastleggen in een
->   geografisch informatieobject. Ook als je voor deze manier kiest, moet je het type regel en de idealisatie
->   aangeven, en de naam en groep van de omgevingswaarde vastleggen. Onderstaande verbeelding laat zien wat jij
->   in dit geval moet doen.
-
-![](media/Praktijkrichtlijnen_Omgevingswaarde_Normwaarden_Bijlage.png)
-
-*Conceptuele weergave van een omgevingswaarderegel waarbij de locaties en bijbehorende normwaarden in het geografisch informatieobject worden vastgelegd*
+*Conceptuele weergave van een omgevingswaarderegel met meerdere geannoteerde
+locaties en normwaarden*

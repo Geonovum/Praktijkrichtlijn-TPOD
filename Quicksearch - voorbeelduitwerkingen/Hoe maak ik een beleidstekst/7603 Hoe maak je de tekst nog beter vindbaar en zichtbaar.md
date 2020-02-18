@@ -7,7 +7,7 @@ zoeken en te filteren op trefwoorden of categorieën.
 In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 **moet** worden.
 
-![](media/7603Beleidstekst_annoteren_Middel.png)
+![](media/7603BeleidstekstAnnoteren_Middel.png)
 
 *Conceptuele weergave van een geannoteerde beleidstekst*
 

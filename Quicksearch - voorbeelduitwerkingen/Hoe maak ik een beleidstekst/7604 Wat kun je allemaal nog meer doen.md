@@ -5,7 +5,7 @@ Hij kan filteren op gebiedsaanwijzingen, kan op zijn locatie zien
 welke beleidsteksten er van toepassing zijn en kan de gebiedsaanwijzingen terugzien op de kaart. 
 Daarnaast is het ook nog mogelijk om thema of hoofdlijn toe te voegen.
 
-![](media/7604Beleidstekst_annoteren_Rijk.png)
+![](media/7603BeleidstekstAnnoteren_Rijk.png)
 
 *Conceptuele weergave van een beleidstekst waarbij zowel de gebiedsaanwijzing als het thema en de hoofdlijn zijn geannoteerd*
 

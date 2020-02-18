@@ -21,7 +21,7 @@ plansoftware.
 Zie hieronder een voorbeeld van een beleidstekst over het gebied 'Maashorst' en
 wat jij als opsteller moet aangeven:
 
-![](media/7602Beleidstekst_annoteren_Minimaal.png)
+![](media/7602BeleidstekstAnnoteren_Minimaal.png)
 
 *Conceptuele weergave van een minimaal geannoteerde beleidstekst*
 
