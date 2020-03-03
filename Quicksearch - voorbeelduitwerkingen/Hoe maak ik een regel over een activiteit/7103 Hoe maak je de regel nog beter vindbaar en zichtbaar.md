@@ -7,7 +7,7 @@ zoeken en te filteren op trefwoorden of categorieën.
 In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 **moet** worden.
 
-![](media/7103RegelActiviteitBasis.png)
+![](media/7103ActiviteitBasis.png)
 
 *Conceptuele weergave van een geannoteerde regel met activiteit*
 

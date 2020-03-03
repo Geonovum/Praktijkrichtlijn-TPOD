@@ -20,7 +20,7 @@ toegepast worden op alle bovenstaande annotaties.
 Dit principe kan het best toegelicht worden aan de hand van het voorbeeld in
 onderstaande afbeelding.
 
-![](media/4009AnnoterenPresenteren.jpg)
+![](media/4009AnnoterenSymboliserenPresenteren.png)
 
 *Conceptuele verbeelding van het principe annoteren - symboliseren -
 presenteren*

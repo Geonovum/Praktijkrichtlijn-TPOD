@@ -1,7 +1,7 @@
 ﻿#### Introductie
 
 In deze uitwerking wordt een deel gebruikt uit een voorbeeldbestand van een
-omgevingsplan dat in opdracht van de gemeente is gemaakt en gedeeld. Het betreft
+omgevingsplan dat in opdracht van de gemeente is gemaakt en gedeeld in een werkplaatssessie. Het betreft
 geen definitief vastgesteld omgevingsplan. Het voorbeeldbestand is gedeeld om te
 kunnen testen of het door de keten van ‘Plan tot Publicatie’ zou komen. Ook is
 dit voorbeeldbestand gedeeld zodat andere gemeenten en ook softwareleveranciers
@@ -11,7 +11,7 @@ opstellen.
 De uitleg op deze pagina heeft als doel om meer inzicht te geven in welke keuzes
 je kunt maken als je regels gaat opstellen en annoteren. De suggesties om de
 tekst anders op te stellen en te annoteren moeten niet gezien worden als
-richtlijn, maar als een voorbeeld. Er is een grote diversiteit aan mogelijkheden
+voorschrift, maar als een voorbeeld. Er is een grote diversiteit aan mogelijkheden
 als je regels gaat opstellen en annoteren. Deze wegwijzer wordt in de toekomst
 uitgebreid met meer voorbeelden uit de praktijk.
 

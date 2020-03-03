@@ -11,7 +11,7 @@ welke activiteitregelkwalificatie (verbod, meldingsplicht, vergunningsplicht, e.
 het betreft. Daarnaast is het ook mogelijk om een gerelateerde activiteit, thema of
 gerelateerde regeltekst toe te voegen.
 
-![](media/7104RegelActiviteitRijk.png)
+![](media/7104ActiviteitRijk.png)
 *Conceptuele weergave van een annotatie met activiteitregelkwalificatie*
 
 >   **7. Activiteitregelkwalificatie: Geef aan welke activiteitregelkwalificatie het betreft.**  

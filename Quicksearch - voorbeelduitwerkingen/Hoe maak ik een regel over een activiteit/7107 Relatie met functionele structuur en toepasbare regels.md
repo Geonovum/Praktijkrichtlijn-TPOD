@@ -6,7 +6,7 @@ de attributen van activiteit, zie onderstaand figuur. De activiteitgroep vormt h
 deze is dan ook niet opgenomen in de opsomming onder het figuur. Na de opsomming volgt de
 uitleg over de functionele structuur.
 
-![](media/7107RelatieRegelOverActiviteitenToepasbareRegel.png)
+![](media/7107RelatieActiviteitenToepasbareRegel.png)
 
 *Conceptuele weergave van een geannoteerde regel over een activiteit met de koppelingen naar toepasbare regels*
 
