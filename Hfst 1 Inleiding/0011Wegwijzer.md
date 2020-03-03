@@ -1,4 +1,4 @@
-Wat is de Wegwijzer?
+####Wat is de Wegwijzer?
 
 De wegwijzer is geen praktijkrichtlijn en dus ook geen onderdeel van de standaard. Deze wegwijzer 
 is een praktisch hulpmiddel voor bevoegde gezagen bij het toepassen van de Standaard overheidspublicaties (STOP) 
