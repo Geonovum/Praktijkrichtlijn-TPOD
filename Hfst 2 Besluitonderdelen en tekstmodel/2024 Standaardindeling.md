@@ -1,5 +1,6 @@
 #### Standaardindeling
 
-Het bevoegd gezag is in grote mate vrij om naar eigen inzicht het projectbesluit
-in te delen. De TPOD schrijft in paragraaf 5.4 en 5.5 voor welke eisen er aan de
-inhoudsopgave gesteld worden.
+Het projectbesluit kent in beperkte mate een voorgeschreven inhoudsopgave. In
+paragraaf 5.4 en paragraaf 5.5 van de TPOD wordt dit toegelicht en wordt
+beschreven welke eisen het toepassingsprofiel stelt aan de indeling van het
+projectbesluit.

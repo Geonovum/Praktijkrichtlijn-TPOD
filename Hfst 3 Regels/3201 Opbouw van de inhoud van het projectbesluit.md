@@ -22,9 +22,11 @@ geannoteerd kan worden.
 
 Om de juridische inhoud van het eerste deel van het projectbesluit in het
 Digitale Stelsel Omgevingswet te laten landen bestaat deze uit verschillende
-onderdelen.
+onderdelen:
 
-*Onderdelen van de vrijetekst met juridische inhoud*
+- Formele divisie
+- Locatie
+- Annotatie
 
 De formele divisie is het structuurelement dat aangeeft ‘wat’ er geldt. De
 formele divisie is gekoppeld aan een locatie die aangeeft ‘waar’ de inhoud van

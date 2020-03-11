@@ -1,4 +1,4 @@
-﻿#### Validatie- en conformiteitsregels 
+#### Validatie- en conformiteitsregels 
 
 Validatie- en conformiteitsregels  zijn criteria waaraan software moet voldoen
 welke gebruik maakt van de STOP/ TPOD standaard.
@@ -30,6 +30,6 @@ die niet in de standaard geduid kunnen worden, bijvoorbeeld omdat ze over
 procesafspraken gaan die betrekking hebben op de implementatie. In dat geval
 worden deze extra aan de lijst toegevoegd. 
 
-Meer informatie over de validatie- en conformiteitsregels vind je in het document
-['Validatie- en conformiteitsregels TPOD']
-(https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD).
+Meer informatie over de validatie- en conformiteitsregels vind je in het
+document [Validatie- en conformiteitsregels TPOD
+v0.98-kern]((https:/www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD).

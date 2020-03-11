@@ -1,4 +1,4 @@
-﻿#### Principes van het functioneel presenteren
+#### Principes van het functioneel presenteren
 
 Het presentatiemodel wil grote complexiteit voorkomen ten aanzien van het
 presenteren van omgevingsdocumenten en wil de nodige flexibiliteit bieden in
@@ -29,4 +29,4 @@ Meer informatie over de functionele presentatie van tekst vind je in paragraaf
 5.1.1 van het presentatiemodel.
 
 Meer informatie over de functionele presentatie in kaartbeeld vind je in
-paragraaf 3.2 van het presentatiemodel.
+paragraaf 3.5 van het presentatiemodel.

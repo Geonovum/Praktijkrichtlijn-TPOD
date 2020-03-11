@@ -1,10 +1,11 @@
-﻿#### Formele divisie en tekstdeel
+#### Formele divisie en tekstdeel
 
 De formele divisie is een structuurobject waarin beleidsteksten in de vorm
 van formele inhoud vastgelegd worden en komt van origine uit de officiële
 overheidspublicaties (STOP). Het is daar in principe de kop boven de formele
-inhoud. Kort gezegd is de formele divisie het object wat de koppeling vormt 
-tussen objecten van de Omgevingswet (Toepassingsprofielen) en Officiële publicaties (STOP).
+inhoud. Kort gezegd is de formele divisie het object wat de koppeling vormt
+tussen objecten van de Omgevingswet (Toepassingsprofielen) en Officiële
+publicaties (STOP).
 
 Tekstdeel is een conceptuele constructie waarmee een annotatie naar een Formele
 Divisie kan verwijzen. Deze annotaties kunnen een locatie, gebiedsaanwijzing,
