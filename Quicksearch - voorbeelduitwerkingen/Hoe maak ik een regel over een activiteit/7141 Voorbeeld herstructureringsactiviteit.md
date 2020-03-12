@@ -8,6 +8,7 @@ je kunt maken als je regels gaat annoteren. De voorbeelden van hoe je de tekst
 zou kunnen annoteren, dienen als suggesties. Het is aan de bevoegde gezagen om
 zelf te bepalen welke manier van annoteren hun voorkeur heeft.
 
+
 #### De voorbeeldtekst
 
 **Hoofdstuk 2 ACTIVITEITEN**
@@ -55,6 +56,7 @@ b.  de eisen voor kwaliteitsverbetering kostenverhaal:
     ii.  de kwaliteitsverbetering komt tot stand door een exploitatiebijdrage in
          het kader van een 'herstructureringsactiviteit'.
 
+
 #### Alle artikelen met dezelfde informatie annoteren
 
 De artikelen in de paragraaf gaan allemaal over een herstructureringsactiviteit
@@ -75,7 +77,7 @@ er op deze manier wordt geannoteerd.
 ![](media/7141Herstructureringsactiviteit_1_zoeken.png)
 
 Door de tekst op deze wijze te annoteren zullen bij een zoekopdracht in het DSO-LV
-op de zoektermen 'herstructureringsactiviteit' en 'vergunningplicht' in alle artikelen
+op de zoektermen 'herstructureringsactiviteit' en 'vergunningplicht' alle artikelen
 vindbaar zijn. Omdat het losse artikelen zijn, is het wel mogelijk dat de artikelen
 niet in de juiste volgorde zichtbaar zijn. Het is dan aan de raadpleger om het
 zoekresultaat, eventueel na nog wat extra filtering en interactie met de kaart,
@@ -87,6 +89,7 @@ informatie geannoteerd. Deze manier van annoteren kan, afhankelijk van de exacte
 werking van de plansoftware, echter ook wat extra werk voor de opsteller betekenen,
 omdat vier keer dezelfde informatie wordt geannoteerd.
 
+
 #### Eén artikel met leden maken en één keer alle informatie annoteren
 
 Een andere manier om deze tekst te annoteren is conceptueel verbeeld in onderstaande
@@ -95,7 +98,7 @@ afbeelding.
 ![](media/7141Herstructureringsactiviteit_2.png)
 
 Wat opvalt is dat de tekst in één artikel met leden is geplaatst. Door er één
-artikel van de te maken, is het mogelijk om ook één keer alle informatie te annoteren.
+artikel van te maken, is het mogelijk om ook één keer alle informatie te annoteren.
 Dit kan, afhankelijk van de werking van de plansoftware, makkelijker en sneller zijn
 voor de opsteller, dan vier keer dezelfde informatie te moeten annoteren.
 
@@ -117,6 +120,7 @@ krijgen (bijv. meldingsplicht in plaats van vergunningplicht). De STOP/TPOD stan
 het echter niet toe om twee verschillende activiteitregelkwalificaties in één regeltekst
 (artikel of lid) te annoteren. Als er sprake is van uitzonderingen is het daarom 
 aan te bevelen om de uitzonderingen in aparte artikelen op te nemen.
+
 
 #### Alleen de informatie annoteren die expliciet te herleiden is naar de tekst in het betreffende artikel en de regelteksten aan elkaar relateren
 
@@ -150,10 +154,11 @@ andere artikelen vindbaar zouden moeten zijn. Bij deze manier van annoteren moet
 opgemerkt worden dat het op dit moment nog niet bekend is hoe gerelateerde regelteksten
 zichtbaar en vindbaar zullen worden in het DSO-LV.
 
+
 #### De keuze voor een bepaalde manier van annoteren
 
 Er is niet één manier van annoteren die het beste of handigste is. Alle bovengenoemde
-manier van annoteren zijn bruikbaar en worden door de STOP/TPOD standaard gefaciliteerd.
+manieren van annoteren zijn bruikbaar en worden door de STOP/TPOD standaard gefaciliteerd.
 Bevoegde gezagen moeten zelf kiezen welke manier van annoteren of een combinatie daarvan 
 zij het meest geschikt vinden. Dit kan afhankelijk zijn van de service die zij aan hun burgers 
 willen bieden, maar ook van de capaciteit die zij beschikbaar hebben voor het opstellen, annoteren 
