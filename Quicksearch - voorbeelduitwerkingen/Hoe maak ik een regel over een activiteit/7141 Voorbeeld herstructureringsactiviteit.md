@@ -7,8 +7,7 @@ De uitleg op deze pagina heeft als doel om meer inzicht te geven in welke keuzes
 je kunt maken als je regels gaat annoteren. De voorbeelden van hoe je de tekst
 zou kunnen annoteren, dienen als suggesties. Het is aan de bevoegde gezagen om
 zelf te bepalen welke manier van annoteren hun voorkeur heeft.
-
-
+  
 #### De voorbeeldtekst
 
 **Hoofdstuk 2 ACTIVITEITEN**
@@ -55,8 +54,7 @@ b.  de eisen voor kwaliteitsverbetering kostenverhaal:
 
     ii.  de kwaliteitsverbetering komt tot stand door een exploitatiebijdrage in
          het kader van een 'herstructureringsactiviteit'.
-
-
+  
 #### Alle artikelen met dezelfde informatie annoteren
 
 De artikelen in de paragraaf gaan allemaal over een herstructureringsactiviteit
@@ -88,8 +86,7 @@ zoek- en filteracties gevonden kunnen worden, want ze zijn allemaal met dezelfde
 informatie geannoteerd. Deze manier van annoteren kan, afhankelijk van de exacte
 werking van de plansoftware, echter ook wat extra werk voor de opsteller betekenen,
 omdat vier keer dezelfde informatie wordt geannoteerd.
-
-
+  
 #### Eén artikel met leden maken en één keer alle informatie annoteren
 
 Een andere manier om deze tekst te annoteren is conceptueel verbeeld in onderstaande
@@ -120,8 +117,7 @@ krijgen (bijv. meldingsplicht in plaats van vergunningplicht). De STOP/TPOD stan
 het echter niet toe om twee verschillende activiteitregelkwalificaties in één regeltekst
 (artikel of lid) te annoteren. Als er sprake is van uitzonderingen is het daarom 
 aan te bevelen om de uitzonderingen in aparte artikelen op te nemen.
-
-
+  
 #### Alleen de informatie annoteren die expliciet te herleiden is naar de tekst in het betreffende artikel en de regelteksten aan elkaar relateren
 
 In onderstaande afbeelding is conceptueel weergegeven hoe de tekst op een derde
@@ -153,8 +149,7 @@ zijn wel aan elkaar gerelateerd, waardoor via de 'gerelateerde regelteksten' de
 andere artikelen vindbaar zouden moeten zijn. Bij deze manier van annoteren moet wel
 opgemerkt worden dat het op dit moment nog niet bekend is hoe gerelateerde regelteksten
 zichtbaar en vindbaar zullen worden in het DSO-LV.
-
-
+  
 #### De keuze voor een bepaalde manier van annoteren
 
 Er is niet één manier van annoteren die het beste of handigste is. Alle bovengenoemde

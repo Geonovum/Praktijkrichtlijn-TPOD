@@ -18,6 +18,6 @@ van het besluit en krijgt het juridische status.
 Onderstaand figuur geeft een voorbeeld van hoe de noemer eruit ziet, beschouwd
 vanuit de tekst, de bijlage en het informatieobject.
 
-![](media/3206GioNoemerBijlage_Projectbesluit.PNG)
+![](media/3206GioNoemerBijlage_Projectbesluit.png)
 
 *Noemer in de tekst, de bijlage en het informatieobject*
