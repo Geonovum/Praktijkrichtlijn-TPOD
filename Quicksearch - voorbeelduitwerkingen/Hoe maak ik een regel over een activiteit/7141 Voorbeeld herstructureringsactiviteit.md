@@ -6,7 +6,7 @@ een omgevingsplan van een gemeente zou kunnen voorkomen.
 De uitleg op deze pagina heeft als doel om meer inzicht te geven in welke keuzes
 je kunt maken als je regels gaat annoteren. De voorbeelden van hoe je de tekst
 zou kunnen annoteren, dienen als suggesties. Het is aan de bevoegde gezagen om
-zelf te bepalen welke manier van annoteren hun voorkeur heeft.
+zelf te bepalen welke manier van annoteren hun voorkeur heeft.  
   
 #### De voorbeeldtekst
 
@@ -49,11 +49,11 @@ a.  de eisen van kwaliteitsverbetering zoals vastgelegd in de beleidsregel
 
 b.  de eisen voor kwaliteitsverbetering kostenverhaal:
 
-    i.   herstructureringsactiviteiten dragen naar oppervlakte bij aan de
-         investeringen voor kwaliteitsverbetering;
+>   i. herstructureringsactiviteiten dragen naar oppervlakte bij aan de
+>      investeringen voor kwaliteitsverbetering;
 
-    ii.  de kwaliteitsverbetering komt tot stand door een exploitatiebijdrage in
-         het kader van een 'herstructureringsactiviteit'.
+>   ii. de kwaliteitsverbetering komt tot stand door een exploitatiebijdrage in
+>       het kader van een 'herstructureringsactiviteit'.  
   
 #### Alle artikelen met dezelfde informatie annoteren
 
@@ -85,7 +85,7 @@ Een voordeel van het annoteren op deze manier is dat alle artikelen met dezelfde
 zoek- en filteracties gevonden kunnen worden, want ze zijn allemaal met dezelfde
 informatie geannoteerd. Deze manier van annoteren kan, afhankelijk van de exacte
 werking van de plansoftware, echter ook wat extra werk voor de opsteller betekenen,
-omdat vier keer dezelfde informatie wordt geannoteerd.
+omdat vier keer dezelfde informatie wordt geannoteerd.  
   
 #### Eén artikel met leden maken en één keer alle informatie annoteren
 
@@ -116,7 +116,7 @@ artikel ook uitzonderingen worden genoemd. De uitzondering zou dan een andere an
 krijgen (bijv. meldingsplicht in plaats van vergunningplicht). De STOP/TPOD standaard laat
 het echter niet toe om twee verschillende activiteitregelkwalificaties in één regeltekst
 (artikel of lid) te annoteren. Als er sprake is van uitzonderingen is het daarom 
-aan te bevelen om de uitzonderingen in aparte artikelen op te nemen.
+aan te bevelen om de uitzonderingen in aparte artikelen op te nemen.  
   
 #### Alleen de informatie annoteren die expliciet te herleiden is naar de tekst in het betreffende artikel en de regelteksten aan elkaar relateren
 
@@ -143,12 +143,12 @@ DSO-LV als er wordt gezocht op de zoektermen 'herstructureringsactiviteit' en
 
 ![](media/7141Herstructureringsactiviteit_3_zoeken.png)
 
-Alleen artikel 2.3 komt als zoekresultaat naar voren, omdat alleen dat artikel is
+<p>Alleen artikel 2.3 komt als zoekresultaat naar voren, omdat alleen dat artikel is
 geannoteerd met 'herstructureringsactiviteit' en 'vergunningplicht'. De regelteksten
 zijn wel aan elkaar gerelateerd, waardoor via de 'gerelateerde regelteksten' de
 andere artikelen vindbaar zouden moeten zijn. Bij deze manier van annoteren moet wel
 opgemerkt worden dat het op dit moment nog niet bekend is hoe gerelateerde regelteksten
-zichtbaar en vindbaar zullen worden in het DSO-LV.
+zichtbaar en vindbaar zullen worden in het DSO-LV.</p>
   
 #### De keuze voor een bepaalde manier van annoteren
 
