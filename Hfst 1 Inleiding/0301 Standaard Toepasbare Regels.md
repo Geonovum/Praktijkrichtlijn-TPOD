@@ -1,7 +1,7 @@
 #### Standaard Toepasbare Regels
 
 Naast de STOP/TPOD zijn er nog andere standaarden die van toepassing zijn voor
-het omgevingsdocument, zoals bijvoorbeeld de Standaard Toepasbare Regels (STTR)
+het omgevingsdocument met regels, zoals bijvoorbeeld de Standaard Toepasbare Regels (STTR)
 en het bijbehorende Informatiemodel Toepasbare Regels (IMTR). Deze standaarden
 helpen aanvragers bij het Omgevingsloket. De standaarden helpen om juridische
 regels begrijpelijk te maken in de vorm van vragenbomen. Het Bestuursakkoord

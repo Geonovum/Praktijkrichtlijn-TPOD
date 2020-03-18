@@ -1,4 +1,4 @@
-### Wat zijn belangrijke onderwerpen om te verkennen voor wie omgevingsdocumenten opstelt en vastlegt?
+### Welke onderwerpen zijn relevant om te verkennen? 
 
 Voor wie met het opstellen en vastleggen van omgevingsdocumenten aan de slag
 gaat, zijn de volgende onderwerpen zeer de moeite waard om in te duiken.

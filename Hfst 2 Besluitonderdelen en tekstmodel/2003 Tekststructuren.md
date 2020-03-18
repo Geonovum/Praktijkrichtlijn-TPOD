@@ -8,6 +8,7 @@ die met verschillende tekstelementen gevuld wordt:
     bevat, zoals een omgevingsvisie en het eerste deel van een projectbesluit.
     In dit geval worden de tekstelementen formele divisie en formele inhoud
     toegepast.  
+
     De vrijetekststructuur wordt ook toegepast in de overige onderdelen van de
     omgevingsvisie (buiten het lichaam van de regeling), zoals de motivering van
     het besluit, bijlagen en eventuele toelichting. In die onderdelen van de

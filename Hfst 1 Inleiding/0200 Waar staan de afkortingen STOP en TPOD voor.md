@@ -4,6 +4,7 @@ Er is één generieke standaard ontwikkeld voor alle overheidspublicaties: de
 Standaard Officiële Overheidspublicaties, afgekort de STOP. Deze standaard
 ondersteunt de functies opstellen, vaststellen, bekendmaken en beschikbaar
 stellen van alle officiële overheidspublicaties via een landelijke voorziening.
+
 Aanvullend op de STOP standaard zijn er Toepassingsprofielen voor Omgevingsdocumenten, 
 afgekort TPOD. Een TPOD definieert de specifieke toepassing van de STOP voor omgevingsdocumenten.
 
@@ -17,7 +18,7 @@ Elk toepassingsprofiel beschrijft:
 De STOP/TPOD standaarden hebben dus vooral betrekking op het digitaal goed overbrengen van 
 de *inhoud* van besluiten.
 
-Binnen het digitale stelsel van de Omgevingswet zijn dit niet de enige standaarden. Er zijn ook 
+Binnen het digitale stelsel van de Omgevingswet zijn dit overigens niet de enige standaarden. Er zijn ook 
 nog standaarden voor de vragenbomen in het Omgevingsloket en voor het indienen en ontvangen 
 van vergunningsaanvragen. Op [aan de slag met de Omgevingswet](https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/technisch-aansluiten/standaarden/)
 staan alle standaarden beschreven.

@@ -1,20 +1,23 @@
 #### Het doel van annoteren
 
-Annoteren maakt het mogelijk dat de tekst uit een besluit of regeling ook beter en breder machineleesbaar wordt. Het zorgt er voor dat het besluit of de regeling
-gestructureerd bevraagbaar is en dat werkingsgebieden en andere gegevens op een
-kaart weergegeven worden. Het annoteren helpt ook bij het verbinden van
-toepasbare regels, oftewel vragenbomen, aan regels met werkingsgebieden. De
-gegevens die bij het annoteren worden toegevoegd worden niet in de voor de mens
-leesbare tekst weergegeven. De annotaties zijn wel zichtbaar in het
-machineleesbare bestand.
+Annoteren maakt het mogelijk dat de tekst uit een besluit of regeling ook beter en breder 
+machineleesbaar wordt. Dit wil zeggen dat je extra informatie aan de tekst kunt koppelen om
+ervoor te zorgen dat het besluit of de regeling gestructureerd bevraagbaar is in het DSO-LV
+en dat werkingsgebieden en andere gegevens op een kaart weergegeven kunnen worden. 
 
-Annotaties zijn op vrijwel alle objecten of tekstelementen mogelijk. Ze helpen
-om regels op hun eigenschappen te vinden wanneer zoektermen worden gebruikt. Ze
-helpen ook om regels op hun eigenschappen te kunnen presenteren.
+Het annoteren helpt ook bij het verbinden van toepasbare regels, ofwel vragenbomen, aan 
+regels met werkingsgebieden via de annotatie activiteit en activiteitregelkwalificatie. 
+De gegevens die bij het annoteren worden toegevoegd worden niet in de voor de mens leesbare 
+tekst maar in machineleesbare taal (xml) weergegeven. De annotaties zijn overigens wel zichtbaar 
+in het machineleesbare bestand.
 
-IMOW beschrijft vanuit een informatiekundige blik alle objecten die van belang
-zijn voor het annoteren en het opstellen van omgevingsdocumenten en niet in de
-laatste plaats ten behoeve van de informatieverschaffing in DSO-LV.
+Annotaties zijn op vrijwel alle objecten of tekstelementen mogelijk. Ze helpen om regels op 
+hun eigenschappen te vinden wanneer zoektermen worden gebruikt. Ze helpen ook om regels op hun 
+eigenschappen te kunnen presenteren.
+
+IMOW beschrijft vanuit een informatiekundige blik alle objecten die van belang zijn voor het annoteren 
+en het opstellen van omgevingsdocumenten en niet in de laatste plaats ten behoeve van de informatieverschaffing 
+in DSO-LV.
 
 Het gaat om de volgende IMOW-objecten:
 

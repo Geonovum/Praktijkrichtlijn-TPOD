@@ -1,4 +1,4 @@
-#### Meer over waardelijsten in de praktijkrichtlijnen
+#### Meer over waardelijsten in de wegwijzer
 
 In de voorbeeld uitwerkingen van de verschillende regels of beleidsteksten is
 ook aangegeven welke waardelijsten van toepassing zijn. De voorbeeld

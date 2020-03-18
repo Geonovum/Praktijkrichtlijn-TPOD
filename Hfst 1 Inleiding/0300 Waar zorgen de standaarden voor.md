@@ -1,4 +1,4 @@
-#### Waar zorgen de standaarden voor?
+#### Wat maken de standaarden mogelijk?
 
 De STOP/TPOD standaarden maken het mogelijk om informatie te kunnen vinden en te
 kunnen koppelen, bijvoorbeeld de juridische regel en het gebied waarop de regel
