@@ -14,9 +14,9 @@ Er zijn voor inhoudelijke tekst twee soorten tekststructuren mogelijk:
     en bijlagen. In dat geval worden de tekstelementen divisie en inhoud
     gebruikt.
 
-Onderstaand figuur is een conceptuele weergave van de beide tekststructuren,
+*Onderstaand figuur is een conceptuele weergave van de beide tekststructuren,
 waarbij in dit omgevingsdocument alléén de vrijetekststructuur met divisie en
-inhoud mogelijk is.
+inhoud mogelijk is.*
 
 Links de artikelstructuur met artikelen en leden met inhoud. Te zien is dat
 wanneer een artikel leden bevat, de inhoud in het lid voorkomt. Indien het
