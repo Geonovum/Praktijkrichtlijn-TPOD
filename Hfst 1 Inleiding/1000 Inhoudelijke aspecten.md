@@ -1,6 +1,6 @@
 #### Inhoudelijke aspecten
 
-een Toepassingsprofiel (TPOD) is in feite een schakel tussen de juridische (inhoudelijke) bepalingen
+Een Toepassingsprofiel (TPOD) is in feite een schakel tussen de juridische (inhoudelijke) bepalingen
 in de Omgevingswet en de technische specificaties voor het ontwikkelen van software ten behoeve 
 van de afzonderlijke omgevingsdocumenten. In hoofdstuk 2 van de TPOD staan o.a. overzichten met betrekking 
 tot de inhoud van het omgevingsdocument die het kan en mag bevatten. Daarnaast geeft het aan, op basis van 
