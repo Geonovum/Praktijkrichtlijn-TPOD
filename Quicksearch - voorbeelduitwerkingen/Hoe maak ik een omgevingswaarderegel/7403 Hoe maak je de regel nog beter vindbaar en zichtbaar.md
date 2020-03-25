@@ -27,7 +27,7 @@ geannoteerde omgevingswaarde*
 >   **5. Omgevingswaardegroep: geef aan in welke omgevingswaardegroep deze
 >   valt.**  
 >   Hier geef je aan in welke omgevingswaardegroep de omgevingswaarde valt. De
->   omgevingswaardegroep kies je uit een gesloten waardelijst. Dit betekent dat
+>   omgevingswaardegroep kies je uit een limitatieve waardelijst. Dit betekent dat
 >   er een vastgestelde lijst is van omgevingswaardegroepen die je kunt kiezen.
 >   De mogelijke omgevingswaardegroepen vind je in de
 >   [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).

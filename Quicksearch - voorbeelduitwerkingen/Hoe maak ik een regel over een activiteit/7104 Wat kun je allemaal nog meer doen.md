@@ -18,7 +18,7 @@ gerelateerde regeltekst toe te voegen.
 >   Het toevoegen van de activiteitregelkwalificatie heeft effect op het zoeken en filteren in het Omgevingsloket.
 >   Het is een attribuut van de juridische regel, die wat zegt *over* de activiteit. Het is 
 >   dus geen attribuut van de activiteit zelf. De activiteitregelkwalificatie kies je uit de 
->   gesloten waardelijst die in de [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina) 
+>   limitatieve waardelijst die in de [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina) 
 >   te vinden is. Wanneer een initiatiefnemer de gebiedsinfo of regels via 'Regels op de Kaart' raadpleegt, 
 >   zal voor de activiteiten op die locatie te zien zijn welke activiteitregelkwalificatie ze hebben. 
 >   In het geval van dit voorbeeld is de activiteitregelkwalificatie 'vergunningplicht'. 
@@ -38,9 +38,9 @@ gerelateerde regeltekst toe te voegen.
 >   annoteren met een thema, dit is een tekstgebonden attribuut. Dit betekent 
 >   dat het mogelijk wordt om regels en beleid, uit alle omgevingsdocumenten, 
 >   te vinden op basis van het bijbehorende thema. Het thema zal echter niet op 
->   de kaart te vinden zijn. Het thema kun je kiezen uit de open
+>   de kaart te vinden zijn. Het thema kun je kiezen uit de uitbreidbare
 >   [waardelijst](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina)
->   Thema. De open waardelijst is gevuld met waarden waaruit gekozen kan worden.
+>   Thema. De uitbreidbare waardelijst is gevuld met waarden waaruit gekozen kan worden.
 >   Wanneer een gewenste waarde niet op de lijst voorkomt, kun je zelf een
 >   waarde definiëren. Deze waarde wordt niet opgenomen in de waardelijst.
 

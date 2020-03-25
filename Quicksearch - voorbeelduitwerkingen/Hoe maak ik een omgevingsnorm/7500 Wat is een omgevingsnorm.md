@@ -1,4 +1,5 @@
 #### Wat is een omgevingsnorm?
+
 Een omgevingsnorm is een norm over de fysieke leefomgeving die in een kwantitatieve of kwalitatieve waarde wordt 
 uitgedrukt en die niet onder een omgevingswaarde valt, zoals bedoeld in afdeling 2.3 van de Omgevingswet. 
 De term omgevingsnorm komt niet in de Omgevingswet voor. Deze term is geïntroduceerd door de STOP/TPOD-standaard. 

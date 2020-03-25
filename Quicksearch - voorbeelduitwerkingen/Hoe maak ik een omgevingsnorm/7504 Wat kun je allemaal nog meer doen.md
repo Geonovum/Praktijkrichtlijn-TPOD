@@ -16,9 +16,9 @@ een thema of gerelateerde regeltekst toe te voegen.
 >   annoteren met een thema, dit is een tekstgebonden attribuut. Dit betekent
 >   dat het regels en beleid van alle omgevingsdocumenten doorzoekbaar maakt,
 >   maar het geen effect heeft op de presentatie in de kaart. Het thema kun je
->   kiezen uit de open
+>   kiezen uit de uitbreidbare
 >   [waardelijst](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
->   De open waardelijst is gevuld met waarden waaruit gekozen kan worden.
+>   De uitbreidbare waardelijst is gevuld met waarden waaruit gekozen kan worden.
 >   Wanneer een gewenste waarde niet op de lijst voorkomt, kun je zelf een
 >   waarde definiëren. Deze waarde wordt niet opgenomen in de waardelijst.
 

@@ -21,7 +21,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   bijbehorende definities staan ook in [de Stelselcatalogus
 >   Omgevingswet](https://stelselcatalogus.omgevingswet.overheid.nl/).
 
->   Het type gebiedsaanwijzing kies je uit een gesloten waardelijst.
+>   Het type gebiedsaanwijzing kies je uit een limitatieve waardelijst.
 >   Dit betekent dat er een vastgestelde lijst is van typen waaruit je kunt kiezen.
 >   De mogelijklijst Er is een beperkte lijst waaruit gekozen kan worden. 
 >   De mogelijke typen vind je in de [waardelijst](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
@@ -34,7 +34,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 
 >   **4. Groep: geef aan in welke groep de gebiedsaanwijzing valt**  
 >   Hier geef je aan in welke groep de gebiedsaanwijzing valt. De groep
->   kies je uit een gesloten waardelijst. In bovenstaand voorbeeld is gekozen 
+>   kies je uit een limitatieve waardelijst. In bovenstaand voorbeeld is gekozen 
 >   voor de groep 'Specifiek benoemd landschap'.
 
 >   Voor de presentatie in een kaartbeeld is de groep bepalend.

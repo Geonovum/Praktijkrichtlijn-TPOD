@@ -9,7 +9,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd **m
 *Conceptuele weergave van een geannoteerde gebiedsaanwijzing in een omgevingsplan*
 
 >   **4. Type: geef aan van welk type de gebiedsaanwijzing is**  
->   Het type kies je uit een gesloten waardelijst. Dit betekent dat
+>   Het type kies je uit een limitatieve waardelijst. Dit betekent dat
 >   er een vastgestelde lijst is van typen waaruit je kunt kiezen.
 >   De mogelijke typen vind je in de [waardelijst](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
 >   De lijst van mogelijke typen zal per omgevingsdocument uiteindelijk geïntergreerd
@@ -17,7 +17,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd **m
 
 >   **5. Groep: geef aan in welke groep de gebiedsaanwijzing valt**  
 >   Met de groep kun je de gebiedsaanwijzing nog meer specificeren. De groep kies je uit een 
->   gesloten [waardelijst](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina). 
+>   limitatieve [waardelijst](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina). 
 
 >   Voor de presentatie in een kaartbeeld is de groep bepalend.
 >   Het attribuut groep bepaalt namelijk met welke symboliek (kleur/arcering) de

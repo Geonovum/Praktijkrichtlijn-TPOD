@@ -40,7 +40,7 @@ In onderstaand voorbeeld is uitgewerkt welke informatie hiervoor geannoteerd
 >   **5. Activiteitgroep: geef aan in welke activiteitgroep deze
 >   valt.**  
 >   Hier geef je aan in welke activiteitgroep de activiteit valt. De
->   activiteitgroep kies je uit een gesloten waardelijst. Dit betekent dat
+>   activiteitgroep kies je uit een limitatieve waardelijst. Dit betekent dat
 >   er een vastgestelde lijst is van activiteitgroepen die je kunt kiezen.
 >   De mogelijke activiteitgroepen vind je in de
 >   [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).

@@ -15,7 +15,7 @@ thema.
         juridische regel geïnterpreteerd moet worden en voor het bevoegd gezag
         bedoeld is;
 
-    -   Wordt gekozen uit een gesloten waardelijst, en kan bijvoorbeeld exact of
+    -   Wordt gekozen uit een limitatieve waardelijst, en kan bijvoorbeeld exact of
         indicatief zijn.
 
 -   Thema
@@ -27,7 +27,7 @@ thema.
     -   Geeft kernachtig de grondgedachte van de tekst weer. Is vaak een
         aanduiding van het sectorale aspect waar de juridische regel over gaat;
 
-    -   Wordt gekozen uit een open waardelijst.
+    -   Wordt gekozen uit een uitbreidbare waardelijst.
 
 Verder heeft de juridische regel nog de attributen locatieaanduiding en
 artikelOflid.  

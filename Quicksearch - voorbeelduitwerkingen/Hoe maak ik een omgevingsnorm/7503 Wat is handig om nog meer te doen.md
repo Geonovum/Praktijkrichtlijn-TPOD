@@ -23,7 +23,7 @@ moet worden.
 
 >   **5. Omgevingsnormgroep: geef aan in welke omgevingsnormgroep deze valt.**  
 >   Hier geef je aan in welke omgevingsnormgroep de omgevingsnorm valt. De
->   omgevingsnormgroep kies je uit een gesloten waardelijst. Dit betekent dat er
+>   omgevingsnormgroep kies je uit een limitatieve waardelijst. Dit betekent dat er
 >   een vastgestelde lijst is van omgevingsnormgroepen die je kunt kiezen. De
 >   mogelijke omgevingsnormgroepen vind je in de
 >   [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).

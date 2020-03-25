@@ -9,13 +9,13 @@ waterschap en gemeenten gebruik van dezelfde waardelijsten.
 
 Waardelijsten zijn er in twee vormen:
 
--   Gesloten waardelijst:  
+-   Limitatieve waardelijst:  
     er moet een waarde gekozen worden uit een lijst met vooraf gedefinieerde
     waarden; deze waardelijst wordt centraal beheerd en kan alleen beheermatig
     gewijzigd worden, aangezien een wijziging direct effect heeft op de werking
     van en functionaliteiten van de applicaties van het DSO en LVBB.
 
--   Open waardelijst:  
+-   Uitbreidbare waardelijst:  
     er mag gekozen worden uit een lijst met vooraf gedefinieerde waarden, maar
     er mag ook een eigen waarde gebruikt worden. Deze waarde wordt niet aan de waardelijst
     toegevoegd.

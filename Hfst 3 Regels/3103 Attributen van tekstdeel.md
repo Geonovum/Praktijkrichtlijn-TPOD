@@ -17,7 +17,7 @@ locatie. Tekstdeel kent de volgende attributen:
         tekstdeel geïnterpreteerd moet worden en voor het bevoegd gezag bedoeld
         is;
 
-    -   Wordt gekozen uit een gesloten waardelijst, en kan exact of indicatief
+    -   Wordt gekozen uit een limitatieve waardelijst, en kan exact of indicatief
         zijn.
 
 -   Thema
@@ -29,7 +29,7 @@ locatie. Tekstdeel kent de volgende attributen:
     -   Geeft kernachtig de grondgedachte van de tekst weer. Is vaak een
         aanduiding van het sectorale aspect waar het tekstdeel over gaat;
 
-    -   Wordt gekozen uit een open waardelijst.
+    -   Wordt gekozen uit een uitbreidbare waardelijst.
 
 Verder kent het tekstdeel de attributen locatieaanduiding, gebiedsaanwijzing en
 hoofdlijnaanduiding. De locatieaanduiding is de verwijzing van een specifiek

@@ -6,7 +6,7 @@ Onderstaande tabel bevat het totaaloverzicht en geeft hierin aan:
 -   Wat de naam van de waardelijst is. Deze naam kan je terugvinden in de
     [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
 
--   Of het een open (+) of gesloten (-) waardelijst is;
+-   Of het een uitbreidbare (+) of limitatieve (-) waardelijst is;
 
 -   Welk IMOW-object het attribuut bevat waar de waardelijst van toepassing is.
     In de eerste kolom tussen haakjes *(cursief)* de naam van het IMOW-object;

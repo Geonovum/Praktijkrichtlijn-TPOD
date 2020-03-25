@@ -31,7 +31,7 @@ omgevingswaarde.
 >   thema, dit is een tekstgebonden attribuut. Dit betekent dat het regels en beleid
 >   van alle omgevingsdocumenten doorzoekbaar maakt, maar het geen effect heeft op
 >   de presentatie in de kaart. In dit voorbeeld is het thema Lichthinder
->   toegevoegd. Dit is één van de waarden van de open waardelijst Thema. De open
+>   toegevoegd. Dit is één van de waarden van de uitbreidbare waardelijst Thema. De uitbreidbare
 >   waardelijst is gevuld met waarden waaruit gekozen kan worden. Wanneer een
 >   gewenste waarde niet op de lijst voorkomt, kun je zelf een waarde definiëren.
 >   Deze waarde wordt niet opgenomen in de waardelijst.
