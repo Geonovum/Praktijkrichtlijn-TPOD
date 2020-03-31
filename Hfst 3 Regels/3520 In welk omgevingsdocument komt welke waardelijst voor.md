@@ -1,49 +1,20 @@
 #### In welk omgevingsdocument komt welke waardelijst voor?
 
-Niet alle waardelijsten zijn voor alle omgevingsdocumenten van toepassing.
-Onderstaande tabel bevat het totaaloverzicht en geeft hierin aan:
+Niet alle waardelijsten zijn voor alle omgevingsdocumenten van toepassing. Welke
+waardelijsten in welk omgevingsdocument gebruikt kunnen worden, hangt af van
+welke annotaties er in een omgevingsdocument mogelijk zijn. Het
+voorbereidingsbesluit kan met voorbeschermingsregels het omgevingsplan of de
+omgevingsverordening wijzigen. In dat geval gelden dezelfde
+annotatiemogelijkheden als in het omgevingsplan resp. de omgevingsverordening.
+In de betreffende TPOD is in paragraaf 6.4 beschreven hoe je kunt annoteren met
+de IMOW objecten. Per object is beschreven of deze van toepassing is in het
+betreffende omgevingsdocument en welke attributen het heeft. Ook is beschreven
+of het attribuut een vrij veld is, of dat deze uit een limitatieve of
+uitbreidbare waardelijst gekozen moet worden. Als het attribuut alleen uit een
+waardelijst gekozen kan worden, is bij het attribuut beschreven wat de naam van
+de betreffende waardelijst is. Een voorbeeld van een vrij veld is de naam van de
+activiteit. De activiteitengroep en de activiteitregelkwalificatie moeten echter
+wel uit een (limitatieve) waardelijst gekozen worden.
 
--   Wat de naam van de waardelijst is. Deze naam kan je terugvinden in de
-    [stelselcatalogus](https://stelselcatalogus.omgevingswet.overheid.nl/waardelijstenpagina).
-
--   Of het een uitbreidbare (+) of limitatieve (-) waardelijst is;
-
--   Welk IMOW-object het attribuut bevat waar de waardelijst van toepassing is.
-    In de eerste kolom tussen haakjes *(cursief)* de naam van het IMOW-object;
-
--   Welke waardelijst voor welk omgevingsdocument van toepassing is (√).
-    Hierbij geldt dat als het voorbereidingsbesluit een omgevingsplan wijzigt met 
-    voorbeschermingsregels, dezelfde waardelijsten van toepassing zijn als voor het omgevingsplan.
-    Als het voorbereidingsbesluit een omgevingsverordening wijzigt met voorbeschermingsregels,
-    dan zijn dezelfde waardelijsten van toepassing als voor de omgevingsverordening.
-
-|                                                                                  | **Omgevingsplan** | **Omgevingsverordening** | **Waterschapsverordening** | **AMvB & MR** | **Omgevingsvisie** | **Projectbesluit (deel 1)** |
-|----------------------------------------------------------------------------------|-------------------|--------------------------|----------------------------|---------------|--------------------|-----------------------------|
-| **Idealisatie** - *(juridische regel)*                                           |         √         |            √             |             √              |       √       |                    |                             |
-| **Thema** + *(juridische regel of tekstdeel)*                                    |         √         |            √             |             √              |       √       |         √          |             √               |
-| **InstructieregelInstrument** - *(juridische regel type: instructieregel)*       |                   |            √             |                            |       √       |                    |                             |
-| **InstructieregelTaakuitoefening** – *(juridische regel type: instructieregel)*  |                   |            √             |                            |       √       |                    |                             |
-| **Activiteitregelkwalificatie** - *(juridische regel type: regel voor iedereen)* |         √         |            √             |             √              |       √       |                    |                             |
-| **Activiteitengroep** - *(activiteit)*                                           |         √         |            √             |             √              |       √       |                    |                             |
-| **Omgevingswaardegroep** - *(omgevingswaarde)*                                   |         √         |            √             |                            |       √       |                    |                             |
-| **Omgevingsnormgroep** - *(omgevingsnorm)*                                       |         √         |            √             |             √              |       √       |                    |                             |
-| **TypeGebiedsaanwijzing** - *(gebiedsaanwijzing)*                                |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Beperkingengebiedgroep** - *(gebiedsaanwijzing)*                               |         √         |            √             |             √              |               |                    |                             |
-| **Bodemgroep** - *(gebiedsaanwijzing)*                                           |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Defensiegroep** - *(gebiedsaanwijzing)*                                        |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Energievoorzieninggroep** - *(gebiedsaanwijzing)*                              |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Erfgoedgroep** - *(gebiedsaanwijzing)*                                         |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Externe veiligheidgroep** - *(gebiedsaanwijzing)*                              |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Functiegroep** - *(gebiedsaanwijzing)*                                         |         √         |            √             |                            |               |                    |                             |
-| **Geluidgroep** - *(gebiedsaanwijzing)*                                          |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Geurgroep** - *(gebiedsaanwijzing)*                                            |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Landschapgroep** - *(gebiedsaanwijzing)*                                       |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Leidinggroep** - *(gebiedsaanwijzing)*                                         |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Luchtgroep** - *(gebiedsaanwijzing)*                                           |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Mijnbouwgroep** - *(gebiedsaanwijzing)*                                        |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Natuurgroep** - *(gebiedsaanwijzing)*                                          |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Recreatiegroep** - *(gebiedsaanwijzing)*                                       |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Ruimtelijkgebruikgroep** - *(gebiedsaanwijzing)*                               |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Verkeergroep** - *(gebiedsaanwijzing)*                                         |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Water en watersysteemgroep** - *(gebiedsaanwijzing)*                           |         √         |            √             |             √              |       √       |          √         |             √               |
-| **Eenheid** + *(waarde eenheid in locatie, omgevingsnorm en omgevingswaarde)*    |         √         |            √             |             √              |       √       |          √         |             √               |
+De lijst van mogelijke waarden zal uiteindelijk geïntegreerd zijn via de
+plansoftware.

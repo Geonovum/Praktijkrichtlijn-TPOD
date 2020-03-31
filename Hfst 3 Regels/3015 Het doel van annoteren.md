@@ -21,23 +21,26 @@ in DSO-LV.
 
 Het gaat om de volgende IMOW-objecten:
 
--   Regeltekst
+-   Activiteit
+
+-   Gebiedsaanwijzing
+
+-   Geometrie
+
+-   Hoofdlijn
 
 -   Juridische regel
 
 -   Locatie
 
--   Geometrie
-
--   Activiteit
-
 -   Omgevingswaarde
 
 -   Omgevingsnorm
 
--   Gebiedsaanwijzing
-
 -   Pons
+
+-   Regeltekst
+
 
 In de TPOD wordt in detail toegelicht hoe je kunt annoteren met IMOW-objecten.
 Meer informatie hierover vind je in paragraaf 6.4 van de TPOD.
