@@ -12,8 +12,7 @@ toegestaan zonder besluit.
 
 Het doel van consolideren is het vereenvoudigen van het proces. Er is minder
 handwerk noodzakelijk en tegelijkertijd meer automatisering van het hele proces.
-De informatie uit het besluit is direct bruikbaar voor de geconsolideerde
-regeling.
+De informatie uit het besluit is direct bruikbaar voor de geconsolideerde regeling.
 
 Er dient rekening gehouden te worden met de volgende zaken:
 

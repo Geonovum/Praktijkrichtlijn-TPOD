@@ -1,4 +1,4 @@
-﻿#### Pons
+﻿#### Overgangsfase naar omgevingsplan
 
 De overgangsfase van het omgevingsplan betekent dat diverse instrumenten op
 basis van de Wet ruimtelijke ordening, Crisis- en herstelwet en dergelijke na
@@ -58,5 +58,5 @@ Het object Pons wordt gebruikt in slechts twee situaties:
     juridische werking terug. De overbruggingsfunctie moet deze delen weer
     tonen.
 
-Pons kent geen waardelijsten en heeft geen presentatie. Het presentatiemodel
+Het object pons kent geen waardelijsten en heeft geen presentatie. Het presentatiemodel
 geeft er dan ook geen regels voor.

@@ -1,4 +1,4 @@
-#### De overbruggingsfunctie DSO-LV
+#### De overbruggingsfunctie in het DSO-LV
 
 De overgangsfase van het omgevingsplan geeft weer dat diverse instrumenten op
 basis van de Wet ruimtelijke ordening, Crisis- en herstelwet en dergelijke na
