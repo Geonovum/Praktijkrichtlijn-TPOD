@@ -3,8 +3,7 @@
 Een regeling, of versie daarvan, bestaat uit verschillende componenten, zoals:
 
 *   Tekst van de regeling
-*   Geo-informatieobjecten (=niet-tekstuele informatie die onderdeel is van
-    besluit)
+*   Geo-informatieobjecten (=niet-tekstuele informatie die onderdeel is van het besluit)
 *   Annotaties
 
 Niet elk component wordt in elke mutatie gewijzigd en is soms het wijzigen ook

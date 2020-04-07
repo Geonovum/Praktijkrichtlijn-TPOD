@@ -1,12 +1,10 @@
 ﻿#### Was-wordt berichten
 
-De mutaties aan artikel 2 worden vervolgens meegenomen als een WAS-WORDT-bericht
-naar de Landelijke voorziening Bekendmaken en Beschikbaar stellen (LVBB). De WAS
-is het huidige besluit en de WORDT is het nieuwe besluit. Het verschil hier is
-de zogenoemde DELTA. Er gaat een bericht uit naar de (LVBB) dat artikel
-2 gewijzigd is. Vervolgens worden deze wijzigingen goedgekeurd en het oude
-artikel 2 verdwijnt uit het geconsolideerde plan en de gewijzigde versie wordt
-daarin geschoven.
+De mutaties aan artikel 2 worden vervolgens meegenomen als een WAS-WORDT-bericht naar de 
+Landelijke voorziening Bekendmaken en Beschikbaar stellen (LVBB). De WAS is het huidige besluit 
+en de WORDT is het nieuwe besluit. Het verschil hier is de zogenoemde DELTA. Er gaat een bericht 
+uit naar de (LVBB) dat artikel 2 gewijzigd is. Vervolgens worden deze wijzigingen goedgekeurd en het oude
+artikel 2 verdwijnt uit het geconsolideerde plan en de gewijzigde versie wordt daarin geschoven.
 
 > WAS: Auto's mogen maximaal 2 uur parkeren in vakken die blauw omlijnd zijn.
 
@@ -17,13 +15,12 @@ daarin geschoven.
 > WORDT: Auto's en motoren mogen maximaal 2 uur parkeren in vakken die blauw
 > omlijnd zijn en 4 uur in vakken die groen omlijnd zijn.
 
-Mutaties van regels, werkingsgebieden en annotaties worden via
-WAS-WORDT-mutaties (ook al bekend in de wereld van de BGT) aangeleverd en in de
-LVBB geconsolideerd. Een WAS-WORDT-mutatie beschrijft de wijziging van de ene naar de andere versie
-van de regeling.
+Mutaties van regels, werkingsgebieden en annotaties worden via WAS-WORDT-mutaties (ook al bekend in de 
+wereld van de BGT) aangeleverd en in de LVBB geconsolideerd. Een WAS-WORDT-mutatie beschrijft de wijziging 
+van de ene naar de andere versie van de regeling.
 
-Elke wijzigbare component (ofwel: tekst, informatieobject, annotatie) bestaat
-uit individueel adresseerbare objecten. De mutatie geeft aan:
+Elke wijzigbare component (ofwel: tekst, informatieobject, annotatie) bestaat uit individueel adresseerbare 
+objecten. De mutatie geeft aan:
 
 *   Toe te voegen objecten;
 *   Nieuwe waarden voor gewijzigde objecten;
