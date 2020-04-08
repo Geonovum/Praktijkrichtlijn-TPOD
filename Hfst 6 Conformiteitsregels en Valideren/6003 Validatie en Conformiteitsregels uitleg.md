@@ -55,8 +55,11 @@ Geldige bronnen zijn op dit moment:
   van de standaard. 
  
 **Subject** 
+
 Op welk gegeven of bestand wordt de validatieregel uitgevoerd. 
-Geldige waarden:   
+
+Geldige waarden:  
+ 
 - Leveringsverzoek
  
 - Opdracht 
