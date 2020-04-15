@@ -37,3 +37,9 @@ Staalkaarten bieden hierbij de volgende inzichten:
 - Werken vanuit een visie: weet je wat je opgaven, ambities en gebiedsbeschrijving zijn?
 
 - Maken van regels: hoe schrijf je je ambities weg in regels voor een omgevingsplan?
+
+Als de Omgevingswet straks ingaat, liggen er elf staalkaarten klaar van ­gebiedstypen waarmee gemeenten aan de slag kunnen met hun 
+omgevingsplannen. Dat zijn: Centrum Stedelijk, Buiten Centrum, Groen Stedelijk, Centrum Dorps, Industrie, Bedrijven, Kantoren en 
+publieksintensief, LG (landelijk gebied): Stedelijk uitloopgebied, LG: Agrarisch, LG: Verweving van functies, LG: Hoofdfunctie natuur.
+
+De staalkaarten zijn te vinden op de website van [aan de slag met de Omgevingswet](https://aandeslagmetdeomgevingswet.nl/implementatie/ondersteuning/voorbeelden-tools/staalkaarten-casco-omgevingsplan/)
