@@ -1,4 +1,4 @@
-**Tijdelijke deel omgevingsplan**
+####Tijdelijke deel omgevingsplan
 
 Het omgevingsplan met ingang van de Omgevingswet wordt het tijdelijk deel van
 het omgevingsplan genoemd. Het overgangsrecht regelt dat de gemeente met ingang
