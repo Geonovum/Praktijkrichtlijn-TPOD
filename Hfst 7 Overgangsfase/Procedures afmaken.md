@@ -1,4 +1,4 @@
-**Procedures afmaken op basis van Wet ruimtelijke ordening (Wro)**
+####Procedures afmaken op basis van Wet ruimtelijke ordening (Wro)
 
 Vanwege het overgangsrecht is het van belang dat je als bronhouder deze plannen
 via de landelijke voorziening van Ruimtelijkeplannen.nl moeten kunnen blijven

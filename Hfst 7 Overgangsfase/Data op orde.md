@@ -1,4 +1,4 @@
-**Data op orde brengen ter voorbereiding op de overgangsfase**
+####Data op orde brengen ter voorbereiding op de overgangsfase
 
 Zowel voor bronhouders als gebruikers van het DSO is het belangrijk dat die
 overgang soepel verloopt. Voorwaarde daarvoor is dat de gegevenskwaliteit van de

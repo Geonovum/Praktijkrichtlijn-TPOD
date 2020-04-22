@@ -1,4 +1,4 @@
-**Regels tot 2029 omzetten naar nieuwe deel omgevingsplan**
+####Regels tot 2029 omzetten naar nieuwe deel omgevingsplan
 
 Vooralsnog mogen er vanaf 2029 geen regels meer staan in het tijdelijke deel van
 het omgevingsplan. Dat volgt uit artikel 22.6, 3e lid, van de Omgevingswet. De

@@ -1,4 +1,4 @@
-**Bestaande ruimtelijke regel** 
+####Bestaande ruimtelijke regel####
 
 In het tijdelijk deel van het omgevingsplan zijn de bestaande ruimtelijke regels
 opgenomen. Dit zijn alle ruimtelijke regels die op dat moment gelden. Het

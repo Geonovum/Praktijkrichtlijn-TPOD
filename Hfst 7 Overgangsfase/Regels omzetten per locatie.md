@@ -1,4 +1,4 @@
-**Regels omzetten kan per locatie**
+####Regels omzetten kan per locatie
 
 Het omzetten van regels vanuit het tijdelijk deel naar het nieuwe deel van het
 omgevingsplan kan per locatie. Een gemeente bepaalt zelf hoe groot zo'n locatie
