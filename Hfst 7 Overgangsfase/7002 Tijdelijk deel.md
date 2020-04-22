@@ -21,7 +21,7 @@ Deze onderdelen vormen samen het tijdelijk deel van het omgevingsplan. Dit volgt
 uit artikelen 22.1 en 22.2 Omgevingswet, artikel 4.6, eerste lid Invoeringswet
 Omgevingswet en artikel 7.1 Invoeringsbesluit Omgevingswet.
 
-![In het nieuwe deel van het omgevingsplan landen de gemeentelijke verordeningen fysieke leefomgeving, plus het tijdelijk deel: bruidsschatregels, ruimtelijke regels, gemeentelijke erfgoedverordening, gemeentelijke geurverordening en gemeentelijke verordening afvoer regen- en grondwater.](media/0ad4886c8b3162782375e63bf853cf2b.jpg)
+![](media/7002 Overgangsfase Omgevingsplan indeling.png)
 
 De gemeente kan regels in het [tijdelijke deel van het
 omgevingsplan](https://aandeslagmetdeomgevingswet.nl/regelgeving/instrumenten/omgevingsplan/overgangsrecht-omgevingsplan/#h23e696ad-d701-48ec-a18b-1b10f5b07ff2)
