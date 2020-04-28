@@ -12,7 +12,7 @@ In het geval van bijvoorbeeld een thema kunnen meerdere thema’s naar hetze
 locatie en thema is het dan weer vereist om verschillende tekstdelen te gebruiken. Er kunnen ook meerdere tekstdelen naar een (of meerdere) 
 divisie(s) verwijzen. Zie afbeelding hieronder.
 
-![](media/3102FormeleDivisieTekstdelen.png)
+![](media/3102DivisieTekstdelen.png)
 
 *Conceptuele weergave van divisie en tekstdelen*
 
@@ -20,7 +20,6 @@ divisie(s) verwijzen. Zie afbeelding hieronder.
 Het STOP-structuurelement Divisie wordt gebruikt voor alle onderdelen van besluiten en regelingen die geen artikelen bevatten. 
 Dat is ruimer dan het IMOW-object Divisie, dat alleen kan voorkomen in het inhoudelijke deel van een omgevingsdocument met 
 een vrijetekststructuur.
-
 
 Bij bevraging in bijvoorbeeld DSO-LV zal altijd de volledige inhoud onder de divisie als resultaat worden weergegeven en nooit het
 individuele tekstdeel. Om de inhoud te kunnen bevragen op de kaart in DSO-LV moet er een locatie gekoppeld worden aan de divisie. 

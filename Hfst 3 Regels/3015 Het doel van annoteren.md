@@ -56,5 +56,3 @@ regeling bevraagbaar te maken voor de gebruiker:
 -   Omgevingsnorm
 
 -   Omgevingswaarde
-
--   Thema

@@ -18,17 +18,24 @@ laatste plaats ten behoeve van de informatieverschaffing in DSO-LV.
 
 Voor de omgevingsvisie gaat het om de volgende IMOW-objecten:
 
--   Formele divisie
-
--   Tekstdeel
-
--   Locatie
+-   Divisie
 
 -   Geometrie
 
 -   Gebiedsaanwijzing
 
 -   Hoofdlijn
+
+-   Kaart
+
+-   Kaartlaag
+
+-   Locatie
+
+-   Regelingsgebied
+
+-   Tekstdeel
+
 
 In de TPOD wordt in detail toegelicht hoe je kunt annoteren met IMOW-objecten.
 Meer informatie hierover vind je in paragraaf 6.4 van de TPOD.
@@ -41,4 +48,4 @@ omgevingsvisie bevraagbaar te maken voor de gebruiker:
 
 -   Hoofdlijn
 
--   Thema
+
