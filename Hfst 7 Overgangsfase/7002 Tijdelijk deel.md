@@ -21,7 +21,9 @@ Deze onderdelen vormen samen het tijdelijk deel van het omgevingsplan. Dit volgt
 uit artikelen 22.1 en 22.2 Omgevingswet, artikel 4.6, eerste lid Invoeringswet
 Omgevingswet en artikel 7.1 Invoeringsbesluit Omgevingswet.
 
+
 ![](media/7002OvergangsfaseOmgevingsplanindeling.png)
+
 
 De gemeente kan regels in het [tijdelijke deel van het
 omgevingsplan](https://aandeslagmetdeomgevingswet.nl/regelgeving/instrumenten/omgevingsplan/overgangsrecht-omgevingsplan/#h23e696ad-d701-48ec-a18b-1b10f5b07ff2)

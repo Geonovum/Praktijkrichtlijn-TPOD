@@ -18,7 +18,7 @@ die met verschillende tekstelementen gevuld wordt:
 Onderstaand figuur is een conceptuele weergave van de beide varianten van de
 vrijetekststructuur.
 
-Links de vrijetekststructuur met formele divisies. Deze wordt gebruikt in het
+Links de vrijetekststructuur met divisies. Deze wordt gebruikt in het
 lichaam van de instructie. Formele divisie kan een formele divisie bevatten
 of formele inhoud. Formele inhoud kan geen formele divisie bevatten of formele
 inhoud. Formele inhoud kan alléén voorkomen in een formele divisie.
