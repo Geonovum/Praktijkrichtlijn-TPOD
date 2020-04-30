@@ -21,6 +21,7 @@ Elk voorbeeld bestand bevat:
     owPons, etc
 
 
+
 ####IMOW objecten
 
 **Regeltekst**
@@ -56,14 +57,17 @@ stelsel Omgevingswet (DSO-LV) door het DSO, de BG en derden.
 De identificatie van een OW-object, zoals een Locatie, krijgt daarom bij BG een lokale identificatie die bepaald wordt door BG zelf. 
 Deze lokale identificatie komt vervolgens in alle ketens herkenbaar beschikbaar en moet daarom globaal uniek zijn, of gemaakt (kunnen) worden, zodat deze geschikt is
 voor gebruik in de LVBB en DSO-LV en afnemers daarvan.
-Onderstaande beschrijft de specificatie hiervoor.
-De lokale identificatie vormt de basis voor de keten van BG naar DSO en weer terug naar BG of derden.
-• Bij uitwisseling van informatie in ketens met andere partijen, dan wordt deze lokale
-identificatie globaal uniek gemaakt, via vaste afspraken (zie IMOW).
-• Keten van plan tot publicatie, opname in OP bestanden: zie OP specificatie.
-• Keten van plan tot publicatie, opname in OW bestanden: zie hieronder.
+Onderstaande beschrijft de specificatie hiervoor. De lokale identificatie vormt de basis voor de keten van BG naar DSO en weer terug naar BG of derden.
+
+-   Bij uitwisseling van informatie in ketens met andere partijen, dan wordt deze lokale identificatie globaal uniek gemaakt, via vaste 
+    afspraken (zie IMOW).
+
+-   Keten van plan tot publicatie, opname in OP bestanden: zie OP specificatie.
+
+-   Keten van plan tot publicatie, opname in OW bestanden: zie hieronder.
 
 Als er sprake is van informatie die én in OW-bestanden zit én in OP-bestanden zit, dan is de lokale identificatie het verbindende gegeven.
+
 
 
 ####OW-manifest
@@ -71,6 +75,7 @@ Als er sprake is van informatie die én in OW-bestanden zit én in OP-bestanden 
 De OW bestanden zijn opgesomd in het ow specifieke manifest. Hierin plaats je de versie van de regeling waar de aanlevering bij hoort. 
 Vervolgens specificeer je in dit bestand de OW-specifieke annotaties die je meelevert. Hierdoor staat per OW-bestand alleen dezelfde soort 
 objecten gedefinieerd.
+
 
 
 ####GML-bestanden

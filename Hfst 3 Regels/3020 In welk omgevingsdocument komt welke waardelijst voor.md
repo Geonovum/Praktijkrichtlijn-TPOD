@@ -7,6 +7,7 @@ Hieronder vind je een overzicht welke waardelijsten voor welk omgevingsdocument 
 
 ![](media/Tabel_waardelijsten.png)
 
+
 In de TPOD is in paragraaf 6.4 beschreven hoe je kunt annoteren met de IMOW objecten. Per object is beschreven of deze 
 van toepassing is in het betreffende omgevingsdocument en welke attributen deze heeft. Ook is beschreven of het
 attribuut een vrij veld is, of dat deze uit een limitatieve of uitbreidbare waardelijst gekozen moet worden. 
