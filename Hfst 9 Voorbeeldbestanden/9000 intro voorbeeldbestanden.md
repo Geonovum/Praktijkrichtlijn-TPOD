@@ -5,7 +5,7 @@ deze kan bevatten. Het zijn technische voorbeelden en niet perse in logische tek
 
 Elk voorbeeld bestand bevat:
 
--   De *regeling*: Deze heeft een AKN identifier en heet AKN_NL_bill_<afkorting bevoegd gezag><cbscode bevoegd gezag>-<nummer>.xml
+-   Het *besluit*: Deze heeft een AKN identifier en heet AKN_NL_bill_<afkorting bevoegd gezag><cbscode bevoegd gezag>-<nummer>.xml
 
 -   Twee *manifesten*: Dit zijn manifest.xml (voor LVBB) en owmanifest.xml (voor OZON/DSO-LV). Dit is de pakbon van
     alle bestanden die nodig zijn voor publicatie op de LVBB respectievelijk DSO-LV. 
@@ -27,15 +27,15 @@ Elk voorbeeld bestand bevat:
 **Regeltekst**
 
 In het regeltekst-bestand leg je de koppeling tussen de gegevens vanuit het IMOP en het IMOW. Dit gebeurt middels het OwObject van Regeltekst. 
-Deze Regeltekst bevat twee attributen die verwijzen naar het IMOP, dit zijn wId en wIdRegeling.
+Deze Regeltekst bevat twee attributen die verwijzen naar het IMOP, dit zijn wId en WorkIDRegeling.
 -   wId verwijst naar het ID van het artikel of lid uit IMOP.
--   wIdRegeling verwijst naar het ID van de regeling uit IMOP.
+-   WorkIDRegeling verwijst naar het ID van de regeling uit IMOP.
 
 Regeltekst heeft zelf ook nog een identificatie, hier wordt naar verwezen vanuit OwObjecten. In het document met Regeltekst dien je ook 
 Juridische Regels te definiëren. Een juridische regel maakt het mogelijk om te duiden welke OwObjecten worden aangemerkt in een bepaald 
 artikel of lid.
 Juridische Regel is een abstract objecttype dat drie subtypen heeft, namelijk: RegelVoorIedereen, Instructieregel en Omgevingswaarderegel.
-De Juridische regels hebben geen identificatie, ze hebben een attribuut genaamd: ‘artikelOfLid’, welke verwijst naar de OW-Regeltekst. 
+De Juridische regels hebben een identificatie en een attribuut genaamd: ‘artikelOfLid’, welke verwijst naar de OW-Regeltekst. 
 Vul hierin dezelfde waarde van identificatie in als de waarde die is opgenomen in de OW-Regeltekst.identificatie.
 
 Daarbij kennen OwObjecten ook onderlinge relaties. Zo heeft een Juridische regel een relatie naar o.a. een Activiteit, Omgevingsnorm, 
