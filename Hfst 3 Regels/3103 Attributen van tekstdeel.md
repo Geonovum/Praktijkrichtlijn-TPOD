@@ -32,7 +32,7 @@ tekstdeel betrekking op heeft. De volgende pagina bevat meer informatie over de 
   een Gebiedsaanwijzing. Attribuut dat vastlegt dat het Tekstdeel met (één van de type van) 
   het object Gebiedsaanwijzing geannoteerd is. Optioneel attribuut. Deze komt 0 of 1 keer voor.
 
-Het tekstdeel heeft geen waardelijsten.
+**Het tekstdeel heeft geen waardelijsten.**
 
 
 

@@ -144,5 +144,4 @@ het proces.
 
 - Omgevingsvisie 
 
-- Projectbesluit 
-
+- Projectbesluit

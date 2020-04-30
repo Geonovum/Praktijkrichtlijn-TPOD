@@ -5,7 +5,7 @@ uit tekstelementen. Binnen de tekstelementen zijn informatiekundige elementen aa
 gekoppeld kan worden. In omgevingsdocumenten met een artikelstructuur (zoals dit omgevingsdocument) is
 dit de regeltekst.
 
-Regeltekst is de kleinste zelfstandige eenheid van (een of meer) bij elkaar horende juridische 
+**Regeltekst** is de kleinste zelfstandige eenheid van (een of meer) bij elkaar horende juridische 
 regels: een artikel en lid. Een artikel is altijd een regeltekst. Indien het artikel leden bevat, 
 dan zijn de losse leden óók regeltekst. De regeltekst is in een tekst concreet aan te wijzen. Meer 
 informatie over regeltekst vind je in *paragraaf 6.2.1.1 van de TPOD.*
@@ -25,10 +25,13 @@ Bij bevraging in bijvoorbeeld DSO-LV zal altijd de volledige regeltekst als resu
 en niet de individuele juridische regel. Dat komt omdat de context van een regel ook altijd duidelijk moet zijn. 
 Om de regels te kunnen bevragen op de kaart in DSO-LV moet er een locatie gekoppeld worden aan de regeltekst. 
 Het koppelen van een locatie aan de regeltekst is verplicht. Bij een klik op de kaart op een betreffende locatie
-komt de regel over een bepaald werkingsgebied naar voren. Het **werkingsgebied** is een abstract, conceptueel 
-begrip: het gebied waar een Regeltekst zijn werking heeft. Het begrip werkingsgebied wordt in de STOP-standaard 
-gebruikt voor de computerleesbare verbinding tussen een regeltekst en de geografische informatieobjecten (GIO's).
-Op de volgende pagina of bij het onderwerp *Locatie en werkingsgebied* vind je uitleg over Locaties en werkingsgebieden.
+komt de regel over een bepaald werkingsgebied naar voren. 
+
+Het **werkingsgebied** is een abstract, conceptueel begrip: het gebied waar een Regeltekst zijn werking heeft. Het begrip 
+werkingsgebied wordt in de STOP-standaard gebruikt voor de computerleesbare verbinding tussen een regeltekst en de geografische
+informatieobjecten (GIO's).
+
+Op de volgende pagina of bij het onderwerp Locatie en werkingsgebied vind je uitleg over Locaties en werkingsgebieden.
 
 Verder is het mogelijk om de regeltekst te annoteren. Annoteren is noodzakelijk om het bevragen van de regels in DSO-LV 
 mogelijk te maken. Ook is het annoteren nodig om de regels op een betekenisvolle manier te verbeelden op de kaart in DSO-LV. 
