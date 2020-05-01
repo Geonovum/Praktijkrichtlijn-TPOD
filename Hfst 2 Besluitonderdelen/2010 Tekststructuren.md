@@ -27,5 +27,6 @@ Het rechtergedeelte van het figuur geeft de vrijetekststructuur weer, waarin de
 divisies inhoud bevatten. Inhoud kan alléén voorkomen in een divisie.
 
 ![](media/ArtikelVrijeVrijetekststructuurOPOVWVAMvB2010.png)
+AFBEELDING KLOPT NIET MEER EN WORDT NOG GEWIJZIGD!!!
 
 *Artikelstructuur en vrijetekststructuur*

@@ -11,16 +11,13 @@ tekstelementen gevuld wordt:
     (buiten het lichaam van de regeling), zoals de bijlagen. In die onderdelen van de instructie worden 
     de tekstelementen divisie en divisietekst gebruikt.
 
-Onderstaand figuur is een conceptuele weergave van de beide varianten van de vrijetekststructuur.
 
+Onderstaand figuur is een conceptuele weergave van de vrijetekststructuur.
 
-![](media/OpOwDeelVrijetekstructuur.png)
+![](media/DivisieDivisietekstInhoud.png)
 
-*Varianten van vrijetekststructuur*
+*Model vrijetekststructuur*
 
-Links de vrijetekststructuur met divisies. Deze wordt altijd gebruikt in het lichaam van de instructie. 
-Een divisie kan weer een divisie bevatten of inhoud. Inhoud kan geen divisie bevatten. 
-
-Het rechtergedeelte van het figuur geeft de vrijetekststructuur weer, waarin de divisies divisietekst met inhoud bevatten. 
+Een divisie kan weer een divisie bevatten of divisie tekst met daarin de inhoud. Inhoud of divisitekst kan geen divisie bevatten.
 
 
