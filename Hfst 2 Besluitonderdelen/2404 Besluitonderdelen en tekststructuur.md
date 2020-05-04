@@ -7,10 +7,10 @@ Voor de motivering en bijlagen lichtgroen voor vrijetekststructuur buiten het li
 Deze tekststructuur is hetzelfde maar deze kun je niet annoteren. Ook zijn er onderdelen uitgegrijsd, omdat 
 deze niet verplicht zijn.
 
-![](media/TijdelijkPlaatjeOpbouwINSTRUCTIE.png)
-de correcte afbeelding volgt nog!!!
+![](media/OpbouwInstructie.png)
 
 *Besluitonderdelen en hun tekststructuur*
+
 
 **Deel één: motivering**
 Dit deel van het besluit bestaat uit de vaststellingsdocumenten en de motivering van het
