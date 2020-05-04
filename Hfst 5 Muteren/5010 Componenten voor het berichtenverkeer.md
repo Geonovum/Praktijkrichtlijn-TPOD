@@ -1,10 +1,10 @@
-#### Componenten voor het berichtenverkeer
+#### Componenten die je kunt consolideren en muteren
 
-Een regeling, of versie daarvan, bestaat uit verschillende componenten, zoals:
+Een besluit, of versie daarvan, bestaat uit verschillende componenten:
 
-*   Tekst van de regeling
-*   Geo-informatieobjecten (=niet-tekstuele informatie die onderdeel is van het besluit)
-*   Annotaties
+-   Tekst 
+-   Geografisch informatieobject(en) met geometrie (GIO) 
+-   Annotaties
 
 Niet elk component wordt in elke mutatie gewijzigd en is soms het wijzigen ook
 toegestaan zonder besluit.
@@ -13,9 +13,3 @@ Het doel van consolideren is het vereenvoudigen van het proces. Er is minder
 handwerk noodzakelijk en tegelijkertijd meer automatisering van het hele proces.
 De informatie uit het besluit is direct bruikbaar voor de geconsolideerde regeling.
 
-Er dient rekening gehouden te worden met de volgende zaken:
-
-*   Ga uit van versies van de regeling;
-*   Besluit (deels) afleidbaar uit versies van regelingen;
-*   Juridisch nog steeds besluiten op verschillen;
-*   **Altijd** ook volledige versie beschikbaar.

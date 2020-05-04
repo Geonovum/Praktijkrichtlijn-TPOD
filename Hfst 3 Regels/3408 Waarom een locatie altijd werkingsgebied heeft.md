@@ -2,9 +2,9 @@
 
 Ten behoeve van de informatieverschaffing in het LVBB en het DSO-LV wordt door
 middel van een locatie en werkingsgebied op eenvoudige wijze duidelijk gemaakt
-**waar** een omgevingsvisie zijn werking heeft. Het moet voor de wet altijd
-duidelijk zijn waar een omgevingsvisie of delen (divisies) uit een
-omgevingsvisie werking hebben, vandaar de verplichting voor een werkingsgebied.
+**waar** een omgevingsdocument zijn werking heeft. Het moet voor de wet altijd
+duidelijk zijn waar een omgevingsdocument of delen (divisies) uit een
+omgevingsdocument werking hebben, vandaar de verplichting voor een werkingsgebied.
 Daarnaast heeft het DSO-LV locaties nodig om het Omgevingsloket met Regels op de
 Kaart te kunnen laten functioneren. Zonder de locaties werkt dit onderdeel in
 het DSO-LV niet.

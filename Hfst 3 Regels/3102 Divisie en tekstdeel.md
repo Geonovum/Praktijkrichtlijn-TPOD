@@ -16,7 +16,7 @@ divisie(s) verwijzen. Zie afbeelding hieronder.
 
 *Conceptuele weergave van divisie en tekstdelen*
 
-[Let op dat het STOP-tekstmodel het structuurelement Divisie kent en IMOW het objecttype Divisie. Ze zijn niet hetzelfde.] 
+**Let op dat het STOP-tekstmodel het structuurelement Divisie kent en IMOW het objecttype Divisie. Ze zijn niet hetzelfde.**
 Het STOP-structuurelement Divisie wordt gebruikt voor alle onderdelen van besluiten en regelingen die geen artikelen bevatten. 
 Dat is ruimer dan het IMOW-object Divisie, dat alleen kan voorkomen in het inhoudelijke deel van een omgevingsdocument met 
 een vrijetekststructuur.
