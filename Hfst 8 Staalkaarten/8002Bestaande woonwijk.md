@@ -1,4 +1,4 @@
-**Staalkaart Bestaande Woonwijk**
+#### Staalkaart Bestaande Woonwijk
 
 Deze staalkaart geeft voorbeeldregels over de bestaande woonwijk die in het
 omgevingsplan kunnen worden opgenomen.  De bestaande woonwijk is een wijk waar
@@ -18,17 +18,17 @@ model-omgevingsplan.
 
 De staalkaart bestaande woonwijk bestaat uit vier delen:  
 
-1. **Handleiding voor de planopsteller**: Hierin wordt de staalkaart bestaande
+**1. Handleiding voor de planopsteller**: Hierin wordt de staalkaart bestaande
 woonwijk geïntroduceerd. Daarna worden het doel van de staalkaarten en de
 ontwerpkeuzes bij het opstellen van een omgevingsplan besproken. 
 
-2. **Algemene toelichting op de regels**: Deze toelichting is bedoeld voor alle
+**2. Algemene toelichting op de regels**: Deze toelichting is bedoeld voor alle
 gebruikers van een omgevingsplan. 
 
-3. **Regels voor een bestaande woonwijk**. In dit deel staan de voorbeeldregels
+**3. Regels voor een bestaande woonwijk**. In dit deel staan de voorbeeldregels
 voor de bestaande woonwijk, deze zijn in een aantal varianten uitgewerkt. 
 
-4. **Artikelsgewijze toelichting** op de regels in deze staalkaart voor een
+**4. Artikelsgewijze toelichting** op de regels in deze staalkaart voor een
 bestaande woonwijk. 
 
 De staalkaart ‘Bestaande Woonwijk’ is te vinden op de website van de
