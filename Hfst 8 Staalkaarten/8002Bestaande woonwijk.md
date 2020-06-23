@@ -1,6 +1,6 @@
 #### Staalkaart Bestaande Woonwijk
 
-Deze staalkaart geeft voorbeeldregels over de bestaande woonwijk die in het
+Deze staalkaart geeft voorbeeldregels weer over de bestaande woonwijk die in het
 omgevingsplan kunnen worden opgenomen.  De bestaande woonwijk is een wijk waar
 iedere gemeente er wel één of meer van heeft. Het is een wijk waar geen grote
 ruimtelijke ontwikkelingen plaatsvinden, maar waar wel een aantal vraagstukken

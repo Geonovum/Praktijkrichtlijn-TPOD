@@ -6,10 +6,10 @@ meer zichtbaar, hanteerbaard en vooral uitvoerbaar te maken. Het casco illustree
 kan bevatten en op welke plaats deze kunnen worden opgenomen. Onder het vaststellen van een omgevingsplan wordt hier ook het herzien 
 van een omgevingsplan verstaan. In de structuur is ook rekening gehouden met de regels vanuit de STOP/TPOD standaard.
 
-De regels die in deze cascostructuur zijn opgenomen, zijn slechts een leidraad en geen verplichting. Zij dienen enkel om de structuur te 
+De regels die in deze cascostructuur zijn opgenomen, zijn slechts een leidraad en géén verplichting. Zij dienen enkel om de structuur te 
 ondersteunen en om inzicht te geven in wat er zoal een omgevingsplan geregeld kan worden. In sommige gevallen zijn de regels ontleend aan 
-bestaande praktijken. In andere gevallen zijn ze nieuw bedacht. In alle gevallen gaat het uitdrukkelijk niet om modelbepalingen die zijn 
-geschreven om letterlijk overgenomen te worden. Het zijn prototypes die laten zien wat een omgevingsplan kan inhouden. De voorbeelden zijn 
+bestaande praktijken. In andere gevallen zijn ze nieuw bedacht. **In alle gevallen gaat het uitdrukkelijk niet om modelbepalingen die zijn 
+geschreven om letterlijk overgenomen te worden.** Het zijn prototypes die laten zien wat een omgevingsplan kan inhouden. De voorbeelden zijn 
 niet zozeer gebaseerd op inhoudelijke kennis van zaken op het betreffende terrein van omgevingsbeleid, maar zijn illustratief voor de manier
 waarop dergelijke inhoudelijke zaken vorm kunnen krijgen. Gemeenten dienen de regels zelf invulling te geven op basis van de eigen beleidskeuzes.
 
