@@ -1,4 +1,4 @@
-### Werking Pons DSO-LV en overbruggingsfunctie IHR**
+### Werking Pons DSO-LV en overbruggingsfunctie IHR
 
 **INLEIDING**
 

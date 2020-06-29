@@ -9,13 +9,13 @@ Open uw browser (voorkeur: Firefox of Chrome)
 Ga naar https://pre.omgevingswet.overheid.nl/home
 
 **3. Kies het portaal**
-Kies bij de drie opties voor “Regels op de kaart”
+Kies bij de drie opties bovenaan voor “Regels op de kaart”
 
 **4. Zoeken**
 Vul in het veld “Locatie” één van de hieronder weergegeven codes in (d.m.v. ‘kopiëren’ en ‘plakken’) 
 en druk daarna op ‘enter’ of klik aan de rechter kant bij ‘zoeken’ op het symbool (vergrootglas).
 
-Gebruik de code: NZE05 (=Perceel Noordzee)
+Gebruik de code: NZE05 A44 (=Perceel Noordzee)
 
 
 Let op:
