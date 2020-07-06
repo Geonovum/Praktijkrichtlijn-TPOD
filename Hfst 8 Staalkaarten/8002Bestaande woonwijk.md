@@ -33,5 +33,5 @@ bestaande woonwijk. 
 
 De staalkaart ‘Bestaande Woonwijk’ is te vinden op de website van de
 [VNG](https://vng.nl/publicaties/staalkaart-bestaande-woonwijk)
-[VNG webinar over Bestaande Woonwijk] (https://www.youtube.com/watch?v=0CrFfBHi6R8)
+[VNG webinar over Bestaande Woonwijk](https://www.youtube.com/watch?v=0CrFfBHi6R8)
 

@@ -9,5 +9,5 @@ besluit, digitaal te raadplegen is op verschillende systemen, zoals het DSO-LV
 en met verschillende applicaties, zoals bijvoorbeeld geo-viewers of plansoftware.
 
 De afspraken die zijn gemaakt om dit alles te laten functioneren, zijn vastgelegd 
-in de modellen van de standaard: het informatiemodel (IMOP voor de STOP en IMOW voor de TPOD's), 
-het berichtenmodel en het presentatiemodel.
+in de modellen van de standaard: het informatiemodel (IMOP voor de STOP en IMOW voor
+de TPOD's), het berichtenmodel en het presentatiemodel.

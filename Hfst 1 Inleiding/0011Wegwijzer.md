@@ -9,7 +9,7 @@ eenvoudig op kunnen nemen en vat deze samen wat de belangrijkste onderwerpen in 
 de hand van het gekozen onderwerp surfend door de standaarden heen en krijgt een beeld hoe deze in de praktijk 
 toegepast kunnen worden. 
 
-Er kan gezocht worden per omgevingsdocument, per overheid, per onderwerp en in de zoekbalk rechtsboven.
+Er kan gezocht worden per omgevingsdocument, per onderwerp en in de zoekbalk rechtsboven.
 In de quicksearches voor op de pagina "Hoe...... ik een......." worden voorbeeldtoepassingen van de standaarden
 op specifieke onderwerpen toegelicht. Het zijn stappenplannen hoe er met de standaard
 omgegaan kan worden. Vaak worden meerdere gradaties beschreven om inzicht te geven welke mogelijkheden er zijn.

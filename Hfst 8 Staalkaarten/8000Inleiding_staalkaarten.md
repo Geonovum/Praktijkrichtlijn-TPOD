@@ -38,4 +38,4 @@ Staalkaarten bieden hierbij de volgende inzichten:
 
 
 De gepubliceerde staalkaarten zijn te vinden op de website van [VNG](https://vng.nl/zoeken?term=staalkaarten)
-Er is ook een webinar beschikbaar over [staalkaarten en ontwerp vragen] (https://www.youtube.com/watch?v=QRipsLwe5BU)
+Er is ook een webinar beschikbaar over [staalkaarten en ontwerp vragen](https://www.youtube.com/watch?v=QRipsLwe5BU)

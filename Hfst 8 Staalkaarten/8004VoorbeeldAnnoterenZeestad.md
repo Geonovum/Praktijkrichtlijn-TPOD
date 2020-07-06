@@ -6,7 +6,7 @@ De regels ‘uitritten’ van Casco Omgevingsplan (Zeestad) kunnen in het DSO be
 Open uw browser (voorkeur: Firefox of Chrome) 
 
 **2. Ga naar het DSO**
-Ga naar https://pre.omgevingswet.overheid.nl/home
+Ga naar het [Preportaal](https://pre.omgevingswet.overheid.nl/home)
 
 **3. Kies het portaal**
 Kies bij de drie opties bovenaan voor “Regels op de kaart”

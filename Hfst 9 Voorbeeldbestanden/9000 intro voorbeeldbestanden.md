@@ -1,4 +1,4 @@
-####Voorbeeldbestanden
+####Uitleg voorbeeldbestanden
 
 Een voorbeeldbestand is een technisch voorbeeld hoe een omgevingsdocument eruit kan zien en welke onderdelen
 deze kan bevatten. Het zijn technische voorbeelden en niet perse in logische tekst.
