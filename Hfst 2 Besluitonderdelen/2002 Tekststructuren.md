@@ -13,20 +13,17 @@ Er zijn voor inhoudelijke tekst twee soorten tekststructuren mogelijk:
     zoals de motivering van het besluit, bijlagen en eventuele toelichting. In die onderdelen van het projectbesluit worden de 
     tekstelementen divisie en divisietekst (met inhoud) gebruikt.
 
-Onderstaand figuur is een conceptuele weergave van de beide tekststructuren, met de twee varianten in geval van vrijetekststructuur.
+Onderstaand figuur is een conceptuele weergave van de beide tekststructuren.
 
-![](media/..............png)
+![](media/Artikelstructuur_en_Vrijetekststructuur.png) 
 
-*Artikelstructuur en beide varianten van vrijetekststructuur*
+*Artikelstructuur en vrijetekststructuur*
 
 Links de artikelstructuur met artikelen en leden met inhoud. Te zien is dat wanneer een artikel leden bevat, de inhoud in het lid voorkomt. 
 Indien het artikel inhoud bevat, zoals in artikel 1.2 in het figuur hierboven is het niet mogelijk om in dat artikel ook leden te plaatsen. 
 Deze structuur is alléén van toepassing op deel 2 van het projectbesluit.
 
-In het midden de vrijetekststructuur met divisies. Deze wordt gebruikt in het lichaam van de regeling van deel 1 van het projectbesluit. 
-Een divisie kan een divisie bevatten of inhoud. Inhoud kan geen divisie bevatten. 
-
-Het rechtergedeelte van het figuur geeft de vrijetekststructuur weer, waarin de divisies divisietekst met inhoud bevatten. De inhoud valt altijd
-binnen de divisietekst.
+Het rechtergedeelte van het figuur geeft de vrijetekststructuur weer, waarin de divisies minstens divisietekst met inhoud bevatten. De inhoud 
+valt altijd binnen een divisietekst. Een divisie kan een divisie bevatten of inhoud. Inhoud kan geen divisie bevatten. 
 
 
