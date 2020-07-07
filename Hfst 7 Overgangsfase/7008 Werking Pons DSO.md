@@ -20,6 +20,13 @@ bestemmingsplan dat in de overbruggingsfunctie vanDSO-LV aanwezig is, niet
 langer geldig zijn. De Pons zorgt daarbij voor dat de deel van het
 bestemmingsplan niet meer wordt getoond.
 
+![](media/Hoe werkt de pons.png)
+
 Vanwege het overgangsrecht voor bestemmingsplan-achtige kunnen procedures
 afgemaakt worden volgens het oude recht (Wro) en kunnen deze plannen tot 2029
-worden omgezet naar het nieuwe deel van het omgevingsplan.
+worden omgezet naar het nieuwe deel van het omgevingsplan. Om de dienstverlening voor de raadpleging van de plannen op de DSO-LV viewer te verhogen is de Pons ontwikkeld door Informatiehuis Ruimte (IHR). 
+Vanuit de overbruggingsfunctie van  IHR worden alle geldige plannen die op Ruimtelijkeplannen.nl zijn gepubliceerd ontsloten via de viewer van de DSO-LV zodat alle informatie op één landelijke voorziening te vinden is. 
+Met ingang van de Omgevingswet kunnen omgevingsdocumenten gepubliceerd worden, zoals bijvoorbeeld een nieuw gedeelte van het omgevingsplan. 
+Om nu niet verschillende plannen van verschillende wetgevingen door elkaar te tonen is het mogelijk om de Pons te gaan gebruiken. Dit is een wisselwerking tussen de DSO-LV viewer, Ozon en de overbruggingsfunctie (IHR). 
+
+![](media/TPOD_Wegwijzer_Pons_OvergangRuimtelijkeplannen.nlnaarDSO-LVviewer.png)
