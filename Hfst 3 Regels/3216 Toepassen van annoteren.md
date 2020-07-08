@@ -36,10 +36,10 @@ annotaties in bovenstaande figuur (zie de annotaties die alleen in deel 1 van
 het projectbesluit mogelijk zijn). Een annotatie kan -in inhoudelijke zin-
 betrekking hebben op een heel tekstdeel of, indien gewenst, op een onderdeel
 daarvan. In technische zin zal een annotatie echter gekoppeld worden op het
-niveau van de formele divisie. Elke annotatie verwijst naar de identificatie van het
+niveau van de divisie. Elke annotatie verwijst naar de identificatie van het
 tekstdeel.
 
-In het DSO-LV zal bij bevraging altijd de volledige formele inhoud als resultaat
+In het DSO-LV zal bij bevraging altijd de volledige inhoud als resultaat
 worden weergegeven en niet het individuele tekstdeel. Op deze manier wordt de
 volledige context getoond (zie p. 29 in de TPOD).
 
