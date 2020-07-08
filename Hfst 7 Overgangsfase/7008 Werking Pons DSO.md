@@ -20,7 +20,7 @@ bestemmingsplan dat in de overbruggingsfunctie vanDSO-LV aanwezig is, niet
 langer geldig zijn. De Pons zorgt daarbij voor dat de deel van het
 bestemmingsplan niet meer wordt getoond.
 
-![](media/Hoewerktdepons.png)
+![](media/Hoewerktdpons.png)
 
 Vanwege het overgangsrecht voor bestemmingsplan-achtige kunnen procedures
 afgemaakt worden volgens het oude recht (Wro) en kunnen deze plannen tot 2029
