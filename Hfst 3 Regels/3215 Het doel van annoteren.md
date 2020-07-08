@@ -1,13 +1,13 @@
 #### Het doel van annoteren
 
 Annoteren maakt het mogelijk dat de tekst uit een besluit of regeling ook voor
-een computer leesbaar wordt: de machineleesbaarheid. Het zorgt er voor dat het
-besluit of de regeling gestructureerd bevraagbaar is en dat locaties en andere
-gegevens op een kaart weergegeven worden. Het annoteren helpt ook bij het
-verbinden van toepasbare regels, oftewel vragenbomen, aan regels met
-werkingsgebieden. De gegevens die bij het annoteren worden toegevoegd worden
-niet in de voor de mens leesbare tekst weergegeven. De annotaties zijn wel
-zichtbaar in het machineleesbare bestand.
+een computer leesbaar wordt: de zogenaamde machineleesbaarheid. 
+Het zorgt er voor dat het besluit of de regeling gestructureerd bevraagbaar is 
+en dat locaties en andere gegevens op een kaart weergegeven kunnen worden. 
+Het annoteren helpt ook bij het verbinden van toepasbare regels, oftewel vragenbomen, 
+aan regels met werkingsgebieden. 
+De gegevens die bij het annoteren worden toegevoegd worden niet in de voor de mens leesbare
+tekst weergegeven. De annotaties zijn wél zichtbaar in het machineleesbare bestand.
 
 Annotaties zijn op het tekstdeel via een divisie (de kop) mogelijk. Ze helpen
 om regels op hun eigenschappen te vinden wanneer zoektermen worden gebruikt. Ze
