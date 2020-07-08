@@ -9,7 +9,7 @@ werkingsgebieden. De gegevens die bij het annoteren worden toegevoegd worden
 niet in de voor de mens leesbare tekst weergegeven. De annotaties zijn wel
 zichtbaar in het machineleesbare bestand.
 
-Annotaties zijn op het tekstdeel via een formele divisie (de kop) mogelijk. Ze helpen
+Annotaties zijn op het tekstdeel via een divisie (de kop) mogelijk. Ze helpen
 om regels op hun eigenschappen te vinden wanneer zoektermen worden gebruikt. Ze
 helpen ook om regels op hun eigenschappen te kunnen presenteren.
 
@@ -19,9 +19,9 @@ laatste plaats ten behoeve van de informatieverschaffing in DSO-LV.
 
 Voor het projectbesluit gaat het om de volgende IMOW-objecten:
 
--   Tekstdeel (alleen in deel 1)
+-   Tekstdeel 
 
--   Formele divisie (alleen in deel 1)
+-   Divisie 
 
 -   Regeltekst (alleen in deel 2)
 
@@ -40,10 +40,7 @@ Voor het projectbesluit gaat het om de volgende IMOW-objecten:
 -   Gebiedsaanwijzing
 
 In de TPOD wordt in detail toegelicht hoe je kunt annoteren met IMOW-objecten.
-Meer informatie over het annoteren met IMOW-objecten in deel 1 van het
-projectbesluit vind je in paragraaf 6.2 van de TPOD. Meer informatie over het
-annoteren met IMOW-objecten in deel 2 van het projectbesluit vind je in
-paragraaf 6.3 van de TPOD.
+Meer informatie hierover vind je in paragraaf 6.4 van de TPOD.
 
 Er zijn een aantal inhoudelijke annotaties die iets zeggen over de juridische
 inhoud van het projectbesluit en die helpen om de inhoud van het projectbesluit
