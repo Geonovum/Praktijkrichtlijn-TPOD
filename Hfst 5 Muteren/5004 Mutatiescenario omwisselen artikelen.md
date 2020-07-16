@@ -3,7 +3,7 @@
 Het mutatiescenario in het leven geroepen om artikelen om te kunnen wisselen als bijvoorbeeld
 een artikelvolgorde is vastgesteld, maar men het duidelijker vindt om de volgorde te wijzigen.
 
-![](media/Muteren_2A&B_Omwisselen van artikelen.png)
+![](media/Muteren_2A&B_OmwisselenArtikelen.png)
 
 Bijvoorbeeld: De gemeenteraad van Gemeentestad heeft vorig jaar de artikelen 2.5 en 2.6
 vastgesteld. Dit jaar hebben ze deze volgorde nog eens goed bekeken en zijn tot de conclusie
