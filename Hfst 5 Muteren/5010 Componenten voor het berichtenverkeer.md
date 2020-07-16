@@ -1,6 +1,6 @@
 #### Componenten die je kunt consolideren en muteren
 
-Een besluit, of versie daarvan, bestaat uit verschillende componenten:
+Een besluit of versie daarvan bestaat uit verschillende componenten:
 
 -   Tekst 
 -   Geografisch informatieobject(en) met geometrie (GIO) 
