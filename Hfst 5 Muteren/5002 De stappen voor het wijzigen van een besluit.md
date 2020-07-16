@@ -29,5 +29,3 @@ Onderdeel van het bericht is de mutatie zoals door het IMOP wordt beschreven.
 
 Hoe wijzigingsbesluiten er voor de bekendmaking en consolidatie uit moeten zien 
 en hoe ze moeten worden aangeleverd, is beschreven in de STOP-documentatie. 
-Hoe het wijzigen van IMOW-objecten in zijn werk gaat is in het document 
-[IMOW Muteren in de keten v.0.98.1-kern](https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD) beschreven.
