@@ -1,9 +1,10 @@
 ﻿#### De stappen voor het wijzigen van een besluit
 
 Het wijzigen van een Omgevingsdocument start bij het vinden van het geldende besluit. 
-Dit besluit wordt in ieder geval op de LVBB gepubliceerd en opgeslagen als juridische waarheid, 
-maar kan ook in de software worden opgeslagen. Je kunt van dit besluit een nieuwe versie
-aanmaken en deze bewerken.
+Dit besluit wordt in ieder geval op de LVBB gepubliceerd en opgeslagen als juridische 
+waarheid, maar kan ook in de software worden opgeslagen. Het is mogelijk om van dit 
+besluit een nieuwe versie aan te maken en deze te bewerken. Daarnaast is het ook mogelijk
+om zonder besluit een mutatie van OW-informatie te doen.
 
 ![](media/5004SchemaWijzigenOD.png)
 
