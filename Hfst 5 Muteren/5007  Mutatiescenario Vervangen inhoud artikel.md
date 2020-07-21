@@ -7,8 +7,8 @@ een gewijzigde term als inhoud heeft. Alleen dit deel uit het artikel wordt verv
 
 Bijvoorbeeld: De gemeenteraad van Gemeentestad heeft vorig jaar artikel 2.14 Bouwregels geluidgevoelige gebouwen
 vastgesteld. Dit jaar heeft de gemeenteraad besloten om de tekst **uitoefenen van dienstverlening** te wijzigen in
-**verlenen van diensten**. Dit stukje tekst wordt vervangen, zoals te zien is in bovenstaande afbeelding.
-In xml wordt dit gedaan
+**verlenen van diensten**. Deze tekst wordt vervangen, zoals te zien is in bovenstaande afbeelding.
+
 
 
 

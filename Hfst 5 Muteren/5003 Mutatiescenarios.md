@@ -20,7 +20,9 @@ Binnen het muteren van regeling of besluit zijn de volgende mogelijkheden:
 -   Verwijder (artikelen/divisies die verwijderd worden)
 -   VoegToe (artikelen/divisies die toegevoegd worden en waar)
 -   Vervang (elementen die gemuteerd worden)
-	
+
+Bij het wijzigen dient verwezen te worden naar het wId, omdat dit de onveranderlijke 
+identificatie is.
 
 Binnen tekst valt te muteren met:
 

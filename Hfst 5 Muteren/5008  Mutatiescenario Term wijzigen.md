@@ -1,16 +1,16 @@
 ####Term in een artikel wijzigen
 
-Het mutatiescenario is in het leven geroepen om een term in een of meerdereartikelen te kunnen wijzigen 
-als deze bijvoorbeeld niet meer voldoet. Alleen de term uit het artikel wordt vervangen voor een andere term.
+Het mutatiescenario is in het leven geroepen om te tonen hoe het eruitziet als er een OW-annotatie 
+wordt gewijzigd. Het wijzigen van een bepaalde term kan ertoe leiden dat niet alleen een wijziging 
+in de tekst, maar ook in de annotaties wenselijk is. 
 
 ![](media/Muteren_3B_TermWijzigen.png)
 
-Bijvoorbeeld: De gemeenteraad van Gemeentestad heeft vorig jaar artikel 2.14 Bouwregels geluidgevoelige gebouwen
-vastgesteld. Dit jaar heeft de gemeenteraad besloten om de term **kantoren** te wijzigen in
+Bijvoorbeeld: De gemeenteraad van Gemeentestad heeft vorig jaar *artikel 2.14 Bouwregels geluidgevoelige
+gebouwen* vastgesteld. Dit jaar heeft de gemeenteraad besloten om de term **kantoren** te wijzigen in
 **kantoorruimten**. Verder wil de gemeenteraad dat ook de activiteit **exploiteren van een kantoor** ook 
-**exploiteren van een kantoorruimte** gaat heten. Deze term wordt vervangen, zoals te zien is in bovenstaande afbeelding. 
-
-
+**exploiteren van een kantoorruimte** gaat heten. Dit zorgt ervoor dat bij de ‘regels op de kaart’ in het DSO-LV 
+de activiteit onder de nieuwe term terug te vinden is. 
 
 
 
