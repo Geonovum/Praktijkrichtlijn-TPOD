@@ -1,6 +1,7 @@
 ####Verwijderen van een lid
 
-Het mutatiescenario in het leven geroepen om leden te kunnen verwijderen als deze niet meer van toepassing zijn.
+Het mutatiescenario in het leven geroepen om leden binnen een artikel te kunnen verwijderen als deze niet meer van 
+toepassing zijn.
 
 ![](media/Muteren_2C_VerwijderenLid.png)
 
