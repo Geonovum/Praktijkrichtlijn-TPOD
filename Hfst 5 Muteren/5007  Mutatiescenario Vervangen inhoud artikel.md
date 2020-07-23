@@ -1,7 +1,7 @@
 ####Vervangen inhoud van een artikel
 
 Het mutatiescenario in het leven geroepen om de inhoud van artikelen te kunnen wijzigen als deze bijvoorbeeld
-een gewijzigde term als inhoud heeft. Alleen dit deel uit het artikel wordt vervangen voor andere tekst.
+een term bevat die gewijzigd dient te worden. Alleen dit deel uit het artikel wordt vervangen voor andere tekst.
 
 ![](media/Muteren_3A_VervangenInhoudArtikel.png)
 
