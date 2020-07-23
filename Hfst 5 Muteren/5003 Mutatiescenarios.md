@@ -1,6 +1,7 @@
 ####Mutatiescenario's
 
-Uitgewerkte mutatiescenario’s:
+Wijzigingen zijn er in meerdere vormen en op meerdere objecten van toepassing. We spreken hier 
+over mutatiescenario's. Er zijn inmiddels een aantal mutatiescenario’s uitgewerkt, te weten:
 
 -   Omwisselen van artikelen
 -   Verwijderen van een lid
@@ -9,8 +10,7 @@ Uitgewerkte mutatiescenario’s:
 -   Vervangen van inhoud van artikel en OW-activiteit
 -   Vervangen van gehele regeling en OW-activiteit
 
-
-Nog uit te werken mutatiescenario’s:
+Het mutatiescenario die nog uitgewerkt moet worden op korte termijn is:
 
 -   Wijzigen van een GIO i.c.m. OW-annotaties (Gebiedsaanwijzingen, Normen, etc.)
 
