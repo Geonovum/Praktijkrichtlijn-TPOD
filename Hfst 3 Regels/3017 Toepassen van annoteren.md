@@ -25,11 +25,11 @@ inhoudelijke annotaties. De regeltekst bevat de juridische regel(s). In
 technische zin zal een annotatie gekoppeld worden op het niveau van de
 regeltekst.
 
+![](media/3016ToepassenAnnoteren.png)
+*Annoteren juridische regel*
+
 In het DSO-LV zal bij bevraging wel het gehele artikel met leden getoond worden,
 zodat de gebruiker de juridische regels in de juiste en volledige context kan
 interpreteren. Als een juridische regel niet wordt geannoteerd, dan is deze ook
-niet vindbaar in het DSO-LV. Zie onderstaande figuren voor een schematische
+niet vindbaar in het DSO-LV. Zie bovenstaande figuur voor een schematische
 weergave.
-
-![](media/3016ToepassenAnnoteren.png)
-*Annoteren juridische regel*
