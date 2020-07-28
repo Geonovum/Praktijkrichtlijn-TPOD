@@ -9,9 +9,9 @@ een doorlopende versie van het Omgevingsdocument. Dit is de geconsolideerde vers
 
 De volgende zaken zijn te het wijzigen:
 
--   tekst (incl. tabellen en illustraties, etc) en GIO’s
+-   Tekst (incl. tabellen en illustraties, etc) en GIO’s
 
--   regelingen (invoegen, verwijderen, vervanging).
+-   Besluiten/regelingen 
 
 -   OW-objecten
 

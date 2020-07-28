@@ -24,16 +24,6 @@ Binnen het muteren van regeling of besluit zijn de volgende mogelijkheden:
 Bij het wijzigen dient verwezen te worden naar het wId, omdat dit de onveranderlijke 
 identificatie is.
 
-Binnen tekst valt te muteren met:
-
--   Nieuwe tekst
--   Verwijderde tekst	
-	
-
-Om elementen te vervangen kunnen de volgende acties gebruikt worden:
-
--   wijzigactie (verwijder)
--   wijzigactie (voegtoe)
 
 
 
