@@ -15,7 +15,7 @@ Er zijn voor inhoudelijke tekst twee soorten tekststructuren mogelijk:
 
 Onderstaand figuur is een conceptuele weergave van de beide tekststructuren.
 
-![](media/Artikelstructuur_en_Vrijetekststructuur.png) 
+![](media/) 
 
 *Artikelstructuur en vrijetekststructuur*
 
