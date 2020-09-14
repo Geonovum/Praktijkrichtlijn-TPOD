@@ -20,5 +20,3 @@ contextgebonden begrippen, oftewel begrippen die betrekking hebben op slechts
 een bepaald onderwerp in de regeling, op te nemen in een artikel in het
 regelingonderdeel dat over dat onderwerp gaat.
 
-Tot slot bevat de TPOD de eis van een bijlage met daarin alle noemers en
-identificatiecodes.
