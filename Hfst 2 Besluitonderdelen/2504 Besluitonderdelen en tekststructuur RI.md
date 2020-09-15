@@ -8,7 +8,7 @@ Voor de motivering en bijlagen lichtgroen voor vrijetekststructuur buiten het li
 Deze tekststructuur is anders en deze kun je niet annoteren. Ook zijn er onderdelen "uitgegrijsd"
 omdat deze facultatief zijn.
 
-![](media/) 
+![](media/OpbouwReactieveInterventie.png) 
 
 *Besluitonderdelen en hun tekststructuur*
 
