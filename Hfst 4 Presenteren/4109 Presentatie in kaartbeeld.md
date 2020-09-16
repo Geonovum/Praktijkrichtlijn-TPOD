@@ -27,7 +27,9 @@ onderstaande afbeelding.
 *Conceptuele verbeelding van het principe annoteren - symboliseren -
 presenteren*
 
-Bovenstaand voorbeeld laat zien hoe dit principe werkt bij het annoteren van een juridische regel. Het principe is echter generiek en kan daarom ook toegepast worden op de tekstdelen in de inhoud van de omgevingsvisie.
+Bovenstaand voorbeeld laat zien hoe dit principe werkt bij het annoteren van een juridische regel. 
+Het principe is echter generiek en kan daarom ook toegepast worden op de tekstdelen in de inhoud 
+van de omgevingsvisie.
 
 In het voorbeeld zie je een juridische regel waaraan een locatie is gekoppeld:
 gebied A. Ook is in de juridische regel de activiteit geannoteerd: een uitrit
@@ -39,7 +41,8 @@ op de kaart als verbeelding van de activiteit getoond.
 De waarde van het attribuut groep van de annotatie bepaalt dus de symbolisatie
 waarmee de locatie wordt verbeeld op de kaart.
 
-Ditzelfde principe kan ook toegepast worden op bijvoorbeeld de annotatie gebiedsaanwijzing. Het attribuut *groep* is bepalend voor de symbolisatie waarmee een locatie wordt verbeeld op de kaart.
+Ditzelfde principe kan ook toegepast worden op bijvoorbeeld de annotatie gebiedsaanwijzing. 
+Het attribuut *groep* is bepalend voor de symbolisatie waarmee een locatie wordt verbeeld op de kaart.
 
 **Symbolisatiemethoden**
 

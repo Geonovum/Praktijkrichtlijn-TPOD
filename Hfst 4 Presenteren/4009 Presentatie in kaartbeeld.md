@@ -70,5 +70,5 @@ een kaartbeeld in een viewer weer te geven:
 
 4.  Werkingsgebieden.
 
-Een uitleg over de vier symbolisatiemethoden met voorbeelden vind je in
+Een uitleg over de symbolisatiemethoden met voorbeelden vind je in
 hoofdstuk 3 van het presentatiemodel.

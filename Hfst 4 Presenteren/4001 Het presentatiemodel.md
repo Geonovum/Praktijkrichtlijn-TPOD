@@ -11,6 +11,4 @@ Het presentatiemodel beschrijft de richtlijnen ten aanzien van het presenteren
 van omgevingsdocumenten. Het model gaat in op het presenteren van tekst en het
 presenteren van geometrie en annotaties.
 
-Lees
-[hier](https://geonovum.github.io/TPOD/Presentatiemodel/Presentatiemodel%20STOPTPOD%20v0.98.1-kern.pdf)
-het presentatiemodel.
+Het presentatiemodel 1.0 staat rechts hiernaast vermeld bij de uitstapjes.

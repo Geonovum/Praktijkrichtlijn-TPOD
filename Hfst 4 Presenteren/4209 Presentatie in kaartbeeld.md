@@ -12,7 +12,8 @@ en kunnen daarom gebruikt worden om een geometrie te verbeelden:
 
 -   Omgevingsnorm.
 
-In deel 1 van het projectbesluit kan alleen geannoteerd worden met de gebiedsaanwijzing. In deel 2 van het projectbesluit kunnen alle bovenstaande annotaties gebruikt worden.
+In deel 1 van het projectbesluit kan alleen geannoteerd worden met de gebiedsaanwijzing. 
+In deel 2 van het projectbesluit kunnen alle bovenstaande annotaties gebruikt worden.
 
 In het presentatiemodel worden deze inhoudelijke annotaties en hun attribuut
 *groep* gebruikt om te bepalen met welke symboliek (kleur/arcering) een locatie
@@ -27,7 +28,9 @@ onderstaande afbeelding.
 *Conceptuele verbeelding van het principe annoteren - symboliseren -
 presenteren*
 
-Bovenstaand voorbeeld laat zien hoe dit principe werkt bij het annoteren van een juridische regel. Het principe is echter generiek en kan daarom ook toegepast worden op de tekstdelen in het eerste deel van het projectbesluit.
+Bovenstaand voorbeeld laat zien hoe dit principe werkt bij het annoteren van een juridische regel. 
+Het principe is echter generiek en kan daarom ook toegepast worden op de tekstdelen in het eerste 
+deel van het projectbesluit.
 
 In het voorbeeld zie je een juridische regel waaraan een locatie is gekoppeld:
 gebied A. Ook is in de juridische regel de activiteit geannoteerd: een uitrit
@@ -74,5 +77,5 @@ een kaartbeeld in een viewer weer te geven:
 
 4.  Werkingsgebieden.
 
-Een uitleg over de vier symbolisatiemethoden met voorbeelden vind je in
+Een uitleg over de symbolisatiemethoden met voorbeelden vind je in
 hoofdstuk 3 van het presentatiemodel.

@@ -35,4 +35,4 @@ Op de volgende pagina of bij het onderwerp Locatie en werkingsgebied vind je uit
 
 Verder is het mogelijk om de regeltekst te annoteren. Annoteren is noodzakelijk om het bevragen van de regels in DSO-LV 
 mogelijk te maken. Ook is het annoteren nodig om de regels op een betekenisvolle manier te verbeelden op de kaart in DSO-LV. 
-Meer informatie over annoteren in relatie tot presenteren vind je in paragraaf 2.1 van het [presentatiemodel](https://geonovum.github.io/TPOD/Presentatiemodel/Presentatiemodel%20STOPTPOD%20v0.98-kern.pdf).
+Meer informatie over annoteren in relatie tot presenteren vind je in paragraaf 2.1 van het [presentatiemodel](https://geonovum.github.io/TPOD/Presentatiemodel/Presentatiemodel%20TPOD%20v1.0.pdf).

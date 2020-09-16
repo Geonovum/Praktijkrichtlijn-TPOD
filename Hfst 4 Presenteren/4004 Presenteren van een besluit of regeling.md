@@ -12,7 +12,7 @@ zodat duidelijk is welke informatie als onderdeel van het besluit is
 vastgesteld. Het presentatiemodel legt de verbinding tussen het informatieobject
 en het besluit door een mensleesbare tekstuele aanduiding van het informatieobject in de tekst op te nemen.
 Op deze wijze wordt het informatieobject onderdeel van het besluit en krijgt het
-juridische status.
+een juridische status.
 
 ![](media/4004PresentatiemodelVerwijzenNaarGIO.jpg)
 

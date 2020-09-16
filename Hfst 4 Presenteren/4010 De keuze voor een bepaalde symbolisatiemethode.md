@@ -34,6 +34,4 @@ symbolenbibliotheek in het presentatiemodel sluit wel zo veel mogelijk aan op de
 verbeelding van ruimtelijke plannen.
 
 De meest recente versie van de symbolenbibliotheek, symbolisatietabellen en
-implementatiebestanden vind je op de [Geonovum
-website](https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD) bij de
-documentatie over het presentatiemodel.
+implementatiebestanden vind je rechts hiernaast bij de uitstapjes.
